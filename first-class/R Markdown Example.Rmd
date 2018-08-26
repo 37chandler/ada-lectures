@@ -1,0 +1,76 @@
+---
+title: "A Minimal Example"
+author: "John Chandler"
+date: "September 4, 2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# A short R Markdown example
+
+A quote:
+
+> R Markdown provides an authoring framework for data science.
+
+To compile this, just click the `Knit` button in R Studio.
+You can actually see it rendered [here](https://github.com/37chandler/ada-first-class/blob/master/R%20Markdown%20Example.Rmd).
+
+## code chunks
+
+A _paragraph_ here. A code chunk below (remember the three backticks):
+
+```{r}
+1+1
+.4-.7+.3 # what? it is not zero!
+```
+
+## graphics
+
+Graphics are pretty easy.
+
+```{r}
+data(mtcars)
+plot(mtcars$disp,mtcars$mpg)
+hist(rnorm(1000))
+```
+
+## inline code
+
+Inline code is designated by single backticks. So we made that
+`mtcars` plot with `plot(mtcars$disp,mtcars$mpg)`. 
+
+## math
+
+Sigh. You cannot live without math equations. OK, here we go: $\alpha+\beta=\gamma$. Note this is not supported by native markdown. You probably want to try RStudio, or at least the R package **markdown**, or the function `knitr::knit2html()`.
+
+## nested code chunks
+
+You can write code within other elements, e.g. a list
+
+1. Here's one item. 
+    ```{r}
+    strsplit('hello indented world', ' ')[[1]]
+    ```
+2. And here's another.
+
+Or inside blockquotes:
+
+> Here is a quote, followed by a code chunk:
+>
+> ```{r}
+> x = 1:10
+> rev(x^2)
+> ```
+
+## conclusion
+
+We'll do more of this, but now you've got an example. 
+
+There's a comprehensive introduction on the R Studio
+R Markdown [site](http://rmarkdown.rstudio.com/lesson-1.html).
