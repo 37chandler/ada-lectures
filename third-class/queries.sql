@@ -109,3 +109,52 @@ WHERE (Year = 2015 or Year = 2016) and
 GROUP BY Description, Year
 ORDER BY Spend
 
+-- Change between 2014 and 2015
+
+DROP TABLE IF EXISTS Data2015
+DROP TABLE IF EXISTS Data2014
+
+CREATE TEMP TABLE 
+IF NOT EXISTS
+    Data2015 AS
+    SELECT LOWER(Description) as Description
+        ,sum(Spend) as Spend2015
+    FROM ProdSales
+    WHERE year = 2015
+    GROUP BY LOWER(Description)
+
+CREATE TEMP TABLE 
+IF NOT EXISTS
+    Data2014 AS
+    SELECT LOWER(Description) as Description
+        ,sum(Spend) as Spend2014
+    FROM ProdSales
+    WHERE year = 2014
+    GROUP BY LOWER(Description)
+
+SELECT a.Description
+    ,Spend2014
+    ,Spend2015
+    ,Spend2015/Spend2014 as Change
+FROM Data2015 a
+INNER JOIN Data2014 as b on a.Description = b.Description
+ORDER by Change Desc
+
+
+-- Now just for top 100 products in 2014
+
+
+SELECT a.Description
+    ,Spend2014
+    ,Spend2015
+    ,Spend2015/Spend2014 as Change
+FROM Data2015 a
+INNER JOIN Data2014 as b on a.Description = b.Description
+WHERE a.Description in (
+    SELECT Description 
+    FROM Data2014
+    ORDER BY Spend2014 DESC
+    LIMIT 100)
+ORDER by Change Desc
+
+
