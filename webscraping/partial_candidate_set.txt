@@ -1,0 +1,613 @@
+student	state	district_num	formatted_dist_num	abbrev	district	candidate	party	website	twitter handle	incumbent	age	gender	marital_status	white_non_hispanic	hispanic	black	partisian_lean_pvi	opposed	pct_urban	income	region
+alex	Hawaii	1	01	HI	HI01	Zachary Burd 	Green	https://www.zachburdlaw.com/	burd_zach	No		Male	Single	T	F	F	D+17	Yes	99.27	65,602	W
+alex	Hawaii	1	01	HI	HI01	Ed Case 	Democratic	https://www.edcase.com/	EdCaseHawaii	No		Male	Married	T	F	F	D+17	Yes	99.27	65602	W
+alex	Hawaii	1	01	HI	HI01	Campbell Cavasso 	Republican	https://www.cam4congress.com/	camcavasso	No		Male	Married	T	F	F	D+17	Yes	99.27	65602	W
+alex	Hawaii	1	01	HI	HI01	Michelle Tippens 	Libertarian	https://www.michelleindahouse.com/	michelletippens	No		Female	Married	T	F	F	D+17	Yes	99.27	65602	W
+alex	Illinois	12	12	IL	IL12	Randall Auxier 	Green	https://randyforcongress.org/	Randy4SoIL	No		Male	Married	T	F	F	R+5	Yes	75.4	42181	MW
+alex	Illinois	12	12	IL	IL12	Mike Bost 	Republican	https://bost.house.gov/	RepBost	Yes	57	Male	Married	T	F	F	R+5	Yes	75.4	42181	MW
+alex	Illinois	12	12	IL	IL12	Brendan Kelly 	Democratic	https://brendan4southernil.com/	Kelly4SouthrnIL	No	41	Male	Married	T	F	F	R+5	Yes	75.4	42181	MW
+alex	Illinois	16	16	IL	IL16	Sara Dady 	Democratic	https://www.saradadyforcongress.com/	Sara4Congress	No		Female	Married	T	F	F	R+8	Yes	71	52,101	MW
+alex	Illinois	16	16	IL	IL16	Adam Kinzinger 	Republican	https://kinzinger.house.gov/	RepKinzinger	Yes	40	Male	Married	T	F	F	R+8	Yes	71	52101	MW
+alex	Iowa	3	03	IA	IA03	Cindy Axne 	Democratic	https://cindyaxneforcongress.com/	Axne4Congress	No		Female	Married	T	F	F	R+18	Yes	73.07	43176	MW
+alex	Iowa	3	03	IA	IA03	Mark G Elworth, Jr 	Legal Medical Now	markjr4gov.com	markjr4gov	No		Male	Married	T	F	F	R+18	Yes	73.07	43176	MW
+alex	Iowa	3	03	IA	IA03	Bryan Jack Holder 	Libertarian	http://www.holderforiowa.com/		No		Male	Single	T	F	F	R+18	Yes	73.07	43176	MW
+alex	Iowa	3	03	IA	IA03	Paul Knupp 	Green	https://knuppforcongress.org/	dr_paul_knupp	No		Male	Single	T	F	F	R+18	Yes	73.07	43176	MW
+alex	Iowa	3	03	IA	IA03	David Young 	Republican	https://davidyoung.house.gov/	RepDavidYoung	Yes	50	Male	Single	T	F	F	R+18	Yes	73.07	43176	MW
+alex	Nebraska	3	03	NE	NE03	Adrian Smith 	Republican	https://adriansmith.house.gov/	RepAdrianSmith	Yes	47	Male	Married	T	F	F	R+27	Yes	46.21	33866	MW
+alex	Nebraska	3	03	NE	NE03	Paul Theobald 	Democratic	https://www.theobaldforcongress.com/	Paul_Theobald_	No		Male	Married	T	F	F	R+27	Yes	46.21	33866	MW
+alex	New Jersey	5	05	NJ	NJ05	Josh Gottheimer 	Democratic	https://josh4congress.com/	JoshGottheimer	Yes	43	Male	Married	T	F	F	R+8	Yes	82.83	72781	NE
+alex	New Jersey	5	05	NJ	NJ05	John McCann 	Republican	https://www.mccannforcongress.com/	realJohnMccan	No		Male	Married	T	F	F	R+8	Yes	82.83	72781	NE
+alex	New York	6	06	NY	NY06	Tom Hillgardner 	Green	http://www.tomhillgardnerforcongress.org/	Tom4CongressNY6	No	60	Male	Single	T	F	F	D+16	Yes		55043	NE
+alex	New York	6	06	NY	NY06	Grace Meng 	Democratic	https://meng.house.gov/	RepGraceMeng	Yes	43	Female	Married	F	F	F	D+16	Yes		55043	NE
+alex	New York	24	24	NY	NY24	Dana Balter 	Democratic	https://electdanabalter.com/	dana_balter	No		Female	Married	T	F	F	D+3	Yes		51724	NE
+alex	New York	24	24	NY	NY24	Bill Bass 	Independent	https://www.billbassforcongress.com/	BillforNY24	No	34	Male	Married	T	F	F	D+3	Yes		51724	NE
+alex	New York	24	24	NY	NY24	John Katko 	Republican	https://katko.house.gov/	RepJohnKatko	Yes	55	Male	Married	T	F	F	D+3	Yes		51724	NE
+alex	North Carolina	8	08	NC	NC08	Richard Hudson 	Republican	https://hudson.house.gov/	RepRichHudson	Yes	46	Male	Married	T	F	F	R+8	Yes	71.28	38390	S
+alex	North Carolina	8	08	NC	NC08	Frank McNeill 	Democratic	https://mcneill4congress.com/	Frank4NC	No		Male	Married	T	F	F	R+8	Yes	71.28	38390	S
+anna	Arizona	8	08	AZ	AZ08	Debbie Lesko 	Republican	https://lesko.house.gov/	RepDLesko	Yes	59	F	Married	T	F	F	R+13	Yes	87.3	40656	W
+anna	Arizona	8	08	AZ	AZ08	Hiral Tipirneni 	Democratic	http://hiralforcongress.com/	hiral4congress	No	51	F	Married	F	F	F	R+13	Yes	87.3	40656	W
+anna	Arizona	9	09	AZ	AZ09	Steve Ferrara 	Republican	https://ferraraforcongress.com/	steveferraramd	No	49	M	Married	T	F	F	D+4	Yes		56598	W
+anna	Arizona	9	09	AZ	AZ09	Greg Stanton 	Democratic	http://stantonforarizona.com/	MayorStanton	No	48	M	Married	T	F	F	D+4	Yes		56598	W
+anna	Arkansas	2	02	AR	AR02	French Hill 	Republican	http://hill.house.gov/	RepFrenchHill	Yes	61	M	Married	T	F	F	R+7	Yes	66.2	37221	S
+anna	Arkansas	2	02	AR	AR02	Joe Ryne Swafford 	Libertarian	http://www.joeswafford4congress.com/	joeswaff4cong	No		M		T	F	F	R+7	Yes	66.2	37221	S
+anna	Arkansas	2	02	AR	AR02	Clarke Tucker 	Democratic	https://www.clarketucker.com/	clarketucker	No	37	M	Married	T	F	F	R+7	Yes	66.2	37221	S
+anna	California	30	30	CA	CA30	Mark Reed 	Republican	http://www.markreedforcongress.com/	MarkReed2014	No	61	M	Married	T	F	F	D+18	Yes		88314	W
+anna	California	30	30	CA	CA30	Brad Sherman 	Democratic	https://sherman.house.gov/	BradSherman	Yes	63	M	Married	T	F	F	D+18	Yes		88314	W
+anna	California	31	31	CA	CA31	Pete Aguilar 	Democratic	https://aguilar.house.gov/	RepPeteAgular	Yes	39	M	Married	F	T	F	D+8	Yes		50882	W
+anna	California	31	31	CA	CA31	Sean Flynn 	Republican	https://seanflynnforcongress.com/	SeanFlynnCA	No	45	M		F	F	F	D+8	Yes		50882	W
+anna	California	47	47	CA	CA47	John Briscoe 	Republican	https://johnbriscoe.us/	johnfbriscoe	No		M	Married	T	F	F	D+13	Yes		55590	W
+anna	California	47	47	CA	CA47	Alan Lowenthal 	Democratic	http://lowenthal.house.gov/	RepLowenthal	Yes	77	M	Married	T	F	F	D+13	Yes		55590	W
+anna	California	52	52	CA	CA52	Scott Peters 	Democratic	https://scottpeters.house.gov/	RepScottPeters	Yes	60	M	Married	T	F	F	D+6	Yes		82286	W
+anna	California	52	52	CA	CA52	Omar Qudrat 	Republican	https://www.electomar.com/	omarqudrat1	No		M	Single	F	F	F	D+6	Yes		82286	W
+anna	Florida	21	21	FL	FL21	Lois Frankel 	Democratic	https://frankel.house.gov/	RepLoisFrankel	Yes	70	F	Divorced	F	T	F	D+9	No	99.44	51757	S
+anna	Florida	24	24	FL	FL24	Frederica Wilson 	Democratic	https://wilson.house.gov/	RepWilson	Yes	75	F	Divorced	F	F	T	D+34	No	100	38016	S
+anna	Georgia	13	13	GA	GA13	David Callahan 	Republican	https://www.callahan4ga.com/	DavidCa46446866	No	67	M	Divorced	T	F	F	D+20	Yes	93.83	47004	S
+anna	Georgia	13	13	GA	GA13	Martin Cowen 	Libertarian	http://www.cowenforcongress.com/?p=8	mlcowen	No		M		T	F	F	D+20	Yes	93.83	47004	S
+anna	Georgia	13	13	GA	GA13	David Scott 	Democratic	https://davidscott.house.gov/	RepDavidScott	Yes	73	M	Married	F	F	T	D+20	Yes	93.83	47004	S
+anna	Idaho	2	02	ID	ID02	Mike Simpson 	Republican	https://simpson.house.gov/	CongMikeSimpson	Yes	68	M	Married	T	F	F	R+17	Yes	67.03	46943	W
+anna	Idaho	2	02	ID	ID02	Aaron Swisher 	Democratic	https://swisherforidaho.com/	SwisherforIdaho	No		M	Married	T	F	F	R+17	Yes	67.03	46943	W
+anna	Illinois	15	15	IL	IL15	Kevin Gaither 	Democratic	https://gaither4il.com/	Gaither4IL	No		M	Single	T	F	F	R+21	Yes	48.6	45122	MW
+anna	Illinois	15	15	IL	IL15	John Shimkus 	Republican	https://johnshimkus.com/	RepShimkus	Yes	60	M	Married	T	F	F	R+21	Yes	48.6	45122	MW
+anna	Indiana	4	04	IN	IN04	Jim Baird 	Republican	http://www.electjimbaird.com/	ElectJimBaird	No	72	M	Married	T	F	F	R+17	Yes	68.17	45947	MW
+anna	Indiana	4	04	IN	IN04	Tobi Beck 	Democratic	http://www.beck4indiana.org/	beckforindiana	No		F	Married	T	F	F	R+17	Yes	68.17	45947	MW
+anna	Indiana	9	09	IN	IN09	Trey Hollingsworth 	Republican	https://hollingsworth.house.gov/	RepTrey	Yes	35	M	Married	T	F	F	R+13	Yes		48522	MW
+anna	Indiana	9	09	IN	IN09	Liz Watson 	Democratic	https://lizforindiana.com/	LizForIndiana	No	42	F	Married	T	F	F	R+13	Yes		48522	MW
+anna	Kansas	2	02	KS	KS02	Paul Davis 	Democratic	https://www.davisforkansas.com/	PaulDavisKS	No	46	M	Married	T	F	F	R+10	Yes	59.73	50087	MW
+anna	Kansas	2	02	KS	KS02	Kelly Standley 	Libertarian	https://www.facebook.com/standley4congress/	kestand	No		M		T	F	F	R+10	Yes	59.73	50087	MW
+anna	Kansas	2	02	KS	KS02	Steve Watkins 	Republican	https://steveforkansas.com/	Steve4Kansas	No		M		T	F	F	R+10	Yes	59.73	50087	MW
+anna	Kentucky	4	04	KY	KY04	David Goodwin 	Independent	https://www.voteforgood.win/	ky4goodwin	No		M	Married	T	F	F	R+18	Yes	68.2	60912	S
+anna	Kentucky	4	04	KY	KY04	Seth Hall 	Democratic	https://www.sethhallcongress.com/	HallCongress	No		M		T	F	F	R+18	Yes	68.2	60912	S
+anna	Kentucky	4	04	KY	KY04	Thomas Massie 	Republican	https://massie.house.gov/	RepThomasMassie	Yes	47	M	Married	T	F	F	R+18	Yes	68.2	60912	S
+anna	Kentucky	5	05	KY	KY05	Hal Rogers 	Republican	https://halrogers.house.gov/	RepHalRogers	Yes	80	M	Married	T	F	F	R+31	Yes	23.52	30585	S
+anna	Kentucky	5	05	KY	KY05	Kenneth Stepp 	Democratic	http://steppforcongress.blogspot.com/	ppetsnek	No	71	M	Married	T	F	F	R+31	Yes	23.52	30585	S
+anna	Louisiana	3	03	LA	LA03	Rob Anderson 	Democratic	https://www.robjonanderson.com/	RobAnderson2018	No		M	Married	T	F	F	R+20	Yes	73.4	44668	S
+anna	Louisiana	3	03	LA	LA03	Aaron Andrus 	Libertarian	http://www.andrus4congress.com/	aaron4liberty	No	45	M	Married	T	F	F	R+20	Yes	73.4	44668	S
+anna	Louisiana	3	03	LA	LA03	Josh Guillory 	Republican	http://www.votejosh2018.com/	votejosh2018	No		M	Married	T	F	F	R+20	Yes	73.4	44668	S
+anna	Louisiana	3	03	LA	LA03	Clay Higgins 	Republican	https://clayhiggins.house.gov/	RepClayHiggins	Yes	57	M	Married	T	F	F	R+20	Yes	73.4	44668	S
+anna	Louisiana	3	03	LA	LA03	Mimi Methvin 	Democratic	https://votemimi.org/	VoteMimi	No		F		T	F	F	R+20	Yes	73.4	44668	S
+anna	Louisiana	3	03	LA	LA03	Larry Rader 	Democratic	https://www.larryraderforcongress.com/	votelarryrader	No		M		F	F	T	R+20	Yes	73.4	44668	S
+anna	Louisiana	3	03	LA	LA03	Verone Thomas 	Democratic	http://www.thomasishonest.com/	Verone4Congress	No		M		F	F	T	R+20	Yes	73.4	44668	S
+anna	Maryland	7	07	MD	MD07	Elijah Cummings 	Democratic	https://cummings.house.gov/	RepCummings	Yes	67	M	Married	F	F	T	D+26	Yes	95	38885	S
+anna	Maryland	7	07	MD	MD07	Richmond Davis 	Republican	https://www.davisforcongress2018.com/	Davis4Maryland	No		M	Married	T	F	F	D+26	Yes	95	38885	S
+anna	Maryland	7	07	MD	MD07	Swami Swaminathan 	Independent	http://swamiforcongress.com/		No		M	Married	F	F	F	D+26	Yes	95	38885	S
+anna	Michigan	1	01	MI	MI01	Jack Bergman 	Republican	https://bergman.house.gov/	RepJackBergman	Yes	71	M	Married	T	F	F	R+9	Yes	36.58	46927	MW
+anna	Michigan	1	01	MI	MI01	Matt Morgan 	Democratic	https://mattmorganformichigan.com/	MorganforMI	No		M	Married	T	F	F	R+9	Yes	36.58	46927	MW
+anna	Michigan	13	13	MI	MI13	Rashida Tlaib 	Democratic	https://www.rashidaforcongress.com/	RashidaTlaib	No	42	F	Divorced	F	F	F	D+32	No	100	29863	MW
+anna	Minnesota	8	08	MN	MN08	Joe Radinovich 	Democratic	https://www.joeradinovich.com/	joeradinovich	Yes	32	M		T	F	F	R+4	Yes	38.47	53676	MW
+anna	Minnesota	8	08	MN	MN08	Ray "Skip" Sandman 	Independence	https://skipsandman.com/	Vote4Sandman	No		M		F	F	F	R+4	Yes	38.47	53676	MW
+anna	Minnesota	8	08	MN	MN08	Pete Stauber 	Republican	https://petestauberforcongress.com/	PeteStauber	No	52	M	Married	T	F	F	R+4	Yes	38.47	53676	MW
+anna	Mississippi	2	02	MS	MS02	Troy Ray 	Independent	https://icanrebuildamerica.com/p/vote	repTroyRay	No		M					D+14	Yes	62.67	26894	S
+anna	Mississippi	2	02	MS	MS02	Bennie Thompson 	Democratic	https://benniethompson.house.gov/	BennieGThompson	Yes	70	M	Married	F	F	T	D+14	Yes	62.67	26894	S
+anna	Missouri	1	01	MO	MO01	Lacy Clay 	Democratic	https://lacyclay.house.gov/	LacyClayMO1	Yes	62	M	Divorced	F	F	T	D+29	Yes	99.21	36314	MW
+anna	Missouri	1	01	MO	MO01	Robb Cunningham 	Libertarian	https://www.facebook.com/RobbLibertarian/		No		M					D+29	Yes	99.21	36314	MW
+anna	Missouri	1	01	MO	MO01	Robert Vroman 	Republican	https://www.facebook.com/VoteVroman/		No		M		T	F	F	D+29	Yes	99.21	36314	MW
+anna	Nevada	2	02	NV	NV02	Mark Amodei 	Republican	https://amodei.house.gov/	MarkAmodeiNV2	Yes	60	M		T	F	F	R+7	Yes		51505	W
+anna	Nevada	2	02	NV	NV02	Clint Koble 	Democratic	https://www.clintforcongress.com/	Clint4Congress	No		M		T	F	F	R+7	Yes		51505	W
+anna	New Mexico	3	03	NM	NM03	Ben Ray Luján 	Democratic	https://lujan.house.gov/	repbenraylujan	Yes	46	M		F	T	F	D+8	Yes	62.7	35058	W
+anna	New Mexico	3	03	NM	NM03	Christopher Manning 	Libertarian	https://chrismanningforcongress.nationbuilder.com/	Manning4USCong	No		M		T	F	F	D+8	Yes	62.7	35058	W
+anna	New Mexico	3	03	NM	NM03	Jerald McFall 	Republican	https://www.mcfallforcongress.com/	jstevemcfall	No	53	M		T	F	F	D+8	Yes	62.7	35058	W
+anna	North Carolina	4	04	NC	NC04	Barbara Howe 	Libertarian	http://barbarahowe.net/	barbarahowe	No		F		T	F	F	D+17	Yes		70587	S
+anna	North Carolina	4	04	NC	NC04	David Price 	Democratic	https://price.house.gov/	RepDavidEPrice	Yes	78	M	Married	T	F	F	D+17	Yes		70587	S
+anna	North Carolina	4	04	NC	NC04	Steve Von Loor 	Republican	http://steveavonloor.org/	steveavonloor	No	40	M	Married	F	T	F	D+17	Yes		70587	S
+anna	North Carolina	5	05	NC	NC05	DD Adams 	Democratic	https://ddadamsforcongress.com/	DDAdamsCongress	No	64	F		F	F	T	R+10	Yes	58.99	39710	S
+anna	North Carolina	5	05	NC	NC05	Virginia Foxx 	Republican	https://foxx.house.gov/	virginiafoxx	Yes	75	F	Married	T	F	F	R+10	Yes	58.99	39710	S
+bobby	Alabama	2	02	AL	AL02	Tabitha Isner 	Democratic	https://tabithaisner.com/meet-tabitha/	TabithaK	No	37	F	Married	T	F	F	R+16	Yes	54.71	42035	S
+bobby	Alabama	2	02	AL	AL02	Martha Roby 	Republican	https://roby.house.gov/	RepMarthaRoby	Yes	42	F	Married	T	F	F	R+16	Yes	54.71	42035	S
+bobby	California	18	18	CA	CA18	Anna Eshoo 	Democratic	https://eshoo.house.gov/	RepAnnaEshoo	Yes	75	F	Single	T	F	F	D+23	Yes	22.9	125000	W
+bobby	California	36	36	CA	CA36	Kimberlin Brown Pelzer	Republican	https://www.kimberlinforcongress.com/	KimberlinBrown	No	57	F	Married	T	F	F	D+2	Yes	4.2	46471	W
+bobby	California	36	36	CA	CA36	Raul Ruiz 	Democratic	https://ruiz.house.gov/	CongressmanRuiz	Yes	46	M	Married	T	F	F	D+2	Yes	4.2	46471	W
+bobby	California	53	53	CA	CA53	Susan Davis 	Democratic	https://susandavis.house.gov/	RepSusanDavis	yes	74	F	Married	T	F	F	D+14	Yes	88.9	61021	W
+bobby	California	53	53	CA	CA53	Morgan Murtaugh 	Republican	http://morganmurtaugh.com/	MorganMurtaugh	No	25	F	Single	T	F	F	D+14	Yes	88.9	61021	W
+bobby	Colorado	5	05	CO	CO05	Doug Lamborn 	Republican	https://lamborn.house.gov/	RepDLamborn	Yes	64	M	Married	T	F	F	R+14	Yes	86.44	53691	W
+bobby	Colorado	5	05	CO	CO05	Stephany Rose Spaulding 	Democratic	https://www.stephanyroseforcongress.com/	StephanyForCo	No	40	F	Single	F	F	T	R+14	Yes	86.44	53691	W
+bobby	Florida	4	04	FL	FL04	Joceline Berrios 	No Party Affiliation	https://berrios4congress.com/	berriojo1	No	56	F	Single	T	F	F	R+17	Yes	87.4	43947	S
+bobby	Florida	4	04	FL	FL04	Jason Bulger 	No Party Afiliation	http://jasonbulgerforcongress.com/	jason_bulger	No	30	M	Married	T	F	F	R+17	Yes	87.4	43947	S
+bobby	Florida	4	04	FL	FL04	John Rutherford 	Republican	https://rutherford.house.gov/	RepRutherforFl	Yes	66	M	Married	T	F	F	R+17	Yes	87.4	43947	S
+bobby	Florida	4	04	FL	FL04	Ges Selmont 	Democratic	https://selmontforcongress.com/	vote4ges	No		M	Married	T	F	F	R+17	Yes	87.4	43947	S
+bobby	Florida	16	16	FL	FL16	Vern Buchanan 	Republican	https://buchanan.house.gov/	VernBuchanan	Yes	67	M	Married	T	F	F	R+7	Yes	94.26	47827	S
+bobby	Florida	16	16	FL	FL16	David Shapiro 	Democratic	https://voteshapiro2018.com/	Shapiro4FL16	No		M	Married	T	F	F	R+7	Yes	94.26	47827	S
+bobby	Florida	22	22	FL	FL22	Ted Deutch 	Democratic	https://teddeutch.house.gov/	RepTedDeutch	Yes	52	M	Married	T	F	F	D+6	Yes	100	51200	S
+bobby	Florida	22	22	FL	FL22	Nicolas Kimaz 	Republican	http://www.kimazforcongress.com/	NicolasKimazFL	No	55	M	Married	T	F	F	D+6	Yes	100	51200	S
+bobby	Georgia	6	06	GA	GA06	Karen Handel 	Republican	https://handel.house.gov/	karenhandel	Yes	56	F	Married	T	F	F	R+8	Yes	99.77	49600	S
+bobby	Georgia	6	06	GA	GA06	Lucy McBath 	Democratic	https://lucyforcongress.com/	lucywins2018	No	58	F	Married	F	F	T	R+8	Yes	99.77	49600	S
+bobby	Georgia	6	06	GA	GA06	Jeremy "Carlton Heston" Stubbs 	Write-in	https://pseudonymphet.net/carlton/platform/	carltonHouseton	No		M	Single	T	F	F	R+8	Yes	99.77	49600	S
+bobby	Georgia	11	11	GA	GA11	Flynn Broady 	Democratic	https://flynnbroady.com/	flynnbraodyjr	No	57	M	Married	F	F	T	R+17	Yes	96.1	55813	S
+bobby	Georgia	11	11	GA	GA11	Barry Loudermilk 	Republican	https://loudermilk.house.gov/	RepLouderMilk	Yes	54	M	Single	T	F	F	R+17	Yes	96.1	55813	S
+bobby	Hawaii	2	02	HI	HI02	Brian Evans 	Republican	https://www.brianevansforcongress.com/	becongress	No	48	M	Single	T	F	F	D+19	Yes	83.65	48686	W
+bobby	Hawaii	2	02	HI	HI02	Tulsi Gabbard 	Democratic	https://gabbard.house.gov/	TulsiGabbard	Yes	37	F	Married	T	F	F	D+19	Yes	83.65	48686	W
+bobby	Illinois	5	05	IL	IL05	Tom Hanson 	Republican	https://www.ourcampaigns.com/CandidateDetail.html?CandidateID=181567		No	64	M	Married	T	F	F	D+20	Yes	100	62632	MW
+bobby	Illinois	5	05	IL	IL05	Mike Quigley 	Democratic	https://quigley.house.gov/	repMikeQuigley	Yes	59	M	Married	T	F	F	D+20	Yes	100	62632	MW
+bobby	Illinois	10	10	IL	IL10	Douglas Bennett 	Republican	https://www.il10.org/	DougRBennett	No											MW
+bobby	Illinois	10	10	IL	IL10	Brad Schneider 	Democratic	https://schneider.house.gov/	RepSchneider	Yes	57	M	Married	T	F	F	D+10	Yes	99.7	65864	MW
+bobby	Illinois	17	17	IL	IL17	Cheri Bustos 	Democratic	https://bustos.house.gov/	RepCheri	Yes	56	F	Married	T	F	F	D+3	Yes	73.3	41194	MW
+bobby	Illinois	17	17	IL	IL17	Bill Fawell 	Republican	https://www.electfawell.com/	WmFawell	No		M	Single	T	F	F	D+3	Yes	73.3	41194	MW
+bobby	Kansas	1	01	KS	KS01	Alan LaPolice 	Democratic	https://alanlapolice.com/	AlanLaPolice	No	46	M	Married	T	F	F	R+24	Yes		45540	MW
+bobby	Kansas	1	01	KS	KS01	Roger Marshall 	Republican	https://marshall.house.gov/	RogerMarshallMD	Yes	58	M	Married	T	F	F	R+24	Yes		45540	MW
+bobby	Louisiana	6	06	LA	LA06	Justin DeWitt 	Democratic	https://www.dewittforcongress.com/	Dewitt4Congress	No		M	Single	T	F	F	R+19	Yes	78.12	59270	S
+bobby	Louisiana	6	06	LA	LA06	Garret Graves 	Republican	https://garretgraves.house.gov/	RepGarretGraves	Yes	46	M	Married	T	F	F	R+19	Yes	78.12	59270	S
+bobby	Louisiana	6	06	LA	LA06	Andie Saizan 	Democratic	https://www.voteandie.com/	andisaizan	No		F	Married	T	F	F	R+19	Yes	78.12	59270	S
+bobby	Maryland	3	03	MD	MD03	David Lashar 	Libertarian	https://lashar2018.us/profile/	DLashar	No	55	M	Married	T	F	F	D+13	Yes	98.4	52906	S
+bobby	Maryland	3	03	MD	MD03	John Sarbanes 	Democratic	https://sarbanes.house.gov/	RepSarbanes	Yes	56	M	Married	T	F	F	D+13	Yes	98.4	52906	S
+bobby	Massachusetts	6	06	MA	MA06	Seth Moulton 	Democratic	https://moulton.house.gov/	sethmoulton	Yes	39	M	Married	T	F	F	D+6	Yes	63.15	76942	NE
+bobby	Massachusetts	6	06	MA	MA06	Joseph Schneider 	Republican	https://joeschneiderforcongress.com/	JoeSchneiderMA	No		M	Single	T	F	F	D+6	Yes	63.15	76942	NE
+bobby	Michigan	11	11	MI	MI11	Lena Epstein 	Republican	https://lenaforcongress.com/	LenaEpstein	No	36	F	Single	T	F	F	R+4	Yes		69397	MW
+bobby	Michigan	11	11	MI	MI11	Cooper Nye 	Independent	https://coopforcongress.com/	Coop4Congress	No		M	Single	T	F	F	R+4	Yes		69397	MW
+bobby	Michigan	11	11	MI	MI11	Leonard Schwartz 	Libertarian	http://www.leonardschwartz.us/	LenSchwartz3	No		M	Single	T	F	F	R+4	Yes		69397	MW
+bobby	Michigan	11	11	MI	MI11	Haley Stevens 	Democratic	https://haleystevensforcongress.com/	HaleyLive	No		F	Single	T	F	F	R+4	Yes		69397	MW
+bobby	Michigan	14	14	MI	MI14	Brenda Lawrence 	Democratic	https://lawrence.house.gov/	RepLawrence	Yes	63	F	Married	F	F	T	D+30	Yes			MW
+bobby	Missouri	2	02	MO	MO02	David Justus Arnold 	Green	https://electdavidarnold.weebly.com/		No	60	M	Single	T	F	F	R+8	Yes	69.6		MW
+bobby	Missouri	2	02	MO	MO02	Cort VanOstran 	Democratic	https://cortforcongress.com/	cortvo	No		M	Single	T	F	F	R+8	Yes	69.6		MW
+bobby	Missouri	2	02	MO	MO02	Ann Wagner 	Republican	https://wagner.house.gov/	RepAnnWagner	Yes	56	F	Married	T	F	F	R+8	Yes	69.6		MW
+bobby	New Jersey	3	03	NJ	NJ03	Andy Kim 	Democratic	https://andykimforcongress.com/	AnyKimNJ	No		M	Married	F	F	F	R+2	Yes	96.17		NE
+bobby	New Jersey	3	03	NJ	NJ03	Tom MacArthur 	Republican	https://macarthur.house.gov/	RepTomMacArthur	Yes	57	M	Single	F	F	F	R+2	Yes	96.17		NE
+bobby	New Jersey	4	04	NJ	NJ04	Chris Smith 	Republican	https://chrissmith.house.gov/	RepChrisSmith	Yes	65	M	Married	T	F	F	R+8	Yes	93.08		NE
+bobby	New Jersey	4	04	NJ	NJ04	Edward Stackhouse 	Independent	https://www.facebook.com/pages/category/Politician/Ed-The-Barber-For-Congress-2018-1528697377215756/		No		M	Married	T	F	F	R+8	Yes	93.08		NE
+bobby	New Jersey	4	04	NJ	NJ04	Josh Welle 	Democratic	https://welleforcongress.com/	JoshuaWelle	No		M	Married	T	F	F	R+8	Yes	93.08		NE
+bobby	New Jersey	12	12	NJ	NJ12	Daryl Kipnis 	Republican	http://kipnisforcongress.com/	kipnis4Congress	No	38	M	Married	T	F	F	D+16	Yes	93.17		NE
+bobby	New Jersey	12	12	NJ	NJ12	Bonnie Watson Coleman 	Democratic	https://watsoncoleman.house.gov/	RepBonnie	Yes	73	F	Married	F	F	T	D+16	Yes	93.17		NE
+bobby	New Mexico	2	02	NM	NM02	Yvette Herrell 	Republican	https://www.herrellforcongress.com/	Yvette4Congress	No		F	Single	T	F	F	R+6	Yes	70.82		W
+bobby	New Mexico	2	02	NM	NM02	Xochitl Torres Small 	Democratic	https://www.xochforcongress.com/	xochforcongress	No		F	Single	F	T	F	R+6	Yes	70.82		W
+bobby	New York	2	02	NY	NY02	Liuba Grechen Shirley 	Democratic	https://www.liubaforcongress.com/	liuba4congress	No											NE
+bobby	New York	2	02	NY	NY02	Peter King 	Republican	https://peteking.house.gov/	RepPeterKind	Yes	74	M	Married	T	F	F	R+3	Yes			NE
+bobby	New York	5	05	NY	NY05	Gregory Meeks 	Democratic	https://meeks.house.gov/	GregoryMeeks	Yes	65	M	Married	F	f	T	D+37	Yes			NE
+bobby	New York	7	07	NY	NY07	Jeff Kurzon 	Reform	https://www.jeffkurzon.com/	JeffKurzon	No	42	M	Single	T	F	F	D+38	Yes	100		NE
+bobby	New York	7	07	NY	NY07	Nydia Velázquez 	Democratic	https://velazquez.house.gov/	NydiaVelazquez	No	65	W	Married	F	T	F	D+38	Yes	100		NE
+bobby	New York	26	26	NY	NY26	Brian Higgins 	Democratic	https://higgins.house.gov/	RepBrianHiggins	Yes	58	M	Married	T	F	F	D+11	Yes			NE
+bobby	New York	26	26	NY	NY26	Renee Zeno 	Republican	https://zenoforcongressny.com/meet-renee-zeno		No		F	Single	T	F	F	D+11	Yes			NE
+bobby	Ohio	9	09	OH	OH09	Marcy Kaptur 	Democratic	https://kaptur.house.gov/	RepMarcyKaptur	Yes	72	F	Single	T	F	F	D+14	Yes	86.02		MW
+bobby	Ohio	9	09	OH	OH09	Steve Kraus 	Republican	https://www.bvp.com/team/stephen-kraus	stephenkrau	No	59	M	Single	T	F	F	D+14	Yes	86.02		MW
+bobby	Oklahoma	2	02	OK	OK02	Richard Castaldo 	Libertarian	https://castaldoforcongress.info/	Cataldo2018	No	37	M	Married	T	F	F	R+24	Yes	35.51		S
+bobby	Oklahoma	2	02	OK	OK02	John Foreman 	Independent	http://www.foreman4congress.com/	John4man	No	53	M	Single	T	F	F	R+24	Yes	35.51		S
+bobby	Oklahoma	2	02	OK	OK02	Markwayne Mullin 	Republican	https://mullin.house.gov/	RepMullin	Yes	41	M	Married	T	F	F	R+24	Yes	35.51		S
+bobby	Oklahoma	2	02	OK	OK02	Jason Nichols 	Democratic	https://www.nichols4congress.com/	jn4ush	No		M	Married	T	F	F	R+24	Yes	35.51		S
+bobby	Pennsylvania	9	09	PA	PA09	Dan Meuser 	Republican	https://www.meuserforcongress.com/	Meuser4Congress	No	54	M	Married	T	F	F	R+14	yes	53.11		NE
+bobby	Pennsylvania	9	09	PA	PA09	Denny Wolff 	Democratic	https://dennywolff.com/	dennyforPA	No	67	m	Married	T	F	F	R+14	yes	53.11		NE
+bobby	Texas	30	30	TX	TX30	Eddie Bernice Johnson	Democratic	https://ebjohnson.house.gov/	RepRBJ	Yes	82	F	Single	F	F	T	D+29	Yes	98.56		S
+bobby	Texas	30	30	TX	TX30	Shawn Jones 	Libertarian	https://www.shawnjonesforcongress.com/welcometofreedom		No		M	Single	T	F	F	D+29	Yes	98.56		S
+bobby	Texas	34	34	TX	TX34	Rey Gonzalez 	Republican	https://reygonzalez.org/	Reyconzalez34	No		M	Single	T	F	F	D+10	Yes	83.96		S
+bobby	Texas	34	34	TX	TX34	Filemon Vela Jr 	Democratic	https://vela.house.gov/	RepFilemonVela	Yes	55	M	Married	T	F	F	D+10	Yes	83.96		S
+bobby	Texas	36	36	TX	TX36	Brian Babin 	Republican	https://babin.house.gov/	RepBrianBabin	Yes	70	M	Married	T	F	F	R+26	Yes	67.74		S
+bobby	Texas	36	36	TX	TX36	Dayna Steele 	Democratic	https://daynasteele36.com/	daynasteel	No	59	F	Married	T	F	F	R+26	Yes	67.74		S
+bobby	Utah	4	04	UT	UT04	Mia Love 	Republican	https://love.house.gov/	MiaBLove	Yes	42	F	Married	F	F	T	R+13	Yes			W
+bobby	Utah	4	04	UT	UT04	Ben McAdams 	Democratic	https://benmcadamsforcongress.com/	MayorBenMcAdams	No	43	M	Married	T	F	F	R+13	Yes			W
+bobby	Virginia	5	05	VA	VA05	Leslie Cockburn 	Democratic	https://www.lesliecockburnforcongress.com/	LeslieCockburn	No	66	F	Married	T	F	F	R+6	Yes	35.3		S
+bobby	Virginia	5	05	VA	VA05	Denver Riggleman 	Republican	http://denverforcongress.com/	Devnber4VA	No	48	M	Married	T	F	F	R+6	Yes	35.3		S
+bobby	Virginia	6	06	VA	VA06	Ben Cline 	Republican	http://www.bencline.com/	Cline4Virginia	No	46	M	Married	T	F	F	R+13	Yes	64.34		S
+bobby	Virginia	6	06	VA	VA06	Jennifer Lewis 	Democratic	https://jenniferlewisforcongress.com/	JenniferForVa	No	36	F	Married	T	F	F	R+13	Yes	64.34		S
+bobby	Washington	8	08	WA	WA08	Dino Rossi 	Republican	https://www.dinorossi.com/	DinoRossiWa	No	58	M	Married	T	F	F	Even	Yes	83.4		W
+bobby	Washington	8	08	WA	WA08	Kim Schrier 	Democratic	https://www.drkimschrier.com/	DrKimSchrier	No		F	Married	T	F	F	Even	Yes	83.4		W
+bobby	Wisconsin	1	01	WI	WI01	Randy Bryce 	Democratic	https://splash.randybryceforcongress.com/?ref=https://www.randybryceforcongress.com/	IronStache	No	53	M	Single	T	F	F	R+5	Yes	15..87		MW
+bobby	Wisconsin	1	01	WI	WI01	Bryan Steil 	Republican	https://steilforwisconsin.com/	BryanSteilForWi	No	37	M	Single	T	F	F	R+5	Yes	15..87		MW
+bobby	Wisconsin	1	01	WI	WI01	Ken Yorgan 	Independent	https://www.yorganforcongress.com/	YorganDr	No		M		T	F	F	R+5	Yes	15..87		MW
+john	Alabama	1	01	AL	AL01	Bradley Byrne 	Republican	https://www.byrneforcongress.com/	bradleybyrne	Yes	63	M	Married	T	F	F	R+15	Yes	66.82	47083	S
+john	Alabama	1	01	AL	AL01	Robert Kennedy Jr 	Democratic	http://www.kennedy4alabama.org/	kennedy4alabama	No	47	M	Married	F	F	T	R+15	Yes	66.82	47083	S
+john	Arizona	6	06	AZ	AZ06	Anita Malik 	Democratic	https://anitaforarizona.com/	anitamalik	No	42	F	Married	F	F	F	R+9	Yes	96.8	47976	W
+john	Arizona	6	06	AZ	AZ06	David Schweikert 	Republican	https://davidschweikert.com/	DavidSchweikert	Yes	56	M	Married	T	F	F	R+9	Yes	96.8	47976	W
+john	Arkansas	3	03	AR	AR03	Michael Kalagias 	Libertarian	http://mkin2012.blogspot.com/	kalagiasforus	No	51	M	Married	T	F	F	R+19	Yes	54.4	33915	S
+john	Arkansas	3	03	AR	AR03	Josh Mahony 	Democratic	https://mahonyforcongress.com/	joshuamahony	No	NA	M	Married	T	F	F	R+19	Yes	54.4	33915	S
+john	Arkansas	3	03	AR	AR03	Josh Moody 	Independent	https://moodyforarkansas.org/	MooDfor3	No	30	M	NA	T	F	F	R+19	Yes	54.4	33915	S
+john	Arkansas	3	03	AR	AR03	Steve Womack 	Republican	https://www.womackforcongress.com/	womack4congress	Yes	61	M	Married	T	F	F	R+19	Yes	54.4	33915	S
+john	California	2	02	CA	CA02	Jared Huffman 	Democratic	http://www.jaredhuffman.com/	JaredHuffman	Yes	54	M	Married	T	F	F	D+22	Yes	NA	65414	W
+john	California	2	02	CA	CA02	Dale Mensing 	Republican	https://www.theflamingarrow.com/	dalemessing	No	60	M	NA	T	F	F	D+22	Yes	NA	65414	W
+john	California	14	14	CA	CA14	Cristina Osmeña 	Republican	https://www.osmenaforcongress.com/	cristinaosmena	No		F	NA	F	F	F	D+27	Yes	NA	NA	W
+john	California	14	14	CA	CA14	Jackie Speier 	Democratic	http://www.jackiespeier.org/	JackieSpeier	Yes	68	F	Married	T	F	F	D+27	Yes	NA	NA	W
+john	California	19	19	CA	CA19	Justin Aguilera 	Republican	https://www.facebook.com/joinjustinaguilera/	joinjustin19	No	NA	M	NA	F	T	F	D+24	Yes	NA	NA	W
+john	California	19	19	CA	CA19	Zoe Lofgren 	Democratic	https://zoelofgren.com/	ZoeLofgren	Yes	70	F	Married	T	F	F	D+24	Yes	NA	NA	W
+john	California	29	29	CA	CA29	Benito Bernal 	Republican	https://www.bernalforcongress2018.com/	BB4congress2018	No	54	M	Married	F	T	F	D+29	Yes	NA	NA	W
+john	California	29	29	CA	CA29	Tony Cárdenas 	Democratic	www.tonycardenasforcongress.com	RepCardenas	Yes	55	M	Married	F	T	F	D+29	Yes	NA	NA	W
+john	California	32	32	CA	CA32	Grace Napolitano 	Democratic	http://www.napolitanoforcongress.com/	grace4congress	Yes	81	F	Married	F	T	F	D+17	Yes	NA	NA	W
+john	California	32	32	CA	CA32	Joshua Scott 	Republican	https://votejoshuascott.org/	joshuascottca32	No	25	M	Single	T	F	F	D+17	Yes	NA	NA	W
+john	California	35	35	CA	CA35	Norma Torres 	Democratic	https://normatorres.com/	Norma4Congress	Yes	53	F	Married	F	T	F	D+19	yes	NA	NA	W
+john	California	35	35	CA	CA35	Christian Valiente 	Republican	https://www.votevaliente.com/	CLVALIENTE4	No	NA	M	NA	F	T	F	D+19	yes	NA	NA	W
+john	California	37	37	CA	CA37	Karen Bass 	Democratic	https://karenbass.com/	KarenBassTweets	Yes	64	F	Divorced	F	F	T	D+37	yes	NA	46081	W
+john	California	37	37	CA	CA37	Ron Bassilian 	Republican	https://ronfor37.org/	ron4california	No	NA	M	NA	T	F	F	D+37	yes	NA	46081	W
+kailey	Alaska	at-large	00	AK	AK00	Alyse Galvin 	Undeclared/Democratic	https://www.alyse4alaska.com/	AlyseGalvin	No		F	Single					Yes			W
+kailey	Alaska	at-large	00	AK	AK00	Don Young 	Republican	https://donyoung.house.gov/	repdonyoung	Yes	85	M	Married	T	F	F		Yes			W
+kaixuan	Alabama	4	04	AL	AL04	Robert Aderholt 	Republican	https://aderholt.house.gov/	robert_aderholt	Yes	53	M	Married	T	F	F	R+30	Yes	34.62		S
+kaixuan	Alabama	4	04	AL	AL04	Lee Auman 	Democratic	https://ballotpedia.org/Lee_Auman	LeeAuman2018	No	25	M		T	F	F	R+30	No	34.62		S
+kaixuan	Alabama	6	06	AL	AL06	Danner Kline 	Democratic	https://www.votedannerkline.com/	VoteDannerKline	No		M	Married	T	F	F	R+26		69.17		S
+kaixuan	Alabama	6	06	AL	AL06	Gary Palmer 	Republican	https://palmer.house.gov/	USRepGaryPalmer	Yes	64	M		T	F	F	R+26		69.17		S
+kaixuan	Arizona	5	05	AZ	AZ05	Andy Biggs 	Republican	https://biggsforcongress.com/	RepAndyBiggsAZ	Yes	60	M	Married	T	F	F	R+15		97.2		W
+kaixuan	Arizona	5	05	AZ	AZ05	Joan Greene 	Democratic	https://en.wikipedia.org/wiki/Arizona%27s_5th_congressional_district	joangreeneaz	No		F		T	F	F	R+15		97.2		W
+kaixuan	Illinois	9	09	IL	IL09	John Elleson 	Republican	https://en.wikipedia.org/wiki/Illinois%27s_9th_congressional_district	JohnElleson			M		T	F	F	D+18		100	63,039	MW
+kaixuan	Illinois	9	09	IL	IL09	Jan Schakowsky 	Democratic	https://en.wikipedia.org/wiki/Illinois%27s_9th_congressional_district	janschakowsky			F		T	F	F	D+18		100	63,039	MW
+kaixuan	Iowa	1	01	IA	IA01	Rod Blum 	Republican	https://en.wikipedia.org/wiki/Iowa%27s_1st_congressional_district	RepRodBlum			M		T	F	F	D+1		66.35	38,727	MW
+kaixuan	Iowa	1	01	IA	IA01	Abby Finkenauer 	Democratic	https://en.wikipedia.org/wiki/Iowa%27s_1st_congressional_district	Abby4Iowa			F		T	F	F	D+1		66.35	38,727	MW
+kaixuan	Iowa	1	01	IA	IA01	Henry Gaff 	Green	https://en.wikipedia.org/wiki/Iowa%27s_1st_congressional_district	HenryGraff			M		T	F	F	D+1		66.35	38,727	MW
+kaixuan	Kentucky	3	03	KY	KY03	Vickie Glisson 	Republican	https://en.wikipedia.org/wiki/Kentucky%27s_3rd_congressional_district	VickieYGlisson			M		T	F	F	D+6		99.33	51,070	S
+kaixuan	Kentucky	3	03	KY	KY03	John Yarmuth 	Democratic	https://en.wikipedia.org/wiki/Kentucky%27s_3rd_congressional_district	RepJohnYarmuth			M		T	F	F	D+6		99.33	51,070	S
+kaixuan	Louisiana	5	05	LA	LA05	Ralph Abraham 	Republican	https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district	RepAbraham			M		T	F	F	R+15		48.35	36,717	S
+kaixuan	Louisiana	5	05	LA	LA05	Billy Burkette 	Independent	https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district	VoteJessee			M	Married 	T	F	F	R+15		48.35	36,717	S
+kaixuan	Louisiana	5	05	LA	LA05	Jesse Carlton Fleenor 	Democratic	https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district									R+15		48.35	36,717	S
+kaixuan	Louisiana	5	05	LA	LA05	Kyle Randol 	Libertarian	https://en.wikipedia.org/wiki/Louisiana%27s_5th_congressional_district									R+15		48.35	36,717	S
+kaixuan	Maine	2	02	ME	ME02	Jared Golden 	Democratic	https://en.wikipedia.org/wiki/Maine%27s_2nd_congressional_district	golden4congress			M		T	F	F	R+2		27.89		NE
+kaixuan	Maine	2	02	ME	ME02	Bruce Poliquin 	Republican	https://en.wikipedia.org/wiki/Maine%27s_2nd_congressional_district	RepPoliquin			M		T	F	F	R+2		27.89		NE
+kaixuan	Mississippi	3	03	MS	MS03	Michael Evans 	Democratic	https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district									R+13		40.33	31,907	S
+kaixuan	Mississippi	3	03	MS	MS03	Michael Guest 	Republican	https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district	GuestCongress			M	Married 	T	F	F	R+13		40.33	31,907	S
+kaixuan	Mississippi	3	03	MS	MS03	Matthew Holland 	Reform	https://en.wikipedia.org/wiki/Mississippi%27s_3rd_congressional_district									R+13		40.33	31,907	S
+kaixuan	New York	13	13	NY	NY13	Jineea Butler 	Republican	https://en.wikipedia.org/wiki/New_York%27s_13th_congressional_district	Jineea4Congress			F		F	F	T	D+43		100		NE
+kaixuan	New York	13	13	NY	NY13	Adriano Espaillat 	Democratic	https://en.wikipedia.org/wiki/New_York%27s_13th_congressional_district	RepEspaillat			M					D+43		100		NE
+kaixuan	New York	15	15	NY	NY15	Jason Gonzalez 	Republican	https://en.wikipedia.org/wiki/New_York%27s_15th_congressional_district	ByJasonGonzales			M		F	T	F	D+44		100		NE
+kaixuan	New York	15	15	NY	NY15	José Serrano 	Democratic	https://en.wikipedia.org/wiki/New_York%27s_15th_congressional_district	RepJoseSerrano			M		F	T	F	D+44		100		NE
+kaixuan	Oregon	4	04	OR	OR04	Peter DeFazio 	Democratic	https://en.wikipedia.org/wiki/Oregon%27s_4th_congressional_district	RepPeterDeFazio			M		T	F	F	EVEN		69.17	35,796	W
+kaixuan	Oregon	4	04	OR	OR04	Art Robinson 	Republican	https://en.wikipedia.org/wiki/Oregon%27s_4th_congressional_district									EVEN		69.17	35,796	W
+kaixuan	Pennsylvania	18	18	PA	PA18	Mike Doyle 	Democratic	https://en.wikipedia.org/wiki/Pennsylvania%27s_18th_congressional_district	USRepMikeDoyle			M		T	F	F	R+11		84.05	44,938	NE
+kaixuan	South Carolina	6	06	SC	SC06	Jim Clyburn 	Democratic	https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district	Clyburn			M		F	F	T	D+19		na	28,967	S
+kaixuan	South Carolina	6	06	SC	SC06	Gerhan Gressmann 	Republican	https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district									D+19		na	28,967	S
+kaixuan	South Carolina	6	06	SC	SC06	Bryan Pugh 	Green	https://en.wikipedia.org/wiki/South_Carolina%27s_6th_congressional_district	BryanKellyPugh			M		T	F	F	D+19		na	28,967	S
+kaixuan	South Dakota	Dakota	00	SD	SD00	Tim Bjorkman 	Democratic	https://en.wikipedia.org/wiki/South_Dakota%27s_at-large_congressional_district	TimBjorkmanSD			M		T	F	F	R+14		55.8	47,223	MW
+kaixuan	South Dakota	Dakota	00	SD	SD00	George Hendrickson 	Libertarian	https://en.wikipedia.org/wiki/South_Dakota%27s_at-large_congressional_district									R+14		55.8	47,223	MW
+kaixuan	South Dakota	Dakota	00	SD	SD00	Dusty Johnson 	Republican	https://en.wikipedia.org/wiki/South_Dakota%27s_at-large_congressional_district	DustyJohnson			M		T	F	F	R+14		55.8	47,223	MW
+kaixuan	Texas	24	24	TX	TX24	Mike Kolls 	Libertarian	https://en.wikipedia.org/wiki/Texas%27s_24th_congressional_district									R+9		99.89	70,454	S
+kaixuan	Texas	24	24	TX	TX24	Kenny Marchant 	Republican	https://en.wikipedia.org/wiki/Texas%27s_24th_congressional_district	RepKenMarchant			M		T	F	F	R+9		99.89	70,454	S
+kaixuan	Texas	24	24	TX	TX24	Jan McDowell 	Democratic	https://en.wikipedia.org/wiki/Texas%27s_24th_congressional_district	JanForCongress			F		T	F	F	R+9		99.89	70,454	S
+kaixuan	Virginia	4	04	VA	VA04	Ryan McAdams 	Republican	https://en.wikipedia.org/wiki/Virginia%27s_4th_congressional_district									D+10		73.83	54,607	S
+kaixuan	Virginia	4	04	VA	VA04	Donald McEachin 	Democratic	https://en.wikipedia.org/wiki/Virginia%27s_4th_congressional_district	RepMcEachin			M		F	F	T	D+10		73.83	54,607	S
+kaixuan	Virginia	4	04	VA	VA04	Pete Wells 	Libertarian	https://en.wikipedia.org/wiki/Virginia%27s_4th_congressional_district									D+10		73.83	54,607	S
+kaixuan	Washington	1	01	WA	WA01	Jeffrey Beeler 	Republican	https://en.wikipedia.org/wiki/Washington%27s_1st_congressional_district									D+6		na	58,565	W
+kaixuan	Washington	1	01	WA	WA01	Suzan DelBene 	Democratic	https://en.wikipedia.org/wiki/Washington%27s_1st_congressional_district	RepDelBene			F		T	F	F	D+6		na	58,565	W
+kaixuan	Washington	6	06	WA	WA06	Douglas Dightman 	Republican	https://en.wikipedia.org/wiki/Washington%27s_6th_congressional_district									D+6		na	39,205	W
+kaixuan	Washington	6	06	WA	WA06	Derek Kilmer 	Democratic	https://en.wikipedia.org/wiki/Washington%27s_6th_congressional_district	RepDerekKilmer			M		T	F	F	D+6		na	39,205	W
+kaixuan	Wisconsin	4	04	WI	WI04	Gwen Moore 	Democratic	https://en.wikipedia.org/wiki/Wisconsin%27s_4th_congressional_district	RepGwenMoore			F		F	F	T	D+25		100	38,600	MW
+kaixuan	Wisconsin	4	04	WI	WI04	Robert Raymond 	Independent	https://en.wikipedia.org/wiki/Wisconsin%27s_4th_congressional_district									D+25		100	38,600	MW
+kaixuan	Wisconsin	4	04	WI	WI04	Tim Rogers 	Republican	https://en.wikipedia.org/wiki/Wisconsin%27s_4th_congressional_district									D+25		100	38,600	MW
+kaixuan	Wisconsin	7	07	WI	WI07	Ken Driessen 	Direct Participatory Democracy	https://en.wikipedia.org/wiki/Wisconsin%27s_7th_congressional_district									R+8		42.04	39,026	MW
+kaixuan	Wisconsin	7	07	WI	WI07	Sean Duffy 	Republican	https://en.wikipedia.org/wiki/Wisconsin%27s_7th_congressional_district	RepSeanDuffy			M		T	F	F	R+8		42.04	39,026	MW
+kaixuan	Wisconsin	7	07	WI	WI07	Margaret Engebretson 	Democratic	https://en.wikipedia.org/wiki/Wisconsin%27s_7th_congressional_district	vetfordemocracy			F		T	F	F	R+8		42.04	39,026	MW
+michelle	Arizona	1	01	AZ	AZ01	Tom O'Halleran 	Democratic	https://ohalleran.house.gov/	RepOHalleran	Yes	72	M	Married	T	F	F	R+2	Yes	55.4	32979	W
+michelle	Arizona	1	01	AZ	AZ01	Wendy Rogers 	Republican	https://wendyrogers.org/	WendyRogersAZ	No	64	F	Married	T	F	F	R+2	Yes	55.4	32979	W
+michelle	Arizona	3	03	AZ	AZ03	Raúl Grijalva 	Democratic	https://grijalva.house.gov/	RepRaulGrijalva	Yes	70	M	Married	F	T	F	D+13	Yes	88.8	40734	W
+michelle	Arizona	3	03	AZ	AZ03	Nick Pierson 	Republican	https://www.piersonforcongress.com	NA	No	NA	M	Married	F	T	F	D+13	Yes	88.8	40734	W
+michelle	California	5	05	CA	CA05	Anthony Mills 	No party preference	http://candidatemills.com/	NA	No	67	M	NA	T	F	F	D+21	Yes	NA	NA	W
+michelle	California	5	05	CA	CA05	Mike Thompson 	Democratic	https://mikethompson.house.gov/	RepThompson	Yes	67	M	Married	T	F	F	D+21	Yes	NA	NA	W
+michelle	California	6	06	CA	CA06	Jrmar Jefferson 	Democratic	NA	JrmarJefferson	No	NA	M	NA	F	F	T	D+21	Yes	NA	NA	W
+michelle	California	6	06	CA	CA06	Doris Matsui 	Democratic	https://matsui.house.gov/	DorisMatsui	Yes	73	F	Single	F	F	F	D+21	Yes	NA	NA	W
+michelle	California	7	07	CA	CA07	Ami Bera 	Democratic	https://bera.house.gov/	RepBera	Yes	53	M	Married	F	F	F	D+3	Yes	NA	NA	W
+michelle	California	7	07	CA	CA07	Andrew Grant 	Republican	https://www.andrewgrantforcongress.com/	AndrewFGrant	No	NA	M	Married	T	F	F	D+3	Yes	NA	NA	W
+michelle	California	11	11	CA	CA11	Mark DeSaulnier 	Democratic	https://desaulnier.house.gov/	RepDeSaulnier	Yes	66	M	Single	T	F	F	D+21	Yes	NA	NA	W
+michelle	California	11	11	CA	CA11	John Fitzgerald 	Republican	http://johnfitzgeraldforcongress.com/	JFitz4Congress	No	NA	M	NA	T	F	F	D+21	Yes	NA	NA	W
+michelle	California	13	13	CA	CA13	Barbara Lee 	Democratic	https://lee.house.gov/	RepBarbaraLee	Yes	72	F	Single	F	F	T	D+40	Yes	NA	NA	W
+michelle	California	13	13	CA	CA13	Laura Wells 	Green	https://laurawells.org/	LauraWellsCA	70	NA	F	NA	T	F	F	D+40	Yes	NA	NA	W
+michelle	California	20	20	CA	CA20	Ronald Kabat 	No party preference	NA	NA	No	NA	M	Married	T	F	F	D+23	Yes	NA	NA	W
+michelle	California	20	20	CA	CA20	Jimmy Panetta 	Democratic	https://panetta.house.gov/	RepJimmyPanetta	Yes	48	M	Married	T	F	F	D+23	Yes	NA	NA	W
+michelle	California	22	22	CA	CA22	Andrew Janz 	Democratic	https://www.andrewjanzforcongress.com/	JanzforCongress	No	NA	M	Married	F	F	F	R+8	Yes	NA	NA	W
+michelle	California	22	22	CA	CA22	Devin Nunes 	Republican	https://nunes.house.gov/	RepDevinNunes	Yes	44	M	Married	T	F	F	R+8	Yes	NA	NA	W
+michelle	California	25	25	CA	CA25	Katie Hill 	Democratic	https://www.katiehillforcongress.com	KatieHill4CA	30	NA	F	Married	T	F	F	EVEN	Yes	NA	NA	W
+michelle	California	25	25	CA	CA25	Steve Knight 	Republican	https://knight.house.gov/	SteveKnight25	Yes	51	M	Married	T	F	F	EVEN	Yes	NA	NA	W
+michelle	Colorado	1	01	CO	CO01	Diana DeGette 	Democratic	https://degette.house.gov/	RepDianaDegette	Yes	61	F	Married	T	F	F	D+21	Yes	100	NA	W
+michelle	Colorado	1	01	CO	CO01	Casper Stockham 	Republican	https://www.casperforcolorado.com/	Casper4Colorado	No	NA	M	Married	F	F	T	D+21	Yes	100	NA	W
+michelle	Colorado	1	01	CO	CO01	Gary Swing 	Unity	http://www.newmenu.org/swingvoter	SwingGary	No	50	M	Single	T	F	F	D+21	Yes	100	NA	W
+michelle	Connecticut	1	01	CT	CT01	John Larson 	Democratic	https://larson.house.gov/	RepJohnLarson	Yes	70	M	Married	T	F	F	D+12	Yes	93.4	50227	NE
+michelle	Connecticut	1	01	CT	CT01	Jennifer Nye 	Republican	https://www.nye4congress.com/	Nye4Congress	No	NA	F	Married	T	F	F	D+12	Yes	93.4	50227	NE
+michelle	Connecticut	4	04	CT	CT04	Harry Arora 	Republican	https://www.harryforct.com/	HarryForCT	No	NA	M	Married	F	F	F	D+7	Yes	95.9	66598	NE
+michelle	Connecticut	4	04	CT	CT04	Jim Himes 	Democratic	https://himes.house.gov/	jahimes	Yes	52	M	Married	T	F	F	D+7	Yes	95.9	66598	NE
+michelle	Florida	5	05	FL	FL05	Virginia Fuller 	Republican	https://fullerforcongress.com/	Florida_CD5	No	NA	F	Single	F	F	T	D+12	Yes	83.37	NA	S
+michelle	Florida	5	05	FL	FL05	Al Lawson 	Democratic	https://lawson.house.gov/	RepAlLawsonJr	Yes	70	M	Married	F	F	T	D+12	Yes	83.37	NA	S
+michelle	Florida	6	06	FL	FL06	Nancy Soderberg 	Democratic	https://soderbergforcongress.com/	nancysoderberg	No	60	F	Single	T	F	F	R+7	Yes	86.15	NA	S
+michelle	Florida	6	06	FL	FL06	Michael Waltz 	Republican	https://michaelwaltz.com/	michaelgwaltz	44	NA	M	Married	T	F	F	R+7	Yes	86.15	NA	S
+michelle	Florida	11	11	FL	FL11	Dana Cottrell 	Democratic	https://danacottrellforcongress.com/	DanaforCongress	No	NA	F	Married	T	F	F	R+15	Yes	75.19	NA	S
+michelle	Florida	11	11	FL	FL11	Daniel Webster 	Republican	https://webster.house.gov/	RepWebster	Yes	69	M	Married	T	F	F	R+15	Yes	75.19	NA	S
+michelle	Florida	19	19	FL	FL19	David Holden 	Democratic	https://www.holden2018.com/	holden2018	No	NA	M	Married	T	F	F	R+13	Yes	96.3	NA	S
+michelle	Florida	19	19	FL	FL19	Francis Rooney 	Republican	https://francisrooney.house.gov/	RepRooney	Yes	64	M	Married	T	F	F	R+13	Yes	96.3	NA	S
+michelle	Georgia	1	01	GA	GA01	Buddy Carter 	Republican	https://buddycarter.house.gov/	RepBuddyCarter	Yes	61	M	Married	T	F	F	R+9	Yes	70.98	NA	S
+michelle	Georgia	1	01	GA	GA01	Lisa Ring 	Democratic	https://www.lisaringforcongress.com/	LisaRingGA01	No	NA	F	Married	T	F	F	R+9	Yes	70.98	NA	S
+michelle	Illinois	4	04	IL	IL04	Jesús "Chuy" García	Democratic	http://jesuschuygarcia.com/	JesusGGarcia	No	62	M	Married	F	T	F	D+33	Yes	100	39744	MW
+michelle	Illinois	4	04	IL	IL04	Mark Lorch 	Republican	NA	marklorch	No	NA	M	NA	T	F	F	D+33	Yes	100	39744	MW
+michelle	Indiana	1	01	IN	IN01	Mark Leyva 	Republican	http://markleyva.com/	NA	No	58	M	Single	F	T	F	D+8	Yes	87.02	44087	MW
+michelle	Indiana	1	01	IN	IN01	Pete Visclosky 	Democratic	http://www.viscloskyforcongress.us/	TeamVisclosky	Yes	69	M	Married	T	F	F	D+8	Yes	87.02	44087	MW
+michelle	Indiana	2	02	IN	IN02	Mel Hall 	Democratic	https://www.melforcongress.com/	melforcongress	No	NA	M	Single	T	F	F	R+11	Yes	72.9	40381	MW
+michelle	Indiana	2	02	IN	IN02	Jackie Walorski 	Republican	http://walorski.house.gov/	RepWalorski	Yes	55	F	Married	T	F	F	R+11	Yes	72.9	40381	MW
+michelle	Iowa	2	02	IA	IA02	Daniel Clark 	Independent	https://loebsack.house.gov/	dcforcongress	No	NA	M	NA	T	F	F	D+1	Yes	66.06	40121	MW
+michelle	Iowa	2	02	IA	IA02	Dave Loebsack 	Democratic	https://loebsack.house.gov/	daveloebsack	Yes	65	M	Married	T	F	F	D+1	Yes	66.06	40121	MW
+michelle	Iowa	2	02	IA	IA02	Christopher Peters 	Republican	https://drpetersforiowa.com/	DrPeters4Iowa	No	58	M	Married	T	F	F	D+1	Yes	66.06	40121	MW
+michelle	Maine	1	01	ME	ME01	Marty Grohman 	Independent	https://www.martygrohman.com/	mgrohman	No	NA	M	Married	T	F	F	D+8	Yes	49.44	42044	NE
+michelle	Maine	1	01	ME	ME01	Mark Holbrook 	Republican	https://www.holbrook4me.org/	MarkHolbrook_ME	59	NA	M	Married	T	F	F	D+8	Yes	49.44	42044	NE
+michelle	Maine	1	01	ME	ME01	Chellie Pingree 	Democratic	https://pingree.house.gov/	chelliepingree	Yes	63	F	Single	T	F	F	D+8	Yes	49.44	42044	NE
+michelle	Maryland	6	06	MD	MD06	Ted Athey 	Independent	http://www.tedathey.com/	AtheyTed	No	NA	M	Married	T	F	F	D+6	Yes	84.49	73641	S
+michelle	Maryland	6	06	MD	MD06	Kevin Caldwell 	Libertarian	https://www.electkevincaldwell.com/	Caldwell4MD6CD	No	NA	M	NA	T	F	F	D+6	Yes	84.49	73641	S
+michelle	Maryland	6	06	MD	MD06	George Gluck 	Green	https://sites.google.com/prod/view/georgegluck	Gluck4Congress	No	71	M	Married	T	F	F	D+6	Yes	84.49	73641	S
+michelle	Maryland	6	06	MD	MD06	Amie Hoeber 	Republican	https://www.amieformaryland.com/	amieformaryland	No	76	F	Married	T	F	F	D+6	Yes	84.49	73641	S
+michelle	Maryland	6	06	MD	MD06	David Trone 	Democratic	https://www.davidtrone.com/	davidjtrone	No	63	M	Married	T	F	F	D+6	Yes	84.49	73641	S
+michelle	Massachusetts	8	08	MA	MA08	Stephen Lynch 	Democratic	https://lynch.house.gov/	RepStephenLynch	Yes	63	M	Married	T	F	F	D+10	No	NA	NA	NE
+michelle	Michigan	10	10	MI	MI10	Kimberly Bizon 	Democratic	https://www.electbizon2018.com/	electbizon2018	No	49	F	NA	T	F	F	R+13	Yes	NA	NA	MW
+michelle	Michigan	10	10	MI	MI10	Harley Mikkelson 	Green	http://www.harleymikkelson.com/	NA	No	NA	M	Married	T	F	F	R+13	Yes	NA	NA	MW
+michelle	Michigan	10	10	MI	MI10	Paul Mitchell 	Republican	https://mitchell.house.gov/	RepPaulMitchell	Yes	61	M	Married	T	F	F	R+13	Yes	NA	NA	MW
+michelle	Michigan	10	10	MI	MI10	Jeremy Peruski 	Independent	https://peruskiforcongress.com/	VotePeruski	No	44	M	NA	T	F	F	R+13	Yes	NA	NA	MW
+michelle	Minnesota	2	02	MN	MN02	Angie Craig 	Democratic	https://www.angiecraig.com/	AngieCraigMN	No	46	F	Married	T	F	F	R+2	Yes	86.97	80128	MW
+michelle	Minnesota	2	02	MN	MN02	Jason Lewis 	Republican	https://jasonlewis.house.gov/	RepJasonLewis	Yes	62	M	Married	T	F	F	R+2	Yes	86.97	80128	MW
+michelle	Missouri	8	08	MO	MO08	Kathy Ellis 	Democratic	https://www.ellisformissouri.com/	ellis4missouri	No	NA	F	Married	T	F	F	R+24	Yes	38.29	40639	MW
+michelle	Missouri	8	08	MO	MO08	Jonathan Shell 	Libertarian	NA	ShellforLiberty	No	NA	M	Married	T	F	F	R+24	Yes	38.29	40639	MW
+michelle	Missouri	8	08	MO	MO08	Jason Smith 	Republican	https://jasonsmith.house.gov/	RepJasonSmith	Yes	38	M	Single	T	F	F	R+24	Yes	38.29	40639	MW
+michelle	Nebraska	2	02	NE	NE02	Don Bacon 	Republican	https://bacon.house.gov/	RepDonBacon	Yes	55	M	Married	T	F	F	R+4	Yes	97.86	45235	MW
+michelle	Nebraska	2	02	NE	NE02	Kara Eastman 	Democratic	http://eastmanforcongress.com/	karaforcongress	No	46	F	Married	T	F	F	R+4	Yes	97.86	45235	MW
+michelle	New Jersey	8	08	NJ	NJ08	John Muniz 	Republican	http://www.johnmunizforcongress.com/	NA	No	NA	M	NA	T	F	F	D+27	Yes	100	51954	NE
+michelle	New Jersey	8	08	NJ	NJ08	Albio Sires 	Democratic	https://sires.house.gov/	RepSires	Yes	67	M	Married	T	F	F	D+27	Yes	100	51954	NE
+michelle	New York	21	21	NY	NY21	Tedra Cobb 	Democratic	https://www.tedracobb.com/	TedraCobb	No	51	F	Married	T	F	F	R+4	Yes	NA	NA	NE
+michelle	New York	21	21	NY	NY21	Lynn Kahn 	Green	http://www.votelynn2018.com/	lynnskahn	No	NA	F	NA	T	F	F	R+4	Yes	NA	NA	NE
+michelle	New York	21	21	NY	NY21	Elise Stefanik 	Republican	https://stefanik.house.gov/	RepStefanik	Yes	34	F	Married	T	F	F	R+4	Yes	NA	NA	NE
+michelle	Ohio	1	01	OH	OH01	Steve Chabot 	Republican	https://chabot.house.gov/	RepSteveChabot	Yes	65	M	Married	T	F	F	R+5	Yes	92.5	55712	MW
+michelle	Ohio	1	01	OH	OH01	Aftab Pureval 	Democratic	https://aftabforohio.com/	AftabPureval	No	36	M	Single	F	F	F	R+5	Yes	92.5	55712	MW
+michelle	Ohio	6	06	OH	OH06	Bill Johnson 	Republican	https://billjohnson.house.gov/	RepBillJohnson	Yes	63	M	Married	T	F	F	R+16	Yes	42.68	46839	MW
+michelle	Ohio	6	06	OH	OH06	 Shawna Roberts 	Democratic	https://www.shawnarobertsforcongress2018.org/	RobertsOhioD6	No	NA	F	Married	T	F	F	R+16	Yes	42.68	46839	MW
+michelle	Ohio	7	07	OH	OH07	Bob Gibbs 	Republican	https://gibbs.house.gov/	RepBobGibbs	Yes	64	M	Married	T	F	F	R+12	Yes	NA	47805	MW
+michelle	Ohio	7	07	OH	OH07	Ken Harbaugh 	Democratic	https://www.kenharbaughforcongress.com/	Team_Harbaugh	No	44	M	Married	T	F	F	R+12	Yes	NA	47805	MW
+michelle	Oregon	1	01	OR	OR01	Suzanne Bonamici 	Democratic	https://bonamici.house.gov/	RepBonamici	Yes	63	F	Married	T	F	F	D+9	Yes	86.65	48464	W
+michelle	Oregon	1	01	OR	OR01	John Verbeek 	Republican	NA	NA	No	NA	M	Married	T	F	F	D+9	Yes	86.65	48464	W
+michelle	Oregon	3	03	OR	OR03	Earl Blumenauer 	Democratic	https://blumenauer.house.gov/	repblumenauer	Yes	70	M	Married	T	F	F	D+24	Yes	93.12	42063	W
+michelle	Oregon	3	03	OR	OR03	Marc Koller 	Independent	http://marckoller4congress.com/	kolleroregon3rd	No	NA	M	Single	T	F	F	D+24	Yes	93.12	42063	W
+michelle	Pennsylvania	13	13	PA	PA13	John Joyce 	Republican	https://johnjoyceforcongress.com/	JohnJoyceForPA	No	61	M	Married	T	F	F	R+22	Yes	98.46	49319	NE
+michelle	Pennsylvania	13	13	PA	PA13	Brent Ottaway 	Democratic	https://www.brentottawayforcongress.com/	BrentforPA13	No	57	M	Married	T	F	F	R+22	Yes	98.46	49319	NE
+michelle	Texas	17	17	TX	TX17	Peter Churchman 	Libertarian	https://www.churchmanfortexas.com/	NA	No	NA	M	Married	T	F	F	R+12	Yes	75.28	50888	S
+michelle	Texas	17	17	TX	TX17	Bill Flores 	Republican	https://flores.house.gov/	RepBillFlores	Yes	64	M	Married	T	F	F	R+12	Yes	75.28	50888	S
+michelle	Texas	17	17	TX	TX17	Rick Kennedy 	Democratic	https://www.rickkennedyforcongress.com/	RickKennedyTX17	No	55	M	Single	T	F	F	R+12	Yes	75.28	50888	S
+michelle	Utah	3	03	UT	UT03	John Curtis 	Republican	https://curtis.house.gov/	RepJohnCurtis	Yes	58	M	Married	T	F	F	R+25	Yes	NA	NA	W
+michelle	Utah	3	03	UT	UT03	Gregory Duerden 	Independent American	http://www.gregorycduerden.us/	BYHi67	No	NA	M	Married	T	F	F	R+25	Yes	NA	NA	W
+michelle	Utah	3	03	UT	UT03	Melanie McCoard 	United Utah	NA	NA	NA	NA	F	NA	NA	NA	NA	R+25	Yes	NA	NA	W
+michelle	Utah	3	03	UT	UT03	James Singer 	Democratic	https://www.jamessinger.org/	urbannavajo	No	NA	M	Married	F	F	F	R+25	Yes	NA	NA	W
+patrick	Arizona	2	02	AZ	AZ02	Ann Kirkpatrick 	Democratic	https://www.kirkpatrickforcongress.com	Ann_Kirkpatrick	No	68	F	Married	T	F	F	R+1	Yes	89	42,432	W
+patrick	Arizona	2	02	AZ	AZ02	Lea Marquez-Peterson 	Republican	https://www.voteforlea.com	LeaPeterson	No	NA	F	Married	F	T	F	R+1	Yes	89	42,432	W
+patrick	Arizona	7	07	AZ	AZ07	Ruben Gallego 	Democratic	https://gallegoforarizona.com	RubenGallego	Yes	38	M	Single	F	T	F	D+23	No	83.6	30,828	W
+patrick	Arkansas	4	04	AR	AR04	Tom Canada 	Libertarian	http://tomcanadaforcongress.org/about.html	NA	No	NA	M	Married	T	F	F	R+17	Yes	66.2	29,675	S
+patrick	Arkansas	4	04	AR	AR04	Jack Foster 	Independent	NA	NA	No	NA	M	NA	F	F	T	R+17	Yes	66.2	29,675	S
+patrick	Arkansas	4	04	AR	AR04	Lee McQueen 	Independent	https://mcqueen2018.com	McQueen4USRep	No	NA	F	Single	F	F	T	R+17	Yes	66.2	29,675	S
+patrick	Arkansas	4	04	AR	AR04	Hayden Shamel 	Democratic	https://www.haydenforcongress.com	HaydenShamel	No	NA	F	Married	T	F	F	R+17	Yes	66.2	29,675	S
+patrick	Arkansas	4	04	AR	AR04	Bruce Westerman 	Republican	https://www.brucewesterman.com	WestermanAR	Yes	50	M	Married	T	F	F	R+17	Yes	66.2	29,675	S
+patrick	California	3	03	CA	CA03	John Garamendi 	Democratic	http://www.garamendi.org	JohnGaramendi	Yes	73	M	Married	T	F	F	D+5	Yes	3.2	53602	W
+patrick	California	3	03	CA	CA03	Charlie Schaupp 	Republican	https://www.facebook.com/charlieschaupp/	CharlieSchaupp	No	63	M	Married	T	F	F	D+5	Yes	3.2	53602	W
+patrick	California	8	08	CA	CA08	Paul Cook 	Republican	https://www.joinpaulcook.com	joinpaulcook	Yes	75	M	Married	T	F	F	R+9	Yes	0.9	45879	W
+patrick	California	8	08	CA	CA08	Tim Donnelly 	Republican	https://www.donnelly4congress.com	PatriotNotPol	No	52	M	Married	T	F	F	R+9	Yes	0.9	45879	W
+patrick	California	17	17	CA	CA17	Ron Cohen 	Republican	https://www.roncohen4congress2018.com	RonCohenUS17	No	59	M	Married	T	F	F	D+25	Yes	67.6	92030	W
+patrick	California	17	17	CA	CA17	Ro Khanna 	Democratic	http://www.rokhanna.com	RoKhanna	Yes	42	M	Married	F	F	F	D+25	Yes	67.6	92030	W
+patrick	California	21	21	CA	CA21	T.J. Cox 	Democratic	https://tjcoxforcongress.com	TJCoxCongress	No	NA	M	Married	T	F	F	D+5	Yes	2.3	37228	W
+patrick	California	21	21	CA	CA21	David Valadao 	Republican	https://www.valadaoforcongress.com	dgvaladao	Yes	41	M	Married	F	T	F	D+5	Yes	2.3	37228	W
+patrick	California	23	23	CA	CA23	Tatiana Matta 	Democratic	http://tatianamatta.com	Matta4Congress	No	NA	F	Married	F	T	F	R+14	Yes	2	51232	W
+patrick	California	23	23	CA	CA23	Kevin McCarthy 	Republican	https://kevinmccarthy.house.gov	GOPLeader	Yes	53	M	Married	T	F	F	R+14	Yes	2	51232	W
+patrick	California	24	24	CA	CA24	Salud Carbajal 	Democratic	https://www.saludcarbajal.com	carbajalsalud	Yes	53	M	Married	F	T	F	D+7	Yes	3	56943	W
+patrick	California	24	24	CA	CA24	Justin Fareed 	Republican	https://www.justinfareed.com	JustinFareed	No	30	M	Single	T	F	F	D+7	Yes	3	56943	W
+patrick	California	49	49	CA	CA49	Diane Harkey 	Republican	https://www.harkeyforcongress.com	diane_harkey	No	67	F	Married	T	F	F	R+1	Yes	42.2	67,018	W
+patrick	California	49	49	CA	CA49	Mike Levin 	Democratic	https://mikelevin.org	MikeLevinCA	No	39	M	Married	T	F	F	R+1	Yes	42.2	67,018	W
+patrick	Delaware	at-large	00	DE	DE00	Lisa Blunt Rochester	Democratic	https://lisabluntrochester.com	LisaBRochester	Yes	56	F	Single	F	F	T	D+6	Yes	83.3	57,357	S
+patrick	Delaware	at-large	00	DE	DE00	Christopher Mockerman 	Independent	https://www.facebook.com/CWMockerman4House/	NA	No	NA	M	NA	T	F	F	D+6	Yes	83.3	57,357	S
+patrick	Delaware	at-large	00	DE	DE00	Scott Walker 	Republican	NA	NA	No	NA	M	NA	T	F	F	D+6	Yes	83.3	57,357	S
+patrick	Florida	7	07	FL	FL07	Mike Miller 	Republican	https://www.millerforflorida.com	Mike_Miller_FL	No	50	M	Married	T	F	F	EVEN	Yes	97.87	51007	S
+patrick	Florida	7	07	FL	FL07	Stephanie Murphy 	Democratic	http://www.stephaniemurphyforcongress.com	SMurphyCongress	Yes	40	F	Married	F	F	F	EVEN	Yes	97.87	51007	S
+patrick	Florida	15	15	FL	FL15	Kristen Carlson 	Democratic	https://www.kristencarlsonforcongress.com	KristenForFL	No	NA	F	Single	T	F	F	R+6	Yes	92.06	47117	S
+patrick	Florida	15	15	FL	FL15	Ross Spano 	Republican	http://www.rossspano.com	RossSpano	No	52	M	Married	T	F	F	R+6	Yes	92.06	47117	S
+patrick	Florida	25	25	FL	FL25	Mary Barzee Flores 	Democratic	https://marybarzeeflores.com	MBFforCongress	No	NA	F	Married	T	F	F	R+4	Yes	94.4	46869	S
+patrick	Florida	25	25	FL	FL25	Mario Díaz-Balart 	Republican	https://mariodiazbalart.org	MarioDB	Yes	57	M	Married	F	T	F	R+4	Yes	94.4	46869	S
+patrick	Georgia	3	03	GA	GA03	Chuck Enderlin 	Democratic	https://chuckenderlin.com	Vote_Chuck	No	NA	M	Married	T	F	F	R+18	Yes	60.53	50155	S
+patrick	Georgia	3	03	GA	GA03	Drew Ferguson 	Republican	https://ferguson.house.gov	RepDrewFerguson	Yes	51	M	Married	T	F	F	R+18	Yes	60.53	50155	S
+patrick	Georgia	5	05	GA	GA05	John Lewis 	Democratic	https://www.johnlewisforcongress.com	repjohnlewis	Yes	78	M	Single	F	F	T	D+34	No	99.97	40708	S
+patrick	Illinois	6	06	IL	IL06	Sean Casten 	Democratic	https://castenforcongress.com	VoteCasten	No	NA	M	Married	T	F	F	R+2	Yes	99.4	85,655	MW
+patrick	Illinois	6	06	IL	IL06	Peter Roskam 	Republican	https://www.roskamforcongress.com	PeterRoskam	Yes	58	M	Married	T	F	F	R+2	Yes	99.4	85,655	MW
+patrick	Indiana	8	08	IN	IN08	Larry Bucshon 	Republican	https://www.bucshonforcongress.com	DrLarryBucshon	Yes	56	M	Married	T	F	F	R+15	Yes	58.1	36,732	MW
+patrick	Indiana	8	08	IN	IN08	William Tanoos 	Democratic	http://williamtanoos.com	Tanoos2018	No	NA	M	Married	F	F	F	R+15	Yes	58.1	36,732	MW
+patrick	Iowa	4	04	IA	IA04	Charles Aldrich 	Libertarian	NA	NA	No	NA	M	NA	F	F	F	R+11	Yes	50.58	38,242	MW
+patrick	Iowa	4	04	IA	IA04	Steve King 	Republican	https://www.steveking.com	SteveKingIA	Yes	69	M	Married	T	F	F	R+11	Yes	50.58	38,242	MW
+patrick	Iowa	4	04	IA	IA04	J.D. Scholten	Democratic	https://www.scholten4iowa.com	Scholten4Iowa	No		M	Single	T	F	F	R+11	Yes	50.58	38,242	MW
+patrick	Kansas	4	04	KS	KS04	Ron Estes 	Republican	https://estesforcongress.com	RonEstesKS	Yes	62	M	Married	T	F	F	R+15	Yes	78.9	40,917	MW
+patrick	Kansas	4	04	KS	KS04	James Thompson 	Democratic	https://www.votejamesthompson.com	JamesThompsonKS	No	NA	M	Married	T	F	F	R+15	Yes	78.9	40,917	MW
+patrick	Kentucky	6	06	KY	KY06	Andy Barr 	Republican	https://www.andybarrforcongress.com	barrforcongress	Yes	45	M	Married	T	F	F	R+9	Yes	72.59	50,659	S
+patrick	Kentucky	6	06	KY	KY06	Frank Harris 	Libertarian	https://www.votefrankharris.com	VoteFrankHarris	No	56	M	Married	T	F	F	R+9	Yes	72.59	50,659	S
+patrick	Kentucky	6	06	KY	KY06	Amy McGrath 	Democratic	https://amymcgrathforcongress.com	AmyMcGrathKY	No	NA	F	Married	T	F	F	R+9	Yes	72.59	50,659	S
+patrick	Massachusetts	3	03	MA	MA03	Rick Green 	Republican	https://www.rickgreenforma.com	RickGreenMA	No	NA	M	Married	T	F	F	D+9	Yes	48.2	63270	NE
+patrick	Massachusetts	3	03	MA	MA03	Dan Koh 	Democratic	https://koh2018.com	dank	No	33	M	Married	F	F	F	D+9	Yes	48.2	63270	NE
+patrick	Massachusetts	3	03	MA	MA03	Lori Trahan 	Democratic	https://loritrahan.com	LoriUSCongress	No	NA	F	Married	T	F	F	D+9	Yes	48.2	63270	NE
+patrick	Minnesota	4	04	MN	MN04	Betty McCollum 	Democratic	https://www.mccollumforcongress.com	VoteBetty	Yes	64	F	Single	T	F	F	D+14	Yes	97.21	66,175	MW
+patrick	Minnesota	4	04	MN	MN04	Susan Pendergast Sindt 	Legal Marijuana Now	https://www.facebook.com/Sindtforcongress/	NA	No	NA	F	NA	T	F	F	D+14	Yes	97.21	66,175	MW
+patrick	Minnesota	4	04	MN	MN04	Greg Ryan 	Republican	http://ryan4us.com	GregTRyan4US	No	NA	M	Single	T	F	F	D+14	Yes	97.21	66,175	MW
+patrick	Minnesota	6	06	MN	MN06	Tom Emmer 	Republican	https://emmerforcongress.com	tomemmer	Yes	57	M	Married	T	F	F	R+12	Yes	69.55	77,049	MW
+patrick	Minnesota	6	06	MN	MN06	Ian Todd 	Democratic	https://www.iantoddforcongress.com	IanToddforMN	No	NA	M	Married	T	F	F	R+12	Yes	69.55	77,049	MW
+patrick	Minnesota	7	07	MN	MN07	Dave Hughes 	Republican	https://www.hughesforcongress.us	DHughesCongress	No		M	Married	T	F	F	R+12	Yes	35.87	52,620	MW
+patrick	Minnesota	7	07	MN	MN07	Collin Peterson 	Democratic	http://www.petersonforcongress.com	collinpeterson	Yes	74	M	Single	T	F	F	R+12	Yes	35.87	52,620	MW
+patrick	Mississippi	1	01	MS	MS01	Trent Kelly 	Republican	http://www.kellyformississippi.com	RepTrentKelly	Yes	52	M	Single	T	F	F	R+16	Yes	38.36	35,831	S
+patrick	Mississippi	1	01	MS	MS01	Randy Wadkins 	Democratic	https://www.wadkinsforcongress.com	Wadkins2018	No	53	M	Single	T	F	F	R+16	Yes	38.36	35,831	S
+patrick	New Jersey	2	02	NJ	NJ02	Seth Grossman 	Republican	https://grossmanforcongress.com	Grossman4NJ	No	NA	M	NA	T	F	F	R+1	Yes	79.1	44,173	NE
+patrick	New Jersey	2	02	NJ	NJ02	Jeff Van Drew 	Democratic	https://www.vandrewforcongress.com	VanDrewForNJ	No	NA	M	Single	T	F	F	R+1	Yes	79.1	44,173	NE
+patrick	New York	1	01	NY	NY01	Perry Gershon 	Democratic	https://www.perrygershon.com	perrygershon	No	NA	M	Married	T	F	F	R+5	Yes	93.89	61,884	NE
+patrick	New York	1	01	NY	NY01	Lee Zeldin 	Republican	https://zeldinforcongress.com	leezeldin	Yes	38	M	Married	T	F	F	R+5	Yes	93.89	61,884	NE
+patrick	New York	4	04	NY	NY04	Ameer Benno 	Republican	https://www.benno4congress.com	Benno4Congress	No	NA	M	Married	T	F	F	D+4	Yes	87.4	87860	NE
+patrick	New York	4	04	NY	NY04	Kathleen Rice 	Democratic	https://www.kathleenrice.com	KathleenRice	Yes	53	F	Single	T	F	F	D+4	Yes	87.4	87860	NE
+patrick	North Carolina	3	03	NC	NC03	Walter Jones 	Republican	http://www.walterjonescommittee.com	RepWalterJones	Yes	75	M	Married	T	F	F	R+12	No	53.13	44,871	S
+patrick	North Carolina	7	07	NC	NC07	Kyle Horton 	Democratic	https://www.drkyleforcongress.com	drkyle4congress	No	NA	F	Single	T	F	F	R+9	Yes	52.92	39,710	S
+patrick	North Carolina	7	07	NC	NC07	David Rouzer 	Republican	http://davidrouzer.com	RepDavidRouzer	Yes	46	M	Single	T	F	F	R+9	Yes	52.92	39,710	S
+patrick	Ohio	16	16	OH	OH16	Anthony Gonzalez 	Republican	https://www.voteanthonygonzalez.com	anthonygonzalez	No	34	M	Married	F	T	F	R+8	Yes	31.4	58,526	MW
+patrick	Ohio	16	16	OH	OH16	Susan Moran Palmer 	Democratic	https://www.susanpalmerforcongress.com	SusanPalmerOH	No	NA	F	Married	T	F	F	R+8	Yes	31.4	58,526	MW
+patrick	Oklahoma	3	03	OK	OK03	Frank Lucas 	Republican	http://www.frankdlucas.com	RepFrankLucas	Yes	58	M	Married	T	F	F	R+27	Yes	50.71	32,098	S
+patrick	Oklahoma	3	03	OK	OK03	Frankie Robbins 	Democratic	http://robbinsforoklahoma.com	RobbinsforOK	No	72	M	Single	T	F	F	R+27	Yes	50.71	32,098	S
+patrick	Texas	2	02	TX	TX02	Dan Crenshaw 	Republican	https://crenshawforcongress.com	DanCrenshawTX	No	NA	M	Married	T	F	F	R+11	Yes	98.11	72,711	S
+patrick	Texas	2	02	TX	TX02	Scott Cubbler 	Independent	https://www.cubblerforcongress.com	ScottCubbler	No	NA	M	Married	T	F	F	R+11	Yes	98.11	72,711	S
+patrick	Texas	2	02	TX	TX02	Patrick Gunnels 	Libertarian	NA	NA	No	NA	M	NA	F	F	F	R+11	Yes	98.11	72,711	S
+patrick	Texas	2	02	TX	TX02	Todd Litton 	Democratic	https://toddlitton.com	toddlitton	No	NA	M	Married	T	F	F	R+11	Yes	98.11	72,711	S
+patrick	Texas	5	05	TX	TX05	Lance Gooden 	Republican	http://lancegooden.com	RepLanceGooden	No	35	M	Married	T	F	F	R+16	Yes	67.16	50,536	S
+patrick	Texas	5	05	TX	TX05	Dan Wood 	Democratic	https://www.votedanwood.com	DanWood2018	No	62	M	Married	T	F	F	R+16	Yes	67.16	50,536	S
+patrick	Texas	10	10	TX	TX10	Michael McCaul 	Republican	https://www.michaelmccaul.com	RepMcCaul	Yes	56	M	Married	T	F	F	R+9	Yes	77.46	73,476	S
+patrick	Texas	10	10	TX	TX10	Mike Ryan 	Libertarian	http://mikeryantexas.nationbuilder.com	NA	No	NA	M	NA	F	F	F	R+9	Yes	77.46	73,476	S
+patrick	Texas	10	10	TX	TX10	Mike Siegel 	Democratic	https://www.siegelfortexas.org	SiegelForTexas	No	NA	M	Married	T	F	F	R+9	Yes	77.46	73,476	S
+patrick	Texas	18	18	TX	TX18	Sheila Jackson Lee 	Democratic	http://www.sheilajacksonlee18.com	JacksonLeeTX18	Yes	68	F	Married	F	F	T	D+27	Yes	99.94	42,662	S
+patrick	Texas	18	18	TX	TX18	Ava Pate 	Republican	http://www.avapateforuscongress.com	avaforcongress	No	52	F	Married	F	T	F	D+27	Yes	99.94	42,662	S
+patrick	Texas	18	18	TX	TX18	Luke Spencer 	Libertarian	https://lukespencerforcongress.com	SpencerCongress	No	NA	M	NA	T	F	F	D+27	Yes	99.94	42,662	S
+patrick	Texas	27	27	TX	TX27	Michael Cloud 	Republican	https://www.cloudforcongress.com	MichaelJCloud	Yes	43	M	Married	T	F	F	R+13	Yes	74.99	53,047	S
+patrick	Texas	27	27	TX	TX27	James Duerr 	Independent	http://duerrforcongress.com	Duerr4Congress	No	NA	M	NA	T	F	F	R+13	Yes	74.99	53,047	S
+patrick	Texas	27	27	TX	TX27	Eric Holguin 	Democratic	https://www.ericforus.com	EricHolguinTX	No	NA	M	Single	F	T	F	R+13	Yes	74.99	53,047	S
+patrick	Texas	27	27	TX	TX27	Daniel Tinus 	Libertarian	https://dtinusforcongress.com	tinus4congress	No	NA	M	Married	T	F	F	R+13	Yes	74.99	53,047	S
+patrick	Washington	5	05	WA	WA05	Lisa Brown 	Democratic	https://lisabrownforcongress.com	lisa4congress	No	61	F	Married	T	F	F	R+8	Yes	1.5	35,720	W
+patrick	Washington	5	05	WA	WA05	Cathy McMorris Rodgers	Republican	http://www.cathyforcongress.com	TeamCMR	Yes	49	F	Married	T	F	F	R+8	Yes	1.5	35,720	W
+thomas	Alabama	7	07	AL	AL07	Terri Sewell 	Democratic	https://sewell.house.gov/	RepTerriSewell	Yes	53	F	NA	F	F	T	D+20	No	72.16	34664	S
+thomas	California	26	26	CA	CA26	Julia Brownley 	Democratic	https://juliabrownley.house.gov/	JuliaBrownley26	Yes	66	F	NA	T	F	F	D+7	Yes		72804	W
+thomas	California	26	26	CA	CA26	Antonio Sabàto Jr 	Republican	http://voteantonio.com/	AntonioSabatoJr	No	46	M	NA	F	F	F	D+7	Yes		72804	W
+thomas	California	33	33	CA	CA33	Ted Lieu 	Democratic	https://lieu.house.gov/	tedlieu	Yes	49	M	Married	F	F	F	D+16	Yes		61273	W
+thomas	California	33	33	CA	CA33	Kenneth Wright 	Republican	https://drwright4congress.com/	drwright4congr1	No		M	NA	T	F	F	D+16	Yes		61273	W
+thomas	California	39	39	CA	CA39	Gil Cisneros 	Democratic	https://cisnerosforcongress.com/	GilCisnerosCA	No	48	M	Married	F	F	F	Even	Yes		76748	W
+thomas	California	39	39	CA	CA39	Young Kim 	Republican	https://www.kimforcongress2018.com/	YoungKimCD39	No	55	F	Married	F	F	F	Even	Yes		76748	W
+thomas	California	48	48	CA	CA48	Harley Rouda 	Democratic	https://www.harleyforcongress.com/	HarleyRouda	No		M	Married	T	F	F	R+4	Yes		76077	W
+thomas	California	48	48	CA	CA48	Dana Rohrabacher 	Republican	http://www.rohrabacher.com/	DanaRohrabacher	Yes	71	M	Married	T	F	F	R+4	Yes		76077	W
+thomas	California	51	51	CA	CA51	Juan Hidalgo Jr 	Republican	http://hidalgoforcongress.com/	HidalgoFor51st	No	52	M	Married	F	T	F	D+22	Yes		41477	W
+thomas	California	51	51	CA	CA51	Juan Vargas 	Democratic	https://vargas.house.gov/	RepJuanVargas	Yes	57	M	Married	F	T	F	D+22	Yes		41477	W
+thomas	Colorado	3	03	CO	CO03	Mary Malarsie 	Independent	https://www.marymindependent.com/		No		F	NA	T	F	F	R+6	Yes	64.75	47012	W
+thomas	Colorado	3	03	CO	CO03	Diane Mitsch Bush 	Democratic	https://dianeforcolorado.com/	RepDMB	No	68	F	Married	T	F	F	R+6	Yes	64.75	47012	W
+thomas	Colorado	3	03	CO	CO03	Scott Tipton 	Republican	https://tipton.house.gov/	RepTipton	Yes	61	M	Married	T	F	F	R+6	Yes	64.75	47012	W
+thomas	Colorado	4	04	CO	CO04	Ken Buck 	Republican	https://buck.house.gov/	RepKenBuck	Yes	59	M	Married	T	F	F	R+13	Yes	72.9	57836	W
+thomas	Colorado	4	04	CO	CO04	Karen McCormick 	Democratic	https://www.mccormickforcongress.org/	McCormickForCO	No		F	Married	T	F	F	R+13	Yes	72.9	57836	W
+thomas	Colorado	6	06	CO	CO06	Mike Coffman 	Republican	https://coffman.house.gov/	RepMikeCoffman	Yes	63	M	NA	T	F	F	D+2	Yes	98.51		W
+thomas	Colorado	6	06	CO	CO06	Jason Crow 	Democratic	https://jasoncrowforcongress.com/	JasonCrowCO6	No		M	Married	T	F	F	D+2	Yes	98.51		W
+thomas	Florida	14	14	FL	FL14	Kathy Castor 	Democratic	https://castor.house.gov/	USRepKCastor	Yes	52	F	Married	T	F	F	D+7	No	99.3		S
+thomas	Georgia	7	07	GA	GA07	Carolyn Bourdeaux 	Democratic	https://www.carolyn4congress.com/	Carolyn4GA7	No		F	Married	T	F	F	R+9	Yes	99.55		S
+thomas	Georgia	7	07	GA	GA07	Rob Woodall 	Republican	https://woodall.house.gov/	RepRobWoodall	Yes	48	M	NA	T	F	F	R+9	Yes	99.55		S
+thomas	Illinois	7	07	IL	IL07	Craig Cameron 	Republican	https://cameron4congress.com/	CraigCameron07	No		M	NA	F	F	T	D+38	Yes	100	44535	MW
+thomas	Illinois	7	07	IL	IL07	Danny Davis 	Democratic	https://davis.house.gov/	RepDannyDavis	Yes	77	M	Married	F	F	T	D+38	Yes	100	44535	MW
+thomas	Illinois	13	13	IL	IL13	Rodney Davis 	Republican	https://rodneydavis.house.gov/	RodneyDavis	Yes	48	M	Married	T	F	F	R+3	Yes	78.9	44915	MW
+thomas	Illinois	13	13	IL	IL13	Betsy Dirksen Londrigan 	Democratic	https://www.betsydirksenlondrigan.com/	BetsyforIL	No		F	Married	T	F	F	R+3	Yes	78.9	44915	MW
+thomas	Indiana	5	05	IN	IN05	Susan Brooks 	Republican	https://susanwbrooks.house.gov/	SusanWBrooks	Yes	58	F	Married	T	F	F	R+9	Yes	74.53	58,115	MW
+thomas	Indiana	5	05	IN	IN05	Dee Thornton 	Democratic	http://www.deethorntonforcongress.com/	VoteThornton	No		F	Married	F	F	T	R+9	Yes	74.53	58,115	MW
+thomas	Michigan	7	07	MI	MI07	Gretchen Driskell 	Democratic	https://votedriskell.com/	gdriskell	No	59	F	Married	T	F	F	R+7	Yes	79.9		MW
+thomas	Michigan	7	07	MI	MI07	Tim Walberg 	Republican	https://walberg.house.gov/	RepWalberg	Yes	67	M	Married	T	F	F	R+7	Yes	79.9		MW
+thomas	Nevada	4	04	NV	NV04	Cresent Hardy 	Republican	https://www.cresenthardy.com/	CresentHardy	No	61	M	Married	T	F	F	D+3	Yes		50134	W
+thomas	Nevada	4	04	NV	NV04	Steven Horsford 	Democratic	https://www.stevenhorsford.com/	StevenHorsford	No	45	M	Married	F	F	T	D+3	Yes		50134	W
+thomas	New Jersey	9	09	NJ	NJ09	Bill Pascrell 	Democratic	https://pascrell.house.gov/	BillPascrell	Yes	81	M	Married	T	F	F	D+16	Yes	100	52437	NE
+thomas	New Jersey	11	11	NJ	NJ11	Mikie Sherrill 	Democratic	https://mikiesherrill.com/	MikieSherrill	No	46	F	Married	T	F	F	R+3	Yes	93.49	79009	NE
+thomas	New Jersey	11	11	NJ	NJ11	Jay Webber 	Republican	https://www.webberforcongress.com/splash_wfc?splash=1	JayWebberNJ	No	46	M	Married	T	F	F	R+3	Yes	93.49	79009	NE
+thomas	New York	8	08	NY	NY08	Hakeem Jeffries 	Democratic	https://jeffries.house.gov/	RepJeffries	Yes	48	M	NA	F	F	T	D+36	Yes			NE
+thomas	New York	10	10	NY	NY10	Naomi Levin 	Republican	https://naomiforcongress.com/	NaomiLevinNY	No		F	NA	T	F	F	D+26	Yes		70270	NE
+thomas	New York	10	10	NY	NY10	Jerry Nadler 	Democratic	https://nadler.house.gov/	RepJerryNadler	Yes	71	M	Married	T	F	F	D+26	Yes		70270	NE
+thomas	New York	18	18	NY	NY18	Sean Patrick Maloney	Democratic	https://seanmaloney.house.gov/	RepSeanMaloney	Yes	52	M	Married	T	F	F	R+1	Yes		71399	NE
+thomas	New York	18	18	NY	NY18	James O'Donnell 	Republican	https://www.voteodonnell.com/	JamesODonnellNY	No		M	Married	T	F	F	R+1	Yes		71399	NE
+thomas	North Carolina	12	12	NC	NC12	Alma Adams 	Democratic	https://adams.house.gov/	RepAdams	Yes	72	F	NA	F	F	T	D+18	Yes	98.93	35775	S
+thomas	North Carolina	12	12	NC	NC12	Paul Wright 	Republican	http://wrightforuscongress.com/		No		M	Married	T	F	F	D+18	Yes	98.93	35775	S
+thomas	Ohio	12	12	OH	OH12	Troy Balderson 	Republican	https://baldersonforcongress.com/	Troy_Balderson	Yes	56	M	NA	T	F	F	R+7	Yes		63046	MW
+thomas	Ohio	12	12	OH	OH12	Danny O'Connor 	Democratic	https://dannyoconnorforcongress.com/	dannyoconnor1	No	31	M	NA	T	F	f	R+7	Yes		63046	MW
+thomas	Ohio	13	13	OH	OH13	Chris DePizzo 	Republican	https://depizzoforcongress.com/	chrisdepizzo	No		M	Married	T	F	F	D+7	Yes		40429	MW
+thomas	Ohio	13	13	OH	OH13	Tim Ryan 	Democratic	https://timryan.house.gov/	RepTimRyan	Yes	45	M	Married	T	F	F	D+7	Yes		40429	MW
+thomas	Ohio	14	14	OH	OH14	David Joyce 	Republican	https://joyceforcongress.com/	RepDaveJoyce	Yes	61	M	Married	T	F	F	R+5	Yes	74.05	58451	MW
+thomas	Ohio	14	14	OH	OH14	Betsy Rader 	Democratic	https://www.betsyraderforcongress.com/	BetsyRaderOH	No		F	Married	T	F	F	R+5	Yes	74.05	58451	MW
+thomas	Oregon	2	02	OR	OR02	Jamie McLeod-Skinner 	Democratic	https://jamiefororegon.com/	JamieforOregon	No		F	Married	T	F	F	R+11	Yes		35,600	W
+thomas	Oregon	2	02	OR	OR02	Greg Walden 	Republican	https://walden.house.gov/	repgregwalden	Yes	61	M	Married	T	F	F	R+11	Yes		35,600	W
+thomas	South Carolina	2	02	SC	SC02	Sean Carrigan 	Democratic	http://www.carriganforcongress.com/	VoteCarrigan	No		M	Married	T	F	F	R+12	Yes		42912	S
+thomas	South Carolina	2	02	SC	SC02	Sonny Narang 	American	http://www.sonny4congress.com/		No		M	Married	F	F	F	R+12	Yes		42912	S
+thomas	South Carolina	2	02	SC	SC02	Joe Wilson 	Republican	https://joewilson.house.gov/	RepJoeWilson	Yes	71	M	Married	T	F	F	R+12	Yes		42912	S
+thomas	Texas	11	11	TX	TX11	Mike Conaway 	Republican	https://conaway.house.gov/	ConawayTX11	Yes	70	M	Married	T	F	F	R+32	Yes	71.66	50602	S
+thomas	Texas	11	11	TX	TX11	Jennie Lou Leeder 	Democratic	http://jennielouleeder.com/	JennieLouLeeder	No		F	NA	T	F	F	R+32	Yes	71.66	50602	S
+thomas	Texas	12	12	TX	TX12	Vanessa Adia 	Democratic	https://www.vanessaadia.com/	VanessaAdiaTX12	No		F	Married	F	F	F	R+18	Yes	86.54	62214	S
+thomas	Texas	12	12	TX	TX12	Kay Granger 	Republican	https://kaygranger.house.gov/	RepKayGranger	Yes	75	F	NA	T	F	F	R+18	Yes	86.54	62214	S
+thomas	Texas	12	12	TX	TX12	Jacob Leddy 	Libertarian	https://www.readyforleddy.com/	readyforleddy	No		M	NA	T	T	T	R+18	Yes	86.54	62214	S
+thomas	Texas	21	21	TX	TX21	Joseph Kopser 	Democratic	https://kopserforcongress.com/	JosephKopser	No		M	Married	T	F	F	R+10	Yes	78.15	68987	S
+thomas	Texas	21	21	TX	TX21	Chip Roy 	Republican	https://chiproy.com/levin/	chiproytx	No		M	Married	T	F	F	R+10	Yes	78.15	68987	S
+thomas	Texas	21	21	TX	TX21	Lee Santos 	Libertarian	https://www.hardcorelibertarian.com/	TxHopsfarmer	No		F	NA	T	F	F	R+10	Yes	78.15	68987	S
+thomas	Texas	26	26	TX	TX26	Mark Boler 	Libertarian	https://www.markboler4congress.org/	markboler	No		M	Married	T	F	F	R+18	Yes	93.4	87272	S
+thomas	Texas	26	26	TX	TX26	Michael Burgess 	Republican	https://burgess.house.gov/	michaelcburgess	Yes	67	M	Married	T	F	F	R+18	Yes	93.4	87272	S
+thomas	Texas	26	26	TX	TX26	Linsey Fagan 	Democratic	https://www.linseyfagan.com/	LinseyFaganTX	No		F	NA	T	F	F	R+18	Yes	93.4	87272	S
+thomas	Utah	1	01	UT	UT01	Rob Bishop 	Republican	https://robbishop.house.gov/	RepRobBishop	Yes	67	M	Married	T	F	F	R+26	Yes		56973	W
+thomas	Utah	1	01	UT	UT01	Lee Castillo 	Democratic	https://utahisforeverybody.com/	Lee4USCongress	No		M	NA	F	F	F	R+26	Yes		56973	W
+thomas	Utah	1	01	UT	UT01	Adam Davis 	Green	https://www.davisforutah.com/	davisforutah	No		M	NA	T	F	F	R+26	Yes		56973	W
+thomas	Utah	1	01	UT	UT01	Eric Eliason 	United Utah	https://eliasonforcongress.com/	EliasonCongress	No	46	M	Married	T	F	F	R+26	Yes		56973	W
+thomas	Virginia	1	01	VA	VA01	Vangie Williams 	Democratic	https://vangieforcongress.com/	Vangie4Congress	No		F	Married	F	F	T	R+8	Yes	69.54	81338	S
+thomas	Virginia	1	01	VA	VA01	Rob Wittman 	Republican	https://wittman.house.gov/	RobWittman	Yes	59	M	Married	T	F	F	R+8	Yes	69.54	81338	S
+thomas	Virginia	2	02	VA	VA02	Elaine Luria 	Democratic	https://elaineforcongress.com/	ElaineLuriaVA	No		F	Married	T	F	F	R+2	Yes	92.57	66953	S
+thomas	Virginia	2	02	VA	VA02	Scott Taylor 	Republican	https://taylor.house.gov/	RepScottTaylor	Yes	39	M	NA	T	F	F	R+2	Yes	92.57	66953	S
+thomas	Virginia	8	08	VA	VA08	Don Beyer 	Democratic	https://beyer.house.gov/	RepDonBeyer	Yes	68	M	Married	T	F	F	D+21	Yes	99.71	100719	S
+thomas	Virginia	8	08	VA	VA08	Thomas Oh 	Republican	https://www.letuschangecongress.org/	OhForCongress	No		M	NA	F	F	F	D+21	Yes	99.71	100719	S
+thomas	Virginia	11	11	VA	VA11	Gerry Connolly 	Democratic	https://connolly.house.gov/	GerryConnolly	Yes	68	M	Married	T	F	F	D+15	Yes	99.97	106554	S
+thomas	Virginia	11	11	VA	VA11	Jeff Dove 	Republican	http://www.doveforcongress.com/	JefferyADoveJr	No	37	M	Married	F	F	T	D+15	Yes	99.97	106554	S
+thomas	Virginia	11	11	VA	VA11	Stevan Porter 	Libertarian	http://www.porter4us.com/	Porter4Us	No	49	M	Married	T	F	F	D+15	Yes	99.97	106554	S
+thomas	Washington	3	03	WA	WA03	Jaime Herrera Beutler	Republican	https://herrerabeutler.house.gov/	HerreraBeutler	Yes	39	F	Married	T	F	F	R+4	Yes		44426	W
+thomas	Washington	3	03	WA	WA03	Carolyn Long 	Democratic	https://www.electlong.com/	ElectLong	No		F	Married	T	F	F	R+4	Yes		44426	W
+thomas	Washington	7	07	WA	WA07	Pramila Jayapal 	Democratic	https://jayapal.house.gov/	RepJayapal	Yes	53	F	Married	F	F	F	D+33	Yes		61747	W
+thomas	Washington	7	07	WA	WA07	Craig Keller 	Republican	http://www.keller4america.us/		No		M	Married	T	F	F	D+33	Yes		61747	W
+thomas	Wisconsin	8	08	WI	WI08	Mike Gallagher 	Republican	http://www.mikeforwisconsin.com/	RepGallagher	Yes	34	M	NA	T	F	F	R+7	Yes	56.04	43274	MW
+thomas	Wisconsin	8	08	WI	WI08	Beau Liegeois 	Democratic	https://beauforcongress.com/	beauforcongress	No		M	Married	T	F	F	R+7	Yes	56.04	43274	MW
+tony	Arkansas	1	1	AR	AR01	Rick Crawford	Republican	https://www.meetrickcrawford.com/	RepRickCrawford	Yes	52	M					R+17	Yes	44.5	28,940	S
+tony	California	28	28	CA	CA28	Johnny Nalbandian	Republican	http://votejohnny.us/	Johnny_Congress	No							D+23	Yes	99.86	65,849	W
+will	Alabama	3	03	AL	AL03	Mallory Hagan 	Democratic	https://www.haganforhouse.com/	ItsMalloryHagan	F	29	F	Single	T	F	F	R + 16	T			S
+will	Alabama	3	03	AL	AL03	Mike Rogers 	Republican	http://www.mikerogersforcongress.com/	MikeRogersCamp	T	60	M	Married	T	F	F	R + 16	T			S
+will	Arizona	4	04	AZ	AZ04	David Brill 	Democratic	http://www.brillforcongress.com/	Brill4Congress	F		M	Married	T	F	F	R + 21	T		49,466	W
+will	Arizona	4	04	AZ	AZ04	Paul Gosar 	Republican	http://drpaulgosar.com/	RepGosar	T	59	M	Married	T	F	F	R + 21	T		49,466	W
+will	Arizona	4	04	AZ	AZ04	Haryaksha Gregor Knauer 	Green	http://www.newmenu.org/HGK	None	F	58	M		T	F	F	R + 21	T		49,466	W
+will	California	1	01	CA	CA01	Audrey Denney 	Democratic	https://www.audreyforcongress.com/	audrey4congress	F	34	F		T	F	F	R +11	T			W
+will	California	1	01	CA	CA01	Doug LaMalfa 	Republican	http://www.douglamalfa.com/	DougLaMalfa	T	58	M	Married	T	F	F	R +11	T			W
+will	California	34	34	CA	CA34	Jimmy Gomez 	Democratic	http://www.jimmygomezforcongress.com/	jimmygomezca	T	43	M	Married	F	T	F	D+35	T			W
+will	California	34	34	CA	CA34	Kenneth Mejia 	Green	http://kennethmejiaforcongress.nationbuilder.com/	25forcongress	F	27	M		F	T	F	D+35	T			W
+will	California	43	43	CA	CA43	Omar Navarro 	Republican	http://www.omarnavarro.com/	RealOmarNavarro	F	29	M		F	T	F	D+29	T			W
+will	California	43	43	CA	CA43	Maxine Waters 	Democratic	https://maxinewatersforcongress.com/	MaxineWaters	T	80	F	Married	F	F	T	D+29	T			W
+will	Connecticut	5	05	CT	CT05	Jahana Hayes 	Democratic	https://www.jahanahayes.com/	JahanaHayesCT	F	45	F		F	F	T	D+2	T			NE
+will	Connecticut	5	05	CT	CT05	Manny Santos 	Republican	https://www.santosforcongress.com/	Santos4Congress	F		M	Married	F	T	F	D+2	T			NE
+will	Florida	3	03	FL	FL03	Yvonne Hayes Hinson 	Democratic	https://www.yvonneforcongress.com/	YvonneHinsonFL	F	70	F	Single	F	F	T	R+9	T			S
+will	Florida	3	03	FL	FL03	Ted Yoho 	Republican	http://www.tedyoho.com/	TedYoho	T	63	M	Married	T	F	F	R+9	T			S
+will	Florida	13	13	FL	FL13	George Buck 	Republican	https://www.georgebuckjr.com/	gbuck_jr	F		M		T	F	F	D+2	T			S
+will	Florida	13	13	FL	FL13	Charlie Crist 	Democratic	https://twitter.com/charliecristfl	CharlieCrist	T		M		T	F	F	D+2	T			S
+will	Florida	26	26	FL	FL26	Carlos Curbelo 	Republican	http://www.carloscurbelo.com/	carloslcurbelo	T		M		T	F	F	D+6	T			S
+will	Florida	26	26	FL	FL26	Debbie Mucarsel-Powell 	Democratic	http://debbiemucarselpowell.com/	DebbieforFL	F		F		T	F	F	D+6	T			S
+will	Illinois	2	02	IL	IL02	Robin Kelly 	Democratic	http://robinkellyforcongress.org/	RobinLynneKelly	T		F		F	F	T	D+29	T			MW
+will	Illinois	11	11	IL	IL11	Bill Foster 	Democratic	http://www.billfoster.com/	Foster4Congress	T		M		T	F	F	D+9	T			MW
+will	Illinois	11	11	IL	IL11	Nick Stella 	Republican	http://stellaforcongress.com/	NickStellaMD	F		M		T	F	F	D+9	T			MW
+will	Louisiana	2	02	LA	LA02	Cedric Richmond 	Democratic	http://www.cedricrichmond.com/	CedricRichmond	T		M		F	F	T	D+25	F			S
+will	Maryland	1	01	MD	MD01	Jesse Colvin 	Democratic	http://jessecolvin.com/	Colvin4Congress	F		M	Married	T	F	F	R+14	T			S
+will	Maryland	1	01	MD	MD01	Andy Harris 	Republican	http://www.andyharris.com/	Harris4Congress	T		M		T	F	F	R+14	T			S
+will	Maryland	1	01	MD	MD01	Jenica Martin 	Libertarian	http://www.martin4congress.us/	martin4maryland	F		F		F	F	T	R+14	T			S
+will	Maryland	4	04	MD	MD04	David Bishop 	Libertarian	http://www.bishop4congress.com/	Bishop4House	F		M		T	F	F	D+28	T			S
+will	Maryland	4	04	MD	MD04	Anthony Brown 	Democratic	http://www.anthonybrown.com/	AnthonyBrownMD4	T		M		F	F	T	D+28	T			S
+will	Maryland	4	04	MD	MD04	George McDermott 	Republican	http://georgemcdermott.com/	GeorgeMcDermot3	F		M		T	F	F	D+28	T			S
+will	Massachusetts	1	01	MA	MA01	Richard Neal 	Democratic	http://www.nealforcongress.com/	RepRichardNeal	T		M		T	F	F	D+12	F			NE
+will	Minnesota	1	01	MN	MN01	Dan Feehan 	Democratic	https://danfeehan.com/	danielfeehan	F		M	Married	T	F	F	R+5	T			MW
+will	Minnesota	1	01	MN	MN01	Jim Hagedorn 	Republican	http://www.jimhagedorn.org/	JimHagedornMN	F		M		T	F	F	R+5	T			MW
+will	Missouri	6	06	MO	MO06	Sam Graves 	Republican	http://www.gravesforcongress.com/	RepSamGraves	T		M		T	F	F	R+12	T			MW
+will	Missouri	6	06	MO	MO06	Dan Hogan 	Libertarian	http://hogan4congress2016.my-free.website/	Hogan4Congress	F		M		T	F	F	R+12	T			MW
+will	Missouri	6	06	MO	MO06	Henry Martin 	Democratic	http://www.henrymartinforcongress.com/	hmforcongress	F		M		F	F	T	R+12	T			MW
+will	New Jersey	6	06	NJ	NJ06	Frank Pallone 	Democratic	http://www.pallonefornewjersey.com/	pallonefornj	F							R+2	T			NE
+will	New Jersey	6	06	NJ	NJ06	Rich Pezzullo 	Republican	http://www.pezzullo.com/	RichPezzulloNJ	T		M		T	F	F	R+2	T			NE
+will	New Mexico	1	01	NM	NM01	Janice Arnold-Jones	Republican	https://www.janiceforcongress2018.com/	LadySunshineNM	F		M		T	F	F	D+7	T			W
+will	New Mexico	1	01	NM	NM01	Debra Haaland 	Democratic	http://debforcongress.com/	Deb4CongressNM	T		F		T	F	F	D+7	T			W
+will	New Mexico	1	01	NM	NM01	Lloyd Princeton 	Libertarian	https://lloydprinceton.com/	LloydPrinceton	F		M		T	F	F	D+7	T			W
+will	New York	3	03	NY	NY03	Dan DeBono 	Republican	http://www.debonoforcongress.com/	DanDeBono	F		M	Married	T	F	F	D+1	T			NE
+will	New York	3	03	NY	NY03	Tom Suozzi 	Democratic	https://suozziforcongress.com/	Tom_Suozzi	T		M	Married	T	F	F	D+1	T			NE
+will	New York	25	25	NY	NY25	Jim Maxwell 	Republican	https://drjimmaxwell.com/	drjimmaxwell	F		M		T	F	F	D+8	T			NE
+will	New York	25	25	NY	NY25	Joe Morelle 	Democratic	https://www.votemorelle.com/	votemorelle	F		M		T	F	F	D+8	T			NE
+will	North Carolina	9	09	NC	NC09	Mark Harris 	Republican	https://www.markharrisforcongress.com/	MarkHarrisNC9	T		M	Married	T	F	F	R+8	T			S
+will	North Carolina	9	09	NC	NC09	Dan McCready 	Democratic	http://www.danmccready.com/	McCreadyForNC	F		M		T	F	F	R+8	T			S
+will	North Carolina	9	09	NC	NC09	Jeff Scott 	Libertarian	http://lpmeck.org/jeff-scott/	Kleptosclerosis	F		M		T	F	F	R+8	T			S
+will	Ohio	4	04	OH	OH04	Janet Garrett 	Democratic	http://www.janetgarrett.com/	Janet4OH	F		F		T	F	F	R+14	T			MW
+will	Ohio	4	04	OH	OH04	Jim Jordan 	Republican	http://jimjordanforcongress.com/	Votejimjordan	T		M		T	F	F	R+14	T			MW
+will	Ohio	8	08	OH	OH08	Warren Davidson 	Republican	http://www.davidsonforcongress.com/	Vote_Davidson	T		M		T	F	F	R+17	T			MW
+will	Ohio	8	08	OH	OH08	Vanessa Enoch 	Democratic	https://enochforcongress.com/	DrVEnoch	F		F		F	F	T	R+17	T			MW
+will	Oregon	5	05	OR	OR05	Mark Callahan 	Republican	http://callahanfororegon.com/	Callahan4Oregon	F		M		T	F	F	EVEN	T			W
+will	Oregon	5	05	OR	OR05	Kurt Schrader 	Democratic	http://www.kurtschrader.com/	VoteSchrader	T		M		T	F	F	EVEN	T			W
+will	Pennsylvania	6	06	PA	PA06	Chrissy Houlahan 	Democratic	http://www.chrissyhoulahanforcongress.com/	HoulahanForPa	F		F		T	F	F	D+2	T			NE
+will	Pennsylvania	6	06	PA	PA06	Greg McCauley 	Republican	https://mccauleyforcongress.com/	McCauley4PA	F		M		T	F	F	D+2	T			NE
+will	Pennsylvania	12	12	PA	PA12	Marc Friedenberg 	Democratic	http://www.marcforpa.com/	MarcForPA	F		M		F	T	F	R+17	T			NE
+will	Pennsylvania	12	12	PA	PA12	Jerry Kairnes 	Independent	http://www.jerrykairnesforcongress.com/	gogojerrygo	F		M		T	F	F	R+17	T			NE
+will	Pennsylvania	12	12	PA	PA12	Tom Marino 	Republican	http://www.tommarinoforcongress.com/	MarinoPA10	T		M		T	F	F	R+17	T			NE
+will	Pennsylvania	15	15	PA	PA15	Susan Boser 	Democratic	https://www.susanboserforcongress.com/	BoserforPA	F		F		T	F	F	R+20	T			NE
+will	Pennsylvania	15	15	PA	PA15	Glenn Thompson 	Republican	http://www.friendsofglennthompson.com/	GT_TeamGT	T		M		T	F	F	R+20	T			NE
+will	Tennessee	1	01	TN	TN01	Marty Olsen 	Democratic	http://olsenforcongress.com/	martyo4congress	F		M		T	F	F	R+28	T			S
+will	Tennessee	1	01	TN	TN01	Phil Roe 	Republican	http://www.roe4congress.com/	DrPhilRoe	T		M		T	F	F	R+28	T			S
+will	Tennessee	1	01	TN	TN01	Michael Salyer 	Independent	https://www.facebook.com/SalyerForUSCongress	Salyer2012	F		M		T	F	F	R+28	T			S
+will	Tennessee	2	02	TN	TN02	Tim Burchett 	Republican	https://www.burchettforcongress.com/	timburchett	F		M		T	F	F	R+20	T			S
+will	Tennessee	2	02	TN	TN02	Jeffrey Grunau 	Independent	http://reasonanddecency.com/		F		M		T	F	F	R+20	T			S
+will	Tennessee	2	02	TN	TN02	Renee Hoyos 	Democratic	http://hoyosforcongress.com/	Hoyos4Congress	F		F		T	F	F	R+20	T			S
+will	Tennessee	2	02	TN	TN02	Greg Samples 	Independent	http://gregsamples4congress.com/	gregsamples	F		M		T	F	F	R+20	T			S
+will	Tennessee	2	02	TN	TN02	Allen Smith 	Independent	Not a candidate		F							R+20	T			S
+will	Tennessee	2	02	TN	TN02	Marc Whitmire 	Independent	https://whitmire2018.com/	whitmire2018	F		M		T	F	F	R+20	T			S
+will	Tennessee	3	03	TN	TN03	Chuck Fleischmann 	Republican	https://www.chuckforcongress.com/	chuck4congress	T		M		T	F	F	R+18	T			S
+will	Tennessee	3	03	TN	TN03	Danielle Mitchell 	Democratic	https://www.mitchell4congress.com/	DMMD4TNCongress	F		F		T	F	F	R+18	T			S
+will	Tennessee	3	03	TN	TN03	Rick Tyler 	Independent	http://ricktylerforcongress.com/	USAWhiteAgain	F		M		T	F	F	R+18	T			S
+will	Tennessee	4	04	TN	TN04	Scott DesJarlais 	Republican	http://www.scottdesjarlais.com/	tndesjarlais	T		M		T	F	F	R+20	T			S
+will	Tennessee	4	04	TN	TN04	Mariah Phillips 	Democratic	https://www.mariah4congress.com/	Mariah4Congress	F		F	Married	T	F	F	R+20	T			S
+will	Tennessee	4	04	TN	TN04	Michael Shupe 	Independent	https://www.facebook.com/Mike-for-Congress-1893543124307166/	mike4congresstn	F		M		T	F	F	R+20	T			S
+will	Texas	4	04	TX	TX04	Catherine Krantz 	Democratic	http://catherinekrantzforcongress.com/	Krantz4Congress	F		F		T	F	F	R+28	T			S
+will	Texas	4	04	TX	TX04	John Ratcliffe 	Republican	http://ratcliffeforcongress.com/	RatcliffeTX4	T		M		T	F	F	R+28	T			S
+will	Texas	6	06	TX	TX06	Jana Lynne Sanchez 	Democratic	https://sanchez4texas.com/	janasanchez	F		F		F	T	F	R+9	T			S
+will	Texas	6	06	TX	TX06	Ron Wright 	Republican	https://www.wright4congress.com/	ron4congress	T		M		T	F	F	R+9	T			S
+will	Texas	16	16	TX	TX16	Veronica Escobar 	Democratic	http://www.veronicaescobar.com/	vgescobar	T		F		F	T	F	D+17	T			S
+will	Texas	16	16	TX	TX16	Ben Mendoze 	Independent	https://benmenus2018.com/	bentex2055	F		M		F	T	F	D+17	T			S
+will	Texas	16	16	TX	TX16	Rick Seeberger 	Republican	https://www.seebergerforcongress.com/	RickSeeberger	F		M		T	f	F	D+17	T			S
+will	Texas	20	20	TX	TX20	Joaquín Castro 	Democratic	http://www.castroforcongress.com/	Castro4Congress	T		M		F	T	F	D+10	T			S
+will	Utah	2	02	UT	UT02	Jan Garbett 	United Utah	https://www.jangarbettforcongress.com/	VoteJanGarbett	F		F		T	F	F	R+16	T			W
+will	Utah	2	02	UT	UT02	Shireen Ghorbani 	Democratic	http://shireenforcongress.com/	ShireenGhorbani	F		F		T	F	F	R+16	T			W
+will	Utah	2	02	UT	UT02	Chris Stewart 	Republican	http://www.stewartforutah.com/	StewartforUtah	T		M		T	F	F	R+16	T			W
+will	Utah	2	02	UT	UT02	Jeffrey Whipple 	Libertarian	https://www.whippleforcongress.org/	jeffreywhipple	F		M		T	F	F	R+16	T			W
+will	Virginia	10	10	VA	VA10	Barbara Comstock 	Republican	http://www.barbaracomstockforcongress.com/	BarbaraComstock	T		F		T	F	F	D+1	T			S
+will	Virginia	10	10	VA	VA10	Jennifer Wexton 	Democratic	http://jenniferwexton.com/	JenniferWexton	F		F		T	F	F	D+1	T			S
+will	West Virginia	1	01	WV	WV01	Kendra Fershee 	Democratic	http://www.teamkendrawv.com/	teamkendrawv	F		F		T	F	F	R+19	T			S
+will	West Virginia	1	01	WV	WV01	David McKinley 	Republican	http://www.mckinley2016.com/	McKinleyforWV	T		M	Married	T	F	F	R+19	T			S
+will	Oregon	5	05	OR	OR05	Marvin Sandnes	Green	https://marvinsandnes.org/	MarvinSandnes	F		M		T	F	F	EVEN				W
+will	Tennessee	2	02	TN	TN02	Greg Samples	Independent	http://www.beautiquebeautiful.com/	AdventureTN	F		M	Married	T	F	F	R+20				S
+will	Texas	16	16	TX	TX16	Rick Seeberger	Republican	https://samforep.com/	votesamuelwill1	F		M		T	F	F	D+17				S
