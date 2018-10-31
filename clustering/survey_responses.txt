@@ -1,0 +1,25 @@
+Timestamp	What's your family or last name?	Distance from where you were born to UMT	Distance from where you lived at 15 to UMT	How many years have you been in post-secondary school?	Were you an undergraduate marketing major? 	Were you an undergraduate business major?	How many people live in your house/apartment (including you)? 
+10/7/2015 6:20:59	Chandler	2169	2169	10	No	No	2
+10/7/2015 7:06:41	Hansen	118	156	6	Yes	Yes	3
+10/7/2015 10:15:52	Diehl	4568	6	4	Yes	Yes	3
+10/7/2015 10:18:31	Persico	1218	2	7	No	Yes	2
+10/7/2015 10:57:44	Sliwinski	525	525	5	No	Yes	4
+10/7/2015 11:51:50	Harper	115	115	5	Yes	Yes	2
+10/7/2015 12:33:16	Freyn	1600	1600	4	No	Yes	4
+10/7/2015 12:58:51	Milligan	1176	276	5	Yes	Yes	3
+10/7/2015 14:10:02	Kassner	1743	5	5	No	No	3
+10/7/2015 14:22:48	Hansen	625	625	10	No	No	2
+10/7/2015 16:53:10	curnow	491	471	5	Yes	Yes	1
+10/7/2015 21:13:54	Nakajima	5137	5137	4	Yes	Yes	2
+10/7/2015 21:15:26	Primm	477	190	5	No	Yes	2
+10/8/2015 6:32:53	Zor	6593	6593	7	No	No	2
+10/8/2015 9:44:25	Kolberg	2132	2	5	No	No	3
+10/9/2015 14:18:35	Flesch	114	222	5	Yes	Yes	5
+12/2/2017 10:32:19	Murphy	927	932	5	No	Yes	3
+12/2/2017 10:38:10	Khormali	6600	6600	10	No	No	2
+12/2/2017 10:51:30	Jambor	391	92	5	Yes	Yes	1
+12/2/2017 11:51:54	Makris	187	191	5	Yes	Yes	4
+12/2/2017 12:45:32	Wiener	2130	2065	7	No	No	1
+12/2/2017 13:26:16	Arave	249	249	7	No	No	2
+12/2/2017 15:15:40	Grant	271	268	8	No	Yes	2
+12/2/2017 16:47:05	Sicheri	150	1322	5	Yes	Yes	3
