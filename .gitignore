@@ -1,3 +1,16 @@
+# Custom ignores
+twitter-pulls/twitter_config.py
+sql-and-python/20180925_Wedge.db
+second-class/transArchive_201307_201309.csv
+craigslist-scrape/test_urls.txt
+naive-bayes/20171107_AstroKomrade_followers.txt
+naive-bayes/20171107_FlatEarthOrg_followers.txt
+naive-bayes/20181106_GeneralMills_followers.txt
+naive-bayes/20181106_michaelpollan_followers.txt
+twitter-pulls/20181106_GeneralMills_followers.txt
+twitter-pulls/20181106_michaelpollan_followers.txt
+
+
 # R-related Ignores
 
 # History files

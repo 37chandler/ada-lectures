@@ -27,9 +27,8 @@ Timestamp	What's your family or last name?	Distance from where you were born to 
 10/31/2018 14:03:36	Dezihan	1166	210	5	Yes	Yes	4
 10/31/2018 14:04:06	Berens	929	5	7	No	No	2
 10/31/2018 14:03:51	Marbut	670	660	8	No	No	4
-10/31/2018 14:03:52	Yang	1200 miles	1200 miles	5	No	Yes	2
 10/31/2018 14:04:02	Ray	272	272	6	No	Yes	4
 10/31/2018 14:05:24	Murray	991	991	5	No	Yes	4
-10/31/2018 14:05:33	Yang	5693 miles	5693 miles	5	No	Yes	2
+10/31/2018 14:05:33	Yang	5693	5693	5	No	Yes	2
 10/31/2018 14:06:48	Layton	128	147	7	Yes	Yes	3
 10/31/2018 14:19:04	Spoja	4671	4	5	No	No	5
