@@ -12,7 +12,7 @@ library(scales)
 # and system.
 path.to.db <- "C:\\Users\\jchan\\Dropbox\\Teaching\\2018_Fall\\AppliedData\\week_10\\"
 db.name <- "Anthony_Layton_WedgeDB.db"
-owner.sales.table.name <- "Sales_by_Owner_by_Year_by_Month"
+owner.sales.table.name <- "Sales_yb_Owner_by_Year_by_Month"
 
 
 con <- dbConnect(RSQLite::SQLite(), dbname = paste0(path.to.db,db.name))
@@ -65,13 +65,72 @@ nrow(d)
 # need to do any plotting. 
 
 # Which owner had the 50th highest spend in 2015? How much did they spend in 2016? 
+spend.2015 <- owner.tbl %>% 
+  filter(year==2015,card_no != 3) %>% 
+  group_by(card_no) %>% 
+  summarize(total_spend = sum(spend)) %>% 
+  arrange(desc(total_spend)) %>% 
+  collect
 
+spend.2015[50,]
+
+20596
+
+owner.tbl %>% 
+  filter(year==2016,card_no == 20596) %>% 
+  group_by(card_no) %>% 
+  summarize(total_spend = sum(spend)) 
+  # 11067
 
 # How many owners spent at least $1000 in 2015 and spent $0 in 2016?
-  
+spend.2015 <- owner.tbl %>% 
+  filter(year==2015,card_no != 3) %>% 
+  group_by(card_no) %>% 
+  summarize(total_spend = sum(spend,na.rm=T)) %>% 
+  filter(total_spend >= 1000) %>% 
+  collect
+
+spend.2016 <- owner.tbl %>% 
+  filter(year==2016,card_no != 3) %>% 
+  group_by(card_no) %>% 
+  summarize(total_spend = sum(spend,na.rm=T)) %>% 
+  filter(total_spend != 0) %>% 
+  collect
+
+spend.2015 %>% 
+  filter(!(card_no %in% spend.2016$card_no))
 
 # What product had the largest increase in sales (in raw dollars) between 2015 and 2016? 
-  
+
+prod.tbl <- tbl(con,
+                 "Sales_by_Product_by_Year_by_Month")
+
+d <- prod.tbl %>% 
+  filter(year==2015) %>% 
+  group_by(description) %>% 
+  summarise(total_spend = sum(spend)) %>% 
+  collect
+
+d <- d %>% 
+  left_join(prod.tbl %>% 
+              filter(year==2016) %>% 
+              group_by(description) %>% 
+              summarise(total_spend = sum(spend)) %>% 
+              collect,
+            by="description")
+
+names(d) <- c("description","spend.2015","spend.2016")
+
+d <- d %>% 
+  mutate(increase = spend.2016 - spend.2015) %>% 
+  arrange(desc(increase)) 
+
+ggplot(d,
+       aes(x=increase)) + 
+  geom_density()+
+  theme_minimal() +
+  scale_x_continuous(limits=c(-5000,5000),
+                     label=dollar)
 
 
-dbDisconnect(con)
+
