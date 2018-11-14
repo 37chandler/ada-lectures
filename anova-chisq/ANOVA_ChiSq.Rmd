@@ -1,14 +1,19 @@
 ---
 title: "ANOVA and Chi-Square Tests"
 author: "John Chandler"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
-library(tidyverse)
-
+#library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(scales)
+library(readr)
 ```
 
 You've seen a bit about hypothesis testing, where we run a 
