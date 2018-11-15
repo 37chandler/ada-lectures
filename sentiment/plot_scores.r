@@ -4,10 +4,11 @@ library(scales)
 library(dplyr)
 library(readr)
 
-d <- read_tsv("hamlet_scores.txt")
+d <- read_tsv("my_data.txt")
+names(d) <- c("word","scores")
 
 ggplot(d,
-       aes(x=word,y=score)) + 
+       aes(x=,y=score)) + 
   geom_line() + 
   theme_bw() + 
   scale_x_continuous(label=comma) + 

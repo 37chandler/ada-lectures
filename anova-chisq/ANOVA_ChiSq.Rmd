@@ -574,7 +574,7 @@ we see that 75.9% of the members are in Thurston and, overall,
 54.4% are "Highly Engaged". If there were no association 
 between the columns, we might expect $0.759\cdot0.544\cdot730=301.3$
 members would be in the cell for "Highly Engaged" _and_ Thurston. 
-Instead, we see 288, so we're "off" by 13.3 members. 
+Instead, we see 309, so we're "off" by 13.3 members. 
 
 We can perform this kind of calculation for every cell, 
 resulting in the following table:
