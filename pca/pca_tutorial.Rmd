@@ -1,0 +1,258 @@
+---
+title: "PCA Tutorial"
+author: "John Chandler"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#library(ggbiplot)
+library(plyr)
+library(dplyr)
+library(ggplot2)
+library(scales)
+library(reshape2)
+```
+
+# PCA
+
+This workbook walks through the PCA example from
+the lecture. We'll read in the departmental data set
+and perform PCA on it. 
+
+``` {r data_input, echo=F}
+# Input file should be in the same dir as RMD file
+input_file <- "spend_by_dept_full.txt"
+
+dept <- data.table::fread(input_file)
+dept <- dept %>% 
+  filter(total_spend>0) # drop people with negative or zero total spends. 
+
+# `dept` includes total spend, so we can 
+# get total spend by department. 
+
+dept.spend <- dept %>% 
+  melt(id.vars="owner",
+       variable.name="department",
+       value.name="spend.frac") 
+
+dept.spend <- merge(dept.spend,
+                    dept %>% select(owner,total_spend),
+                    all.x=T)
+
+dept.spend <- dept.spend %>% 
+  filter(department != "total_spend") %>% 
+  mutate(amount = total_spend * spend.frac)
+
+dept.spend <- dept.spend %>%
+  group_by(department) %>% 
+  summarize(spend = sum(amount)) %>%
+  ungroup %>% 
+  mutate(department = reorder(department,spend))
+
+```
+
+Now we've got the data read in. We have two data frames, one with the 
+raw data and one with the department spend summary.
+
+``` {r summaries, cache=T}
+Hmisc::describe(dept)
+
+knitr::kable(dept.spend)
+```
+
+Let's also take a look at spends by department.
+
+``` {r spends_by_dept}
+for.plot <- melt(dept,
+                 id.vars = "owner",
+                 variable.name="dept",
+                 value.name="spend.frac")
+
+for.plot %>% 
+  filter(dept != "total_spend") %>% 
+  group_by(dept) %>%
+  summarize(mean_pct = mean(spend.frac)) %>%
+  mutate(dept = reorder(dept,mean_pct)) %>%
+  ggplot(aes(x=mean_pct,y=dept)) + 
+  geom_point() + 
+  theme_bw() + 
+  labs(x="Fraction of Spend in Dept",
+       y="") + 
+  scale_x_continuous(labels=percent)
+
+```
+
+## Visualizing correlations
+
+Although it's not strictly necessary, the lecture includes a 
+heatmap of correlations. This is often a nice thing to include
+in papers, particularly when your audience wants you to 
+do a "correlation analysis." Here's some code that does this:
+
+``` {r correlation_heatmap}
+dc <- cor(dept %>% select(-owner,-total_spend))
+dc <- dc[,order(dept.spend$spend)]
+dc <- dc[order(dept.spend$spend),]
+dc[upper.tri(dc)] <- NA
+diag(dc) <- NA
+
+melted_cormat <- melt(dc)
+melted_cormat <- na.omit(melted_cormat)
+
+# Heatmap
+ggplot(data = melted_cormat, aes(Var2, Var1, fill = value))+
+ geom_tile(color = "white")+
+ scale_fill_gradient2(low = "blue", high = "red", mid = "white", 
+   midpoint = 0, limit = c(-0.3,0.3), name="Pearson\nCorrelation") +
+  theme_minimal()+ 
+ theme(axis.text.x = element_text(angle = 45, vjust = 1, 
+    size = 12, hjust = 1))+
+ coord_fixed()
+
+```
+
+## Principal Components Analysis
+
+Now we'll walk through the fitting of the PCA.
+
+``` {r pca_fit}
+
+pca1 <- dept %>% 
+  select(-owner,-total_spend) %>% 
+  prcomp
+
+summary(pca1)
+```
+
+Let's make the plot that shows the standard deviations 
+and cumulative variance from the summary.
+
+``` {r sd_plots}
+for.plot <- data.frame(sd=pca1$sdev)
+for.plot <- for.plot %>% 
+  mutate(eigs=sd^2) %>% 
+  mutate(cume.var = cumsum(eigs/sum(eigs)),
+         id=1:n())
+
+names(for.plot) <- c("Standard Deviation","eigs",
+                     "Cumulative Variance","id")
+
+for.plot <- melt(for.plot,
+                 id.vars = "id")
+
+ggplot(for.plot %>% filter(variable != "eigs"),
+       aes(x=id,y=value)) +
+  geom_line() + 
+  facet_grid(variable ~ .,
+             scales="free") + 
+  theme_bw() + 
+  scale_y_continuous(label=percent) + 
+  labs(y="Variance",
+       x="Component Number")
+```
+
+The biplots use the package `ggbiplot`, which uses a package
+called `plyr` that causes some weird interactions with 
+`dplyr` (for reasons I'm still not 100% clear on.). So 
+I'll use it down here now that we've gotten most of our
+`dplyr` work out of the way. 
+
+``` {r biplots}
+g <- ggbiplot::ggbiplot(pca1, obs.scale = 1, var.scale = 1.5, alpha = 0.02) 
+g <- g + theme(legend.direction = 'horizontal', 
+               legend.position = 'top')
+g <- g + theme_bw()
+print(g)
+
+g <- ggbiplot::ggbiplot(pca1, 
+              choices=2:3,
+              obs.scale = 1, var.scale = 1.5, alpha = 0.02) 
+g <- g + theme(legend.direction = 'horizontal', 
+               legend.position = 'top')
+g <- g + theme_bw()
+print(g)
+
+g <- ggbiplot::ggbiplot(pca1, 
+              choices=3:4,
+              obs.scale = 1, var.scale = 1.5, alpha = 0.02) 
+g <- g + theme(legend.direction = 'horizontal', 
+               legend.position = 'top')
+g <- g + theme_bw()
+print(g)
+```
+
+## Using PCA Output
+
+The point of PCA is two-fold: to explore the structure of a 
+data set and to reduce the dimensionality of the data. Let's 
+take a look at the latter in action.
+
+Imagine we want to do a regression of total spend on the
+percentage of spend in each department. This regression has 
+18 explanatory variables and could have a pretty unwieldy output
+(particuarly if there were hundreds of departments). 
+
+``` {r regression_with_pca}
+pca.to.use <- 4
+
+new.reg.dept <- dept %>% select(owner,total_spend) # a new df for regression
+new.names <- c("owner","total_spend")
+
+for (i in 1:pca.to.use) {
+  new.reg.dept <- cbind(new.reg.dept,
+                        pca1$x[,i])
+  
+  new.names <- c(new.names,paste0("pca",i))
+}
+
+names(new.reg.dept) <- new.names
+```
+
+So we've built our new data set for regression. Let's
+build our model.
+
+```{r the_model}
+lm1 <- lm(total_spend ~ ., # will use all the pca columns
+          data = new.reg.dept %>% select(-owner)) # since we removed owner
+          
+summary(lm1)
+```
+
+The residual standard error (\$9232) is pretty terrible and the
+$R^2$ is an abysmal 0.003. This is a bad model. Why might it make
+sense that the model doesn't explain much of the variation in total
+spend? (Ask me about this!) Let's talk about interpretation.
+
+Looks like most of the variation is explained in the first two 
+PCs, which have highly significant coefficients. 
+Interpretation is tricky. We can say that an increase of 
+1 in PC1 leads to an additional spend of \$2522 (\$1692,\$3352),
+but what does that _mean_? If you look at `new.reg.dept`, you'll
+see that the first PC ranges from -0.89 to 0.38, so a change in 
+1 
+
+We can look at the vector of weights, called `rotation`s in R 
+to get a sense of what that might mean. 
+
+``` {r pc1_rotation}
+sort(pca1$rotation[,1])
+```
+
+In essence, this PC contrasts DELI and, to a lesser extent, JUICE BAR
+with PRODUCE, PACKAGED GROCERY, MEAT and BULK. Typically we focus
+on vars that have "large" loadings in absolute value. The signs
+is arbitrary--a result where we multiply **every** loading by -1 is
+exactly the same PCA. Here I chose 0.1 as my cutoff for "large", but
+it's a judgement call. 
+
+So, this first principal component is a measure of how much someone
+shops the "main" departments (produce, packaged grocery) versus 
+how much they shop the "grab and go" departments. Even with the terrible
+$R^2$, we're getting something useful here. If you shop the main departments
+you're likely to spend more money in the store. Not rocket science, but
+a useful insight. 
+
+
+
+
