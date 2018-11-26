@@ -21,7 +21,11 @@ cand.tbl <- tbl(con,
 
 d <- cand.tbl %>% 
   select(candidate, district,
-         party, age, gender) %>% 
+         party, age, gender,
+         income,region,
+         white_non_hispanic, 
+         hispanic, 
+         black) %>% 
   collect
 
 Hmisc::describe(d)
@@ -31,5 +35,30 @@ sort(table(d$party))
 
 # Might need to cut this down for analysis. 
 
+two.party <- d %>% 
+  filter(party %in% c("Democratic","Republican","Libertarian"))
 
+party.gender <- 
+  chisq.test(x=two.party$party,
+           y=two.party$gender)
+
+residuals(party.gender)
+
+
+chisq.test(x=two.party$district,
+           y=two.party$party)
+
+
+anova(lm(income ~ party,
+         data=d,
+         subset=(party %in% c("Democratic",
+                              "Republican") &
+                   !is.na(income))))
+
+
+anova(lm(age ~ party,
+         data=d,
+         subset=(party %in% c("Democratic",
+                              "Republican",
+                              "Libertarian"))))
 
