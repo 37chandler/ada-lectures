@@ -1,0 +1,3385 @@
+INFO:root:Started processing listings.2018-03-26 11:50:36.408414
+INFO:root:Finished processing listings.2018-03-26 11:50:36.430584
+INFO:root:Started processing listings.2018-03-26 11:51:57.310438
+INFO:root:Null make listings: 25
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 189
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-03-26 11:51:57.347710
+INFO:root:Started processing listings.2018-03-26 16:57:23.582830
+INFO:root:Null make listings: 25
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 189
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-03-26 16:57:23.941808
+INFO:root:Started processing listings.2018-03-26 16:57:46.018517
+INFO:root:Null make listings: 25
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 189
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-03-26 16:57:46.039514
+INFO:root:Started processing listings.2018-03-26 17:00:00.132521
+INFO:root:Null make listings: 25
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 189
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-03-26 17:00:00.154523
+INFO:root:Started processing listings.2018-03-27 05:00:00.851785
+INFO:root:Null make listings: 37
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 200
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-03-27 05:00:00.964790
+INFO:root:Started processing listings.2018-03-27 17:00:00.224240
+INFO:root:Null make listings: 38
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 201
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-03-27 17:00:00.337242
+INFO:root:Started processing listings.2018-03-28 05:00:00.871047
+INFO:root:Null make listings: 40
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 201
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-03-28 05:00:00.997025
+INFO:root:Started processing listings.2018-03-28 17:00:00.278577
+INFO:root:Null make listings: 39
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 200
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-03-28 17:00:00.406582
+INFO:root:Started processing listings.2018-03-29 05:00:00.993429
+INFO:root:Null make listings: 37
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 200
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-03-29 05:00:01.105433
+INFO:root:Started processing listings.2018-03-29 17:00:00.339012
+INFO:root:Null make listings: 41
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 204
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-03-29 17:00:00.464015
+INFO:root:Started processing listings.2018-04-01 14:47:23.643214
+INFO:root:Null make listings: 94
+INFO:root:Null make listings filled in: 61
+INFO:root:Null model listings: 254
+INFO:root:Null model listings filled in: 53
+INFO:root:Finished processing listings.2018-04-01 14:47:23.809219
+INFO:root:Started processing listings.2018-04-01 14:47:56.563177
+INFO:root:Null make listings: 33
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 201
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-04-01 14:47:56.586176
+INFO:root:Started processing listings.2018-04-01 14:49:29.296098
+INFO:root:Null make listings: 33
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 201
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-04-01 14:49:29.319063
+INFO:root:Started processing listings.2018-04-01 14:50:50.969996
+INFO:root:Null make listings: 33
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 201
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-04-01 14:50:50.993012
+INFO:root:Started processing listings.2018-04-03 16:36:18.466922
+INFO:root:Started processing listings.2018-04-03 17:00:00.564741
+INFO:root:Null make listings: 79
+INFO:root:Null make listings filled in: 44
+INFO:root:Null model listings: 245
+INFO:root:Null model listings filled in: 38
+INFO:root:Finished processing listings.2018-04-03 17:00:00.765716
+INFO:root:Started processing listings.2018-04-03 18:57:29.844908
+INFO:root:Null make listings: 35
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 207
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-04-03 18:57:29.867906
+INFO:root:Started processing listings.2018-04-04 05:00:00.293425
+INFO:root:Null make listings: 44
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 216
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-04-04 05:00:00.404428
+INFO:root:Started processing listings.2018-04-04 17:00:00.634455
+INFO:root:Null make listings: 42
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 214
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-04 17:00:00.945462
+INFO:root:Started processing listings.2018-04-05 05:00:00.454719
+INFO:root:Null make listings: 43
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 215
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-05 05:00:00.644692
+INFO:root:Started processing listings.2018-04-05 17:00:00.701197
+INFO:root:Null make listings: 44
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 217
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-04-05 17:00:00.926178
+INFO:root:Started processing listings.2018-04-06 05:00:00.471211
+INFO:root:Null make listings: 47
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 218
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-04-06 05:00:00.586215
+INFO:root:Started processing listings.2018-04-06 17:00:00.771011
+INFO:root:Null make listings: 52
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 224
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-04-06 17:00:00.984034
+INFO:root:Started processing listings.2018-04-07 05:00:00.603779
+INFO:root:Null make listings: 49
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 222
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-07 05:00:00.730746
+INFO:root:Started processing listings.2018-04-07 17:00:00.828552
+INFO:root:Null make listings: 49
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 223
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-04-07 17:00:00.959591
+INFO:root:Started processing listings.2018-04-08 05:00:00.634017
+INFO:root:Null make listings: 49
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 221
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-04-08 05:00:00.748022
+INFO:root:Started processing listings.2018-04-08 17:00:00.894030
+INFO:root:Null make listings: 46
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 218
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-04-08 17:00:01.008036
+INFO:root:Started processing listings.2018-04-09 05:00:00.684325
+INFO:root:Null make listings: 54
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 226
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-04-09 05:00:00.762326
+INFO:root:Started processing listings.2018-04-09 17:00:00.931426
+INFO:root:Null make listings: 45
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 217
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-04-09 17:00:01.125412
+INFO:root:Started processing listings.2018-04-10 05:00:00.813884
+INFO:root:Null make listings: 56
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 226
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-04-10 05:00:00.930887
+INFO:root:Started processing listings.2018-04-10 17:00:00.971345
+INFO:root:Null make listings: 53
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 224
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-10 17:00:01.114350
+INFO:root:Started processing listings.2018-04-11 05:00:00.841380
+INFO:root:Null make listings: 57
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 227
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-04-11 05:00:00.962351
+INFO:root:Started processing listings.2018-04-11 17:00:01.005198
+INFO:root:Null make listings: 71
+INFO:root:Null make listings filled in: 26
+INFO:root:Null model listings: 242
+INFO:root:Null model listings filled in: 24
+INFO:root:Finished processing listings.2018-04-11 17:00:01.139201
+INFO:root:Started processing listings.2018-04-12 05:00:00.972350
+INFO:root:Null make listings: 54
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 227
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-04-12 05:00:01.106355
+INFO:root:Started processing listings.2018-04-12 17:00:01.005353
+INFO:root:Null make listings: 62
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 236
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-04-12 17:00:01.393364
+INFO:root:Started processing listings.2018-04-13 05:00:00.999490
+INFO:root:Null make listings: 57
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 231
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-04-13 05:00:01.335448
+INFO:root:Started processing listings.2018-04-13 17:00:01.114781
+INFO:root:Null make listings: 61
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 238
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-04-13 17:00:01.476755
+INFO:root:Started processing listings.2018-04-14 05:00:01.104594
+INFO:root:Null make listings: 53
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 230
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-04-14 05:00:01.234593
+INFO:root:Started processing listings.2018-04-14 17:00:01.134405
+INFO:root:Null make listings: 55
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 232
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-04-14 17:00:01.276394
+INFO:root:Started processing listings.2018-04-15 05:00:01.255089
+INFO:root:Null make listings: 57
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 236
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-04-15 05:00:01.383095
+INFO:root:Started processing listings.2018-04-15 17:00:01.238854
+INFO:root:Null make listings: 57
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 237
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-04-15 17:00:01.475846
+INFO:root:Started processing listings.2018-04-16 05:00:00.357615
+INFO:root:Null make listings: 51
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 231
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-04-16 05:00:00.479612
+INFO:root:Started processing listings.2018-04-16 17:00:00.215300
+INFO:root:Null make listings: 57
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 238
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-04-16 17:00:00.344306
+INFO:root:Started processing listings.2018-04-17 05:00:00.368759
+INFO:root:Null make listings: 57
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 236
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-04-17 05:00:00.493764
+INFO:root:Started processing listings.2018-04-17 17:00:00.226126
+INFO:root:Null make listings: 55
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 235
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-17 17:00:00.454152
+INFO:root:Started processing listings.2018-04-18 05:00:00.447747
+INFO:root:Null make listings: 59
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 239
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-18 05:00:00.565750
+INFO:root:Started processing listings.2018-04-18 17:00:00.268814
+INFO:root:Null make listings: 61
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 241
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-04-18 17:00:00.392791
+INFO:root:Started processing listings.2018-04-19 05:00:00.467451
+INFO:root:Null make listings: 54
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 234
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-04-19 05:00:00.597454
+INFO:root:Started processing listings.2018-04-19 17:00:00.337823
+INFO:root:Null make listings: 70
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 248
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-04-19 17:00:00.479826
+INFO:root:Started processing listings.2018-04-20 05:00:00.547644
+INFO:root:Null make listings: 67
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 249
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-04-20 05:00:00.681648
+INFO:root:Started processing listings.2018-04-20 17:00:00.429816
+INFO:root:Null make listings: 63
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 246
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-04-20 17:00:00.561820
+INFO:root:Started processing listings.2018-04-21 05:00:00.540308
+INFO:root:Null make listings: 63
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 246
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-21 05:00:00.684293
+INFO:root:Started processing listings.2018-04-21 17:00:00.431100
+INFO:root:Null make listings: 62
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 246
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-21 17:00:00.567116
+INFO:root:Started processing listings.2018-04-22 05:00:00.561972
+INFO:root:Null make listings: 63
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 247
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-22 05:00:00.694977
+INFO:root:Started processing listings.2018-04-22 17:00:00.479075
+INFO:root:Null make listings: 66
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 251
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-04-22 17:00:00.618043
+INFO:root:Started processing listings.2018-04-23 05:00:00.570438
+INFO:root:Null make listings: 59
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 245
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-23 05:00:00.703441
+INFO:root:Started processing listings.2018-04-23 17:00:00.553114
+INFO:root:Null make listings: 61
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 247
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-23 17:00:00.803085
+INFO:root:Started processing listings.2018-04-24 05:00:00.569442
+INFO:root:Null make listings: 62
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 249
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-24 05:00:00.703444
+INFO:root:Started processing listings.2018-04-24 17:00:00.594520
+INFO:root:Null make listings: 69
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 257
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-04-24 17:00:00.730522
+INFO:root:Started processing listings.2018-04-25 05:00:00.664834
+INFO:root:Null make listings: 58
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 247
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-04-25 05:00:00.786838
+INFO:root:Started processing listings.2018-04-25 17:00:00.635225
+INFO:root:Null make listings: 76
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 264
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-04-25 17:00:01.031219
+INFO:root:Started processing listings.2018-04-26 05:00:00.688927
+INFO:root:Null make listings: 69
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 259
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-04-26 05:00:01.144946
+INFO:root:Started processing listings.2018-04-26 17:00:00.664837
+INFO:root:Null make listings: 71
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 261
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-04-26 17:00:01.083844
+INFO:root:Started processing listings.2018-04-27 05:00:00.766828
+INFO:root:Null make listings: 64
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 255
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-27 05:00:00.895795
+INFO:root:Started processing listings.2018-04-27 17:00:00.725776
+INFO:root:Null make listings: 68
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 259
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-04-27 17:00:01.191756
+INFO:root:Started processing listings.2018-04-28 05:00:00.890703
+INFO:root:Null make listings: 72
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 264
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-04-28 05:00:01.005663
+INFO:root:Started processing listings.2018-04-28 17:00:00.781295
+INFO:root:Null make listings: 66
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 261
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-04-28 17:00:01.060318
+INFO:root:Started processing listings.2018-04-29 05:00:00.914001
+INFO:root:Null make listings: 73
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 267
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-04-29 05:00:01.073004
+INFO:root:Started processing listings.2018-04-29 17:00:00.849079
+INFO:root:Null make listings: 86
+INFO:root:Null make listings filled in: 24
+INFO:root:Null model listings: 280
+INFO:root:Null model listings filled in: 23
+INFO:root:Finished processing listings.2018-04-29 17:00:01.369072
+INFO:root:Started processing listings.2018-04-30 05:00:00.928417
+INFO:root:Null make listings: 70
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 265
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-04-30 05:00:01.071421
+INFO:root:Started processing listings.2018-04-30 17:00:00.908042
+INFO:root:Null make listings: 76
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 272
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-04-30 17:00:01.380056
+INFO:root:Started processing listings.2018-05-01 05:00:01.022059
+INFO:root:Null make listings: 77
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 273
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-01 05:00:01.245071
+INFO:root:Started processing listings.2018-05-01 17:00:00.969581
+INFO:root:Null make listings: 76
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 273
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-05-01 17:00:01.104550
+INFO:root:Started processing listings.2018-05-02 05:00:01.062176
+INFO:root:Null make listings: 73
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 272
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-02 05:00:01.187178
+INFO:root:Started processing listings.2018-05-02 17:00:01.057587
+INFO:root:Null make listings: 69
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 269
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-05-02 17:00:01.185592
+INFO:root:Started processing listings.2018-05-03 05:00:01.195551
+INFO:root:Null make listings: 74
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 274
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-05-03 05:00:01.423555
+INFO:root:Started processing listings.2018-05-03 17:00:01.107083
+INFO:root:Null make listings: 74
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 274
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-05-03 17:00:01.240053
+INFO:root:Started processing listings.2018-05-04 05:00:00.241998
+INFO:root:Null make listings: 79
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 281
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-04 05:00:00.411995
+INFO:root:Started processing listings.2018-05-04 17:00:01.130837
+INFO:root:Null make listings: 73
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 275
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-05-04 17:00:01.266841
+INFO:root:Started processing listings.2018-05-05 05:00:00.266055
+INFO:root:Null make listings: 83
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 287
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-05-05 05:00:00.476062
+INFO:root:Started processing listings.2018-05-05 17:00:01.195484
+INFO:root:Null make listings: 68
+INFO:root:Null make listings filled in: 1
+INFO:root:Null model listings: 272
+INFO:root:Null model listings filled in: 1
+INFO:root:Finished processing listings.2018-05-05 17:00:01.733486
+INFO:root:Started processing listings.2018-05-06 05:00:00.313276
+INFO:root:Null make listings: 82
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 285
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-06 05:00:00.518279
+INFO:root:Started processing listings.2018-05-06 17:00:00.199431
+INFO:root:Null make listings: 91
+INFO:root:Null make listings filled in: 23
+INFO:root:Null model listings: 296
+INFO:root:Null model listings filled in: 19
+INFO:root:Finished processing listings.2018-05-06 17:00:00.376432
+INFO:root:Started processing listings.2018-05-07 05:00:00.324265
+INFO:root:Null make listings: 78
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 286
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-07 05:00:00.441268
+INFO:root:Started processing listings.2018-05-07 17:00:00.214156
+INFO:root:Null make listings: 81
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 287
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-05-07 17:00:00.437129
+INFO:root:Started processing listings.2018-05-08 05:00:00.367020
+INFO:root:Null make listings: 83
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 288
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-08 05:00:00.575002
+INFO:root:Started processing listings.2018-05-08 17:00:00.279449
+INFO:root:Null make listings: 81
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 288
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-05-08 17:00:00.401463
+INFO:root:Started processing listings.2018-05-09 05:00:00.439023
+INFO:root:Null make listings: 83
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 291
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-05-09 05:00:00.593024
+INFO:root:Started processing listings.2018-05-09 17:00:00.322696
+INFO:root:Null make listings: 83
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 290
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-09 17:00:00.473664
+INFO:root:Started processing listings.2018-05-10 05:00:00.497062
+INFO:root:Null make listings: 86
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 292
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-10 05:00:00.632047
+INFO:root:Started processing listings.2018-05-10 17:00:00.388135
+INFO:root:Null make listings: 90
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 297
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-05-10 17:00:00.561138
+INFO:root:Started processing listings.2018-05-11 05:00:00.593422
+INFO:root:Null make listings: 88
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 295
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-11 05:00:00.760425
+INFO:root:Started processing listings.2018-05-11 17:00:00.407576
+INFO:root:Null make listings: 87
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 294
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-05-11 17:00:00.608531
+INFO:root:Started processing listings.2018-05-12 05:00:00.622769
+INFO:root:Null make listings: 89
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 296
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-12 05:00:00.785779
+INFO:root:Started processing listings.2018-05-12 17:00:00.471938
+INFO:root:Null make listings: 89
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 297
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-12 17:00:00.662946
+INFO:root:Started processing listings.2018-05-13 05:00:00.682360
+INFO:root:Null make listings: 88
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 296
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-13 05:00:00.856379
+INFO:root:Started processing listings.2018-05-13 17:00:00.537350
+INFO:root:Null make listings: 84
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 292
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-05-13 17:00:00.721357
+INFO:root:Started processing listings.2018-05-14 05:00:00.726419
+INFO:root:Null make listings: 89
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 300
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-14 05:00:00.900443
+INFO:root:Started processing listings.2018-05-14 17:00:00.602982
+INFO:root:Null make listings: 91
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 303
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-05-14 17:00:00.771007
+INFO:root:Started processing listings.2018-05-15 05:00:00.746199
+INFO:root:Null make listings: 89
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 300
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-05-15 05:00:00.903204
+INFO:root:Started processing listings.2018-05-15 17:00:00.652070
+INFO:root:Null make listings: 85
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 297
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-05-15 17:00:00.846097
+INFO:root:Started processing listings.2018-05-16 05:00:00.761832
+INFO:root:Null make listings: 85
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 298
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-05-16 05:00:01.124843
+INFO:root:Started processing listings.2018-05-16 17:00:00.721220
+INFO:root:Null make listings: 87
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 300
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-05-16 17:00:00.943225
+INFO:root:Started processing listings.2018-05-17 05:00:00.786260
+INFO:root:Null make listings: 91
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 306
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-17 05:00:00.956266
+INFO:root:Started processing listings.2018-05-17 17:00:00.782545
+INFO:root:Null make listings: 85
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 302
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-05-17 17:00:00.900508
+INFO:root:Started processing listings.2018-05-18 05:00:00.842250
+INFO:root:Null make listings: 99
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 315
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-05-18 05:00:01.007242
+INFO:root:Started processing listings.2018-05-18 17:00:00.774262
+INFO:root:Null make listings: 98
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 318
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-05-18 17:00:00.935268
+INFO:root:Started processing listings.2018-05-19 05:00:00.882520
+INFO:root:Null make listings: 95
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 316
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-19 05:00:01.097490
+INFO:root:Started processing listings.2018-05-19 17:00:00.794320
+INFO:root:Null make listings: 93
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 313
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-05-19 17:00:00.979323
+INFO:root:Started processing listings.2018-05-20 05:00:00.994624
+INFO:root:Null make listings: 95
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 314
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-05-20 05:00:01.118621
+INFO:root:Started processing listings.2018-05-20 17:00:00.854158
+INFO:root:Null make listings: 98
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 318
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-20 17:00:01.018158
+INFO:root:Started processing listings.2018-05-21 05:00:01.007390
+INFO:root:Null make listings: 93
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 314
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-05-21 05:00:01.199394
+INFO:root:Started processing listings.2018-05-21 17:00:00.933687
+INFO:root:Null make listings: 97
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 318
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-05-21 17:00:01.069681
+INFO:root:Started processing listings.2018-05-22 05:00:01.083045
+INFO:root:Null make listings: 92
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 314
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-05-22 05:00:01.196015
+INFO:root:Started processing listings.2018-05-22 17:00:00.938935
+INFO:root:Null make listings: 99
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 322
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-05-22 17:00:01.066938
+INFO:root:Started processing listings.2018-05-23 05:00:01.126033
+INFO:root:Null make listings: 97
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 320
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-23 05:00:01.279040
+INFO:root:Started processing listings.2018-05-23 17:00:01.027392
+INFO:root:Null make listings: 104
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 326
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-05-23 17:00:01.229399
+INFO:root:Started processing listings.2018-05-24 05:00:01.184018
+INFO:root:Null make listings: 99
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 324
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-24 05:00:01.346023
+INFO:root:Started processing listings.2018-05-24 17:00:01.090826
+INFO:root:Null make listings: 99
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 324
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-24 17:00:01.300788
+INFO:root:Started processing listings.2018-05-25 05:00:00.316989
+INFO:root:Null make listings: 99
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 325
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-05-25 05:00:00.484993
+INFO:root:Started processing listings.2018-05-25 17:00:01.108223
+INFO:root:Null make listings: 100
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 326
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-05-25 17:00:01.291220
+INFO:root:Started processing listings.2018-05-26 05:00:00.347623
+INFO:root:Null make listings: 96
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 324
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-26 05:00:00.528596
+INFO:root:Started processing listings.2018-05-26 17:00:01.137506
+INFO:root:Null make listings: 89
+INFO:root:Null make listings filled in: 1
+INFO:root:Null model listings: 316
+INFO:root:Null model listings filled in: 1
+INFO:root:Finished processing listings.2018-05-26 17:00:01.284489
+INFO:root:Started processing listings.2018-05-27 05:00:00.453149
+INFO:root:Null make listings: 105
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 332
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-05-27 05:00:00.655155
+INFO:root:Started processing listings.2018-05-27 17:00:01.179976
+INFO:root:Null make listings: 98
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 327
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-05-27 17:00:01.307980
+INFO:root:Started processing listings.2018-05-28 05:00:00.562136
+INFO:root:Null make listings: 94
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 323
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-05-28 05:00:00.759140
+INFO:root:Started processing listings.2018-05-28 17:00:00.240287
+INFO:root:Null make listings: 107
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 335
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-05-28 17:00:00.543326
+INFO:root:Started processing listings.2018-05-29 05:00:00.666161
+INFO:root:Null make listings: 98
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 328
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-05-29 05:00:00.792163
+INFO:root:Started processing listings.2018-05-29 17:00:00.284102
+INFO:root:Null make listings: 118
+INFO:root:Null make listings filled in: 29
+INFO:root:Null model listings: 348
+INFO:root:Null model listings filled in: 28
+INFO:root:Finished processing listings.2018-05-29 17:00:00.512110
+INFO:root:Started processing listings.2018-05-30 05:00:00.749636
+INFO:root:Null make listings: 104
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 335
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-05-30 05:00:00.895642
+INFO:root:Started processing listings.2018-05-30 17:00:00.332054
+INFO:root:Null make listings: 112
+INFO:root:Null make listings filled in: 23
+INFO:root:Null model listings: 343
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-05-30 17:00:00.597031
+INFO:root:Started processing listings.2018-05-31 05:00:00.760538
+INFO:root:Null make listings: 107
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 342
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-05-31 05:00:00.930545
+INFO:root:Started processing listings.2018-05-31 17:00:00.375764
+INFO:root:Null make listings: 112
+INFO:root:Null make listings filled in: 22
+INFO:root:Null model listings: 348
+INFO:root:Null model listings filled in: 20
+INFO:root:Finished processing listings.2018-05-31 17:00:00.637720
+INFO:root:Started processing listings.2018-06-01 05:00:00.814292
+INFO:root:Null make listings: 96
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 333
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-06-01 05:00:00.924262
+INFO:root:Started processing listings.2018-06-01 17:00:00.401143
+INFO:root:Null make listings: 98
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 334
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-06-01 17:00:00.596131
+INFO:root:Started processing listings.2018-06-02 05:00:00.949584
+INFO:root:Null make listings: 110
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 345
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-06-02 05:00:01.192592
+INFO:root:Started processing listings.2018-06-02 17:00:00.451655
+INFO:root:Null make listings: 103
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 338
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-06-02 17:00:00.598670
+INFO:root:Started processing listings.2018-06-03 05:00:00.978853
+INFO:root:Null make listings: 109
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 346
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-06-03 05:00:01.149860
+INFO:root:Started processing listings.2018-06-03 17:00:00.490989
+INFO:root:Null make listings: 100
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 339
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-06-03 17:00:00.686955
+INFO:root:Started processing listings.2018-06-04 05:00:01.105263
+INFO:root:Null make listings: 103
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 342
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-06-04 05:00:01.301270
+INFO:root:Started processing listings.2018-06-04 17:00:00.556492
+INFO:root:Null make listings: 107
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 347
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-06-04 17:00:00.707473
+INFO:root:Started processing listings.2018-06-05 05:00:01.166891
+INFO:root:Null make listings: 101
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 342
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-06-05 05:00:01.359865
+INFO:root:Started processing listings.2018-06-05 17:00:00.629899
+INFO:root:Null make listings: 113
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 354
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-06-05 17:00:00.873905
+INFO:root:Started processing listings.2018-06-06 05:00:00.307351
+INFO:root:Null make listings: 101
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 347
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-06-06 05:00:00.498336
+INFO:root:Started processing listings.2018-06-06 17:00:00.671745
+INFO:root:Null make listings: 106
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 352
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-06 17:00:00.890755
+INFO:root:Started processing listings.2018-06-07 05:00:00.418661
+INFO:root:Null make listings: 98
+INFO:root:Null make listings filled in: 2
+INFO:root:Null model listings: 344
+INFO:root:Null model listings filled in: 2
+INFO:root:Finished processing listings.2018-06-07 05:00:00.559665
+INFO:root:Started processing listings.2018-06-07 17:00:00.780838
+INFO:root:Null make listings: 118
+INFO:root:Null make listings filled in: 21
+INFO:root:Null model listings: 363
+INFO:root:Null model listings filled in: 21
+INFO:root:Finished processing listings.2018-06-07 17:00:01.017842
+INFO:root:Started processing listings.2018-06-08 05:00:00.439769
+INFO:root:Null make listings: 104
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 349
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-06-08 05:00:00.611743
+INFO:root:Started processing listings.2018-06-08 17:00:00.802880
+INFO:root:Null make listings: 115
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 360
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-06-08 17:00:01.030849
+INFO:root:Started processing listings.2018-06-09 05:00:00.536591
+INFO:root:Null make listings: 104
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 349
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-06-09 05:00:00.697594
+INFO:root:Started processing listings.2018-06-09 17:00:00.870038
+INFO:root:Null make listings: 111
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 356
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-06-09 17:00:01.052026
+INFO:root:Started processing listings.2018-06-10 05:00:00.589800
+INFO:root:Null make listings: 114
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 361
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-06-10 05:00:00.800807
+INFO:root:Started processing listings.2018-06-10 17:00:00.909138
+INFO:root:Null make listings: 105
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 352
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-06-10 17:00:01.079130
+INFO:root:Started processing listings.2018-06-11 05:00:00.721220
+INFO:root:Null make listings: 109
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 356
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-11 05:00:00.877194
+INFO:root:Started processing listings.2018-06-11 17:00:00.902590
+INFO:root:Null make listings: 105
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 353
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-06-11 17:00:01.105578
+INFO:root:Started processing listings.2018-06-12 05:00:00.766043
+INFO:root:Null make listings: 110
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 359
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-12 05:00:00.935033
+INFO:root:Started processing listings.2018-06-12 17:00:00.957493
+INFO:root:Null make listings: 114
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 365
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-06-12 17:00:01.208466
+INFO:root:Started processing listings.2018-06-13 05:00:00.784684
+INFO:root:Null make listings: 103
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 356
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-06-13 05:00:00.945688
+INFO:root:Started processing listings.2018-06-13 17:00:01.000570
+INFO:root:Null make listings: 119
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 370
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-06-13 17:00:01.232570
+INFO:root:Started processing listings.2018-06-14 05:00:00.896626
+INFO:root:Null make listings: 112
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 364
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-06-14 05:00:01.066631
+INFO:root:Started processing listings.2018-06-14 17:00:01.080294
+INFO:root:Null make listings: 111
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 363
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-06-14 17:00:01.300299
+INFO:root:Started processing listings.2018-06-15 05:00:00.908146
+INFO:root:Null make listings: 112
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 365
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-06-15 05:00:01.080093
+INFO:root:Started processing listings.2018-06-15 17:00:01.139184
+INFO:root:Null make listings: 116
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 369
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-06-15 17:00:01.376189
+INFO:root:Started processing listings.2018-06-16 05:00:00.920911
+INFO:root:Null make listings: 114
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 369
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-06-16 05:00:01.116923
+INFO:root:Started processing listings.2018-06-16 17:00:00.194151
+INFO:root:Null make listings: 118
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 373
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-06-16 17:00:00.431133
+INFO:root:Started processing listings.2018-06-17 05:00:00.981568
+INFO:root:Null make listings: 111
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 368
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-17 05:00:01.160556
+INFO:root:Started processing listings.2018-06-17 17:00:00.286646
+INFO:root:Null make listings: 120
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 377
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-06-17 17:00:00.549651
+INFO:root:Started processing listings.2018-06-18 05:00:01.059603
+INFO:root:Null make listings: 113
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 372
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-06-18 05:00:01.238589
+INFO:root:Started processing listings.2018-06-18 17:00:00.311124
+INFO:root:Null make listings: 111
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 371
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-06-18 17:00:00.567121
+INFO:root:Started processing listings.2018-06-19 05:00:01.122953
+INFO:root:Null make listings: 109
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 369
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-06-19 05:00:01.275957
+INFO:root:Started processing listings.2018-06-19 17:00:00.387520
+INFO:root:Null make listings: 120
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 379
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-06-19 17:00:00.673527
+INFO:root:Started processing listings.2018-06-20 05:00:01.149772
+INFO:root:Null make listings: 109
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 369
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-06-20 05:00:01.301741
+INFO:root:Started processing listings.2018-06-20 17:00:00.374344
+INFO:root:Null make listings: 121
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 380
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-06-20 17:00:00.669301
+INFO:root:Started processing listings.2018-06-21 05:00:00.216677
+INFO:root:Null make listings: 122
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 383
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-06-21 05:00:00.416680
+INFO:root:Started processing listings.2018-06-21 17:00:00.445783
+INFO:root:Null make listings: 118
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 382
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-06-21 17:00:00.752741
+INFO:root:Started processing listings.2018-06-22 05:00:00.307309
+INFO:root:Null make listings: 113
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 378
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-06-22 05:00:00.463313
+INFO:root:Started processing listings.2018-06-22 17:00:00.504692
+INFO:root:Null make listings: 117
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 382
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-22 17:00:00.768699
+INFO:root:Started processing listings.2018-06-23 05:00:00.434172
+INFO:root:Null make listings: 127
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 392
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-06-23 05:00:00.666160
+INFO:root:Started processing listings.2018-06-23 17:00:00.565702
+INFO:root:Null make listings: 118
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 385
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-06-23 17:00:00.842712
+INFO:root:Started processing listings.2018-06-24 05:00:00.468991
+INFO:root:Null make listings: 115
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 386
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-06-24 05:00:00.633960
+INFO:root:Started processing listings.2018-06-24 17:00:00.625987
+INFO:root:Null make listings: 120
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 391
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-06-24 17:00:00.936980
+INFO:root:Started processing listings.2018-06-25 05:00:00.505852
+INFO:root:Null make listings: 122
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 392
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-06-25 05:00:00.706842
+INFO:root:Started processing listings.2018-06-25 17:00:00.820169
+INFO:root:Null make listings: 122
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 391
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-25 17:00:00.998127
+INFO:root:Started processing listings.2018-06-26 05:00:00.660457
+INFO:root:Null make listings: 125
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 394
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-06-26 05:00:00.874425
+INFO:root:Started processing listings.2018-06-26 17:00:00.718395
+INFO:root:Null make listings: 126
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 395
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-06-26 17:00:00.970427
+INFO:root:Started processing listings.2018-06-27 05:00:00.657096
+INFO:root:Null make listings: 120
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 390
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-06-27 05:00:00.813097
+INFO:root:Started processing listings.2018-06-27 17:00:00.807907
+INFO:root:Null make listings: 120
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 389
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-06-27 17:00:00.999867
+INFO:root:Started processing listings.2018-06-28 05:00:00.673123
+INFO:root:Null make listings: 127
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 396
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-28 05:00:00.852128
+INFO:root:Started processing listings.2018-06-28 17:00:00.845562
+INFO:root:Null make listings: 128
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 397
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-06-28 17:00:01.047548
+INFO:root:Started processing listings.2018-06-29 05:00:00.669060
+INFO:root:Null make listings: 128
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 397
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-06-29 05:00:00.856067
+INFO:root:Started processing listings.2018-06-29 17:00:00.907212
+INFO:root:Null make listings: 128
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 400
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-29 17:00:01.143216
+INFO:root:Started processing listings.2018-06-30 05:00:00.704403
+INFO:root:Null make listings: 129
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 401
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-30 05:00:00.884417
+INFO:root:Started processing listings.2018-06-30 17:00:00.966448
+INFO:root:Null make listings: 128
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 401
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-06-30 17:00:01.191445
+INFO:root:Started processing listings.2018-07-01 05:00:00.748887
+INFO:root:Null make listings: 124
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 397
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-07-01 05:00:00.907894
+INFO:root:Started processing listings.2018-07-01 17:00:01.003216
+INFO:root:Null make listings: 137
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 411
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-07-01 17:00:01.255227
+INFO:root:Started processing listings.2018-07-02 05:00:00.756876
+INFO:root:Null make listings: 124
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 401
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-07-02 05:00:00.930862
+INFO:root:Started processing listings.2018-07-02 17:00:01.059838
+INFO:root:Null make listings: 123
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 401
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-07-02 17:00:01.246840
+INFO:root:Started processing listings.2018-07-03 05:00:00.778859
+INFO:root:Null make listings: 132
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 410
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-07-03 05:00:01.586852
+INFO:root:Started processing listings.2018-07-03 17:00:01.354161
+INFO:root:Null make listings: 131
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 410
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-03 17:00:01.862146
+INFO:root:Started processing listings.2018-07-04 05:00:02.043569
+INFO:root:Null make listings: 126
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 407
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-04 05:00:03.736558
+INFO:root:Started processing listings.2018-07-04 17:00:10.063664
+INFO:root:Null make listings: 132
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 412
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-07-04 17:00:10.571681
+INFO:root:Started processing listings.2018-07-05 05:00:02.142928
+INFO:root:Null make listings: 127
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 407
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-05 05:00:03.653859
+INFO:root:Started processing listings.2018-07-05 17:00:01.816738
+INFO:root:Null make listings: 135
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 415
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-07-05 17:00:03.554740
+INFO:root:Started processing listings.2018-07-06 05:00:02.401209
+INFO:root:Null make listings: 130
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 413
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-06 05:00:04.690216
+INFO:root:Started processing listings.2018-07-06 17:00:01.426423
+INFO:root:Null make listings: 130
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 412
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-07-06 17:00:03.558440
+INFO:root:Started processing listings.2018-07-07 05:00:02.945616
+INFO:root:Null make listings: 129
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 413
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-07 05:00:04.362630
+INFO:root:Started processing listings.2018-07-07 17:00:01.712323
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 424
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-07-07 17:00:04.826321
+INFO:root:Started processing listings.2018-07-08 05:00:03.108338
+INFO:root:Null make listings: 131
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 416
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-07-08 05:00:05.519313
+INFO:root:Started processing listings.2018-07-08 17:00:01.519725
+INFO:root:Null make listings: 142
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 426
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-07-08 17:00:04.646694
+INFO:root:Started processing listings.2018-07-09 05:00:02.397658
+INFO:root:Null make listings: 137
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 423
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-09 05:00:04.271200
+INFO:root:Started processing listings.2018-07-09 17:00:01.526753
+INFO:root:Null make listings: 132
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 419
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-07-09 17:00:03.171702
+INFO:root:Started processing listings.2018-07-10 05:00:02.164850
+INFO:root:Null make listings: 125
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 413
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-07-10 05:00:02.575832
+INFO:root:Started processing listings.2018-07-10 17:00:03.080479
+INFO:root:Null make listings: 132
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 420
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-07-10 17:00:05.008474
+INFO:root:Started processing listings.2018-07-11 05:00:02.393444
+INFO:root:Null make listings: 137
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 426
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-11 05:00:04.645505
+INFO:root:Started processing listings.2018-07-11 17:00:01.681244
+INFO:root:Null make listings: 134
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 424
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-11 17:00:03.697196
+INFO:root:Started processing listings.2018-07-12 05:00:02.457425
+INFO:root:Null make listings: 142
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 432
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-07-12 05:00:04.130457
+INFO:root:Started processing listings.2018-07-12 17:00:02.852457
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 434
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-12 17:00:03.977427
+INFO:root:Started processing listings.2018-07-13 05:00:02.877822
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 436
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-07-13 05:00:04.161831
+INFO:root:Started processing listings.2018-07-13 17:00:01.882061
+INFO:root:Null make listings: 131
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 428
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-07-13 17:00:02.612026
+INFO:root:Started processing listings.2018-07-14 05:00:01.659826
+INFO:root:Null make listings: 138
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 436
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-07-14 05:00:02.623822
+INFO:root:Started processing listings.2018-07-14 17:00:01.982898
+INFO:root:Null make listings: 136
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 435
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-07-14 17:00:03.017898
+INFO:root:Started processing listings.2018-07-15 05:00:01.561989
+INFO:root:Null make listings: 132
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 432
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-07-15 05:00:02.267016
+INFO:root:Started processing listings.2018-07-15 17:00:02.122896
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 440
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-15 17:00:03.575908
+INFO:root:Started processing listings.2018-07-16 05:00:01.616742
+INFO:root:Null make listings: 139
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 440
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-07-16 05:00:02.561741
+INFO:root:Started processing listings.2018-07-16 17:00:02.776175
+INFO:root:Null make listings: 150
+INFO:root:Null make listings filled in: 21
+INFO:root:Null model listings: 451
+INFO:root:Null model listings filled in: 19
+INFO:root:Finished processing listings.2018-07-16 17:00:04.691202
+INFO:root:Started processing listings.2018-07-17 05:00:01.784440
+INFO:root:Null make listings: 135
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 438
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-07-17 05:00:02.575437
+INFO:root:Started processing listings.2018-07-17 17:00:02.124127
+INFO:root:Null make listings: 138
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 441
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-17 17:00:03.770481
+INFO:root:Started processing listings.2018-07-18 05:00:02.145558
+INFO:root:Null make listings: 149
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 453
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-07-18 05:00:03.734499
+INFO:root:Started processing listings.2018-07-18 17:00:02.240645
+INFO:root:Null make listings: 143
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 449
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-07-18 17:00:03.742704
+INFO:root:Started processing listings.2018-07-19 05:00:02.499958
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 448
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-07-19 05:00:03.422956
+INFO:root:Started processing listings.2018-07-19 17:00:02.161973
+INFO:root:Null make listings: 139
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 449
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-07-19 17:00:03.448984
+INFO:root:Started processing listings.2018-07-20 05:00:01.809345
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 449
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-07-20 05:00:02.727347
+INFO:root:Started processing listings.2018-07-20 17:00:02.458189
+INFO:root:Null make listings: 148
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 457
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-07-20 17:00:04.043201
+INFO:root:Started processing listings.2018-07-21 05:00:01.788594
+INFO:root:Null make listings: 137
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 447
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-07-21 05:00:02.568589
+INFO:root:Started processing listings.2018-07-21 17:00:02.413219
+INFO:root:Null make listings: 143
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 453
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-07-21 17:00:03.781208
+INFO:root:Started processing listings.2018-07-22 05:00:01.691035
+INFO:root:Null make listings: 140
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 449
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-07-22 05:00:02.463031
+INFO:root:Started processing listings.2018-07-22 17:00:02.305679
+INFO:root:Null make listings: 151
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 462
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-07-22 17:00:03.810700
+INFO:root:Started processing listings.2018-07-23 05:00:01.792382
+INFO:root:Null make listings: 147
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 460
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-07-23 05:00:03.291335
+INFO:root:Started processing listings.2018-07-23 17:00:02.289941
+INFO:root:Null make listings: 151
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 464
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-07-23 17:00:03.776935
+INFO:root:Started processing listings.2018-07-24 05:00:01.832765
+INFO:root:Null make listings: 147
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 461
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-07-24 05:00:02.772724
+INFO:root:Started processing listings.2018-07-24 17:00:01.459735
+INFO:root:Null make listings: 148
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 459
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-07-24 17:00:02.981725
+INFO:root:Started processing listings.2018-07-25 05:00:01.904540
+INFO:root:Null make listings: 156
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 469
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-07-25 05:00:03.361528
+INFO:root:Started processing listings.2018-07-25 17:00:01.411973
+INFO:root:Null make listings: 154
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 467
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-07-25 17:00:03.113961
+INFO:root:Started processing listings.2018-07-26 05:00:02.078809
+INFO:root:Null make listings: 149
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 463
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-07-26 05:00:03.147808
+INFO:root:Started processing listings.2018-07-26 17:00:01.612205
+INFO:root:Null make listings: 147
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 461
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-26 17:00:02.888179
+INFO:root:Started processing listings.2018-07-27 05:00:02.221704
+INFO:root:Null make listings: 143
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 457
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-07-27 05:00:03.124661
+INFO:root:Started processing listings.2018-07-27 17:00:01.441294
+INFO:root:Null make listings: 158
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 472
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-07-27 17:00:04.018313
+INFO:root:Started processing listings.2018-07-28 05:00:02.967565
+INFO:root:Null make listings: 149
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 465
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-07-28 05:00:03.910515
+INFO:root:Started processing listings.2018-07-28 17:00:01.655089
+INFO:root:Null make listings: 151
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 471
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-07-28 17:00:03.266099
+INFO:root:Started processing listings.2018-07-29 05:00:02.146353
+INFO:root:Null make listings: 149
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 470
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-07-29 05:00:03.235348
+INFO:root:Started processing listings.2018-07-29 17:00:01.605473
+INFO:root:Null make listings: 151
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 472
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-07-29 17:00:02.986449
+INFO:root:Started processing listings.2018-07-30 05:00:02.488354
+INFO:root:Null make listings: 143
+INFO:root:Null make listings filled in: 2
+INFO:root:Null model listings: 465
+INFO:root:Null model listings filled in: 2
+INFO:root:Finished processing listings.2018-07-30 05:00:03.177381
+INFO:root:Started processing listings.2018-07-30 17:00:01.849827
+INFO:root:Null make listings: 144
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 466
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-07-30 17:00:02.924838
+INFO:root:Started processing listings.2018-07-31 05:00:02.437753
+INFO:root:Null make listings: 147
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 469
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-07-31 05:00:03.304813
+INFO:root:Started processing listings.2018-07-31 17:00:01.569742
+INFO:root:Null make listings: 152
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 473
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-07-31 17:00:03.285721
+INFO:root:Started processing listings.2018-08-01 05:00:01.065749
+INFO:root:Null make listings: 151
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 472
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-08-01 05:00:01.343728
+INFO:root:Started processing listings.2018-08-01 17:00:00.751010
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 487
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-08-01 17:00:01.063024
+INFO:root:Started processing listings.2018-08-02 05:00:01.098894
+INFO:root:Null make listings: 150
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 476
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-02 05:00:01.281864
+INFO:root:Started processing listings.2018-08-02 17:00:00.791720
+INFO:root:Null make listings: 159
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 485
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-08-02 17:00:01.033710
+INFO:root:Started processing listings.2018-08-03 05:00:01.132890
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 491
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-08-03 05:00:01.405845
+INFO:root:Started processing listings.2018-08-03 17:00:00.842514
+INFO:root:Null make listings: 166
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 494
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-08-03 17:00:01.149473
+INFO:root:Started processing listings.2018-08-04 05:00:01.176137
+INFO:root:Null make listings: 157
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 485
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-08-04 05:00:01.384110
+INFO:root:Started processing listings.2018-08-04 17:00:00.876279
+INFO:root:Null make listings: 166
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 493
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-08-04 17:00:01.160298
+INFO:root:Started processing listings.2018-08-05 05:00:00.309554
+INFO:root:Null make listings: 154
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 481
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-08-05 05:00:00.464524
+INFO:root:Started processing listings.2018-08-05 17:00:00.937417
+INFO:root:Null make listings: 160
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 487
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-08-05 17:00:01.180409
+INFO:root:Started processing listings.2018-08-06 05:00:00.412922
+INFO:root:Null make listings: 158
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 487
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-08-06 05:00:00.620898
+INFO:root:Started processing listings.2018-08-06 17:00:00.999520
+INFO:root:Null make listings: 161
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 490
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-08-06 17:00:01.249530
+INFO:root:Started processing listings.2018-08-07 05:00:00.483969
+INFO:root:Null make listings: 162
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 493
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-07 05:00:00.672975
+INFO:root:Started processing listings.2018-08-07 17:00:01.091541
+INFO:root:Null make listings: 167
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 498
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-08-07 17:00:01.416550
+INFO:root:Started processing listings.2018-08-08 05:00:00.675262
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 494
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-08 05:00:01.812271
+INFO:root:Started processing listings.2018-08-08 17:00:01.108332
+INFO:root:Null make listings: 159
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 491
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-08-08 17:00:02.157332
+INFO:root:Started processing listings.2018-08-09 05:00:00.634432
+INFO:root:Null make listings: 172
+INFO:root:Null make listings filled in: 21
+INFO:root:Null model listings: 506
+INFO:root:Null model listings filled in: 20
+INFO:root:Finished processing listings.2018-08-09 05:00:00.898438
+INFO:root:Started processing listings.2018-08-09 17:00:01.150041
+INFO:root:Null make listings: 162
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 496
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-09 17:00:02.396054
+INFO:root:Started processing listings.2018-08-10 05:00:01.593300
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 500
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-10 05:00:01.863270
+INFO:root:Started processing listings.2018-08-10 17:00:00.164067
+INFO:root:Null make listings: 166
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 503
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-08-10 17:00:00.458071
+INFO:root:Started processing listings.2018-08-11 05:00:00.663860
+INFO:root:Null make listings: 160
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 499
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-08-11 05:00:00.825865
+INFO:root:Started processing listings.2018-08-11 17:00:00.227636
+INFO:root:Null make listings: 158
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 497
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-08-11 17:00:00.462642
+INFO:root:Started processing listings.2018-08-12 05:00:00.729651
+INFO:root:Null make listings: 165
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 506
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-08-12 05:00:00.922656
+INFO:root:Started processing listings.2018-08-12 17:00:00.224638
+INFO:root:Null make listings: 167
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 508
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-08-12 17:00:00.470646
+INFO:root:Started processing listings.2018-08-13 05:00:00.748870
+INFO:root:Null make listings: 164
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 506
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-08-13 05:00:00.965878
+INFO:root:Started processing listings.2018-08-13 14:35:28.840985
+INFO:root:Null make listings: 164
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 506
+INFO:root:Null model listings filled in: 10
+INFO:root:Started processing listings.2018-08-13 14:36:33.644338
+INFO:root:Null make listings: 164
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 506
+INFO:root:Null model listings filled in: 10
+INFO:root:Started processing listings.2018-08-13 14:37:23.343578
+INFO:root:Null make listings: 164
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 506
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 4117
+INFO:root:Null model listings filled in: 3953
+INFO:root:Finished processing listings.2018-08-13 14:37:36.124631
+INFO:root:Started processing listings.2018-08-13 17:00:00.260443
+INFO:root:Null make listings: 159
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 501
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 169
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-08-13 17:00:00.473453
+INFO:root:Started processing listings.2018-08-14 05:00:00.884089
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 504
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 173
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-08-14 05:00:01.173099
+INFO:root:Started processing listings.2018-08-14 17:00:00.268404
+INFO:root:Null make listings: 172
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 513
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 181
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-08-14 17:00:00.597417
+INFO:root:Started processing listings.2018-08-15 05:00:00.983928
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 505
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 173
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-15 05:00:01.217956
+INFO:root:Started processing listings.2018-08-15 17:00:00.298330
+INFO:root:Null make listings: 167
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 509
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 177
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-08-15 17:00:00.569353
+INFO:root:Started processing listings.2018-08-16 05:00:01.068081
+INFO:root:Null make listings: 161
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 503
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 172
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-08-16 05:00:01.266086
+INFO:root:Started processing listings.2018-08-16 17:00:00.358370
+INFO:root:Null make listings: 177
+INFO:root:Null make listings filled in: 21
+INFO:root:Null model listings: 520
+INFO:root:Null model listings filled in: 20
+INFO:root:Null year listings: 189
+INFO:root:Null model listings filled in: 21
+INFO:root:Finished processing listings.2018-08-16 17:00:00.727381
+INFO:root:Started processing listings.2018-08-17 05:00:01.076937
+INFO:root:Null make listings: 167
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 511
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 179
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-17 05:00:01.355945
+INFO:root:Started processing listings.2018-08-17 17:00:00.423980
+INFO:root:Null make listings: 167
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 511
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 179
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-17 17:00:00.713979
+INFO:root:Started processing listings.2018-08-18 05:00:01.108575
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 515
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 182
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-08-18 05:00:01.408548
+INFO:root:Started processing listings.2018-08-18 17:00:00.487061
+INFO:root:Null make listings: 168
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 514
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 178
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-08-18 17:00:00.760086
+INFO:root:Started processing listings.2018-08-19 05:00:01.107765
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 518
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 181
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-08-19 05:00:01.402757
+INFO:root:Started processing listings.2018-08-19 17:00:00.489902
+INFO:root:Null make listings: 175
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 525
+INFO:root:Null model listings filled in: 16
+INFO:root:Null year listings: 185
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-08-19 17:00:00.833929
+INFO:root:Started processing listings.2018-08-20 05:00:01.135097
+INFO:root:Null make listings: 163
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 514
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 173
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-08-20 05:00:01.347122
+INFO:root:Started processing listings.2018-08-20 17:00:00.550044
+INFO:root:Null make listings: 177
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 529
+INFO:root:Null model listings filled in: 18
+INFO:root:Null year listings: 187
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-08-20 17:00:00.923075
+INFO:root:Started processing listings.2018-08-21 05:00:00.211457
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 524
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 183
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-08-21 05:00:00.497432
+INFO:root:Started processing listings.2018-08-21 17:00:00.613344
+INFO:root:Null make listings: 173
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 526
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 185
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-08-21 17:00:00.942356
+INFO:root:Started processing listings.2018-08-22 05:00:00.355576
+INFO:root:Null make listings: 164
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 517
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 176
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-08-22 05:00:00.569548
+INFO:root:Started processing listings.2018-08-22 17:00:00.673253
+INFO:root:Null make listings: 168
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 521
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 180
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-08-22 17:00:00.962278
+INFO:root:Started processing listings.2018-08-23 05:00:00.385227
+INFO:root:Null make listings: 164
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 518
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 177
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-08-23 05:00:00.605215
+INFO:root:Started processing listings.2018-08-23 17:00:00.736522
+INFO:root:Null make listings: 169
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 523
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 182
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-08-23 17:00:01.027499
+INFO:root:Started processing listings.2018-08-24 05:00:00.524625
+INFO:root:Null make listings: 172
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 524
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 184
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-08-24 05:00:00.792629
+INFO:root:Started processing listings.2018-08-24 17:00:00.796365
+INFO:root:Null make listings: 173
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 525
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 184
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-08-24 17:00:01.086368
+INFO:root:Started processing listings.2018-08-25 05:00:00.606472
+INFO:root:Null make listings: 172
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 527
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 184
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-08-25 05:00:00.867475
+INFO:root:Started processing listings.2018-08-25 17:00:00.859276
+INFO:root:Null make listings: 170
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 526
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 183
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-25 17:00:01.158285
+INFO:root:Started processing listings.2018-08-26 05:00:00.671120
+INFO:root:Null make listings: 174
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 530
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 187
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-26 05:00:00.946129
+INFO:root:Started processing listings.2018-08-26 17:00:00.871425
+INFO:root:Null make listings: 181
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 538
+INFO:root:Null model listings filled in: 16
+INFO:root:Null year listings: 194
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-08-26 17:00:01.276439
+INFO:root:Started processing listings.2018-08-27 05:00:00.700462
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 530
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 185
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-08-27 05:00:00.914472
+INFO:root:Started processing listings.2018-08-27 17:00:00.934621
+INFO:root:Null make listings: 180
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 540
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 194
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-08-27 17:00:01.304630
+INFO:root:Started processing listings.2018-08-28 05:00:00.717685
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 532
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 188
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-28 05:00:00.958660
+INFO:root:Started processing listings.2018-08-28 17:00:00.996689
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 532
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 188
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-28 17:00:01.281693
+INFO:root:Started processing listings.2018-08-29 05:00:00.728959
+INFO:root:Null make listings: 175
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 536
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 191
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-08-29 05:00:00.989968
+INFO:root:Started processing listings.2018-08-29 17:00:01.027999
+INFO:root:Null make listings: 180
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 539
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 197
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-08-29 17:00:01.406981
+INFO:root:Started processing listings.2018-08-30 05:00:00.774482
+INFO:root:Null make listings: 175
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 536
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 191
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-08-30 05:00:01.093398
+INFO:root:Started processing listings.2018-08-30 17:00:01.182053
+INFO:root:Null make listings: 180
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 541
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 196
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-08-30 17:00:01.511033
+INFO:root:Started processing listings.2018-08-31 05:00:00.819726
+INFO:root:Null make listings: 180
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 540
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 196
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-08-31 05:00:01.070731
+INFO:root:Started processing listings.2018-08-31 17:00:01.209431
+INFO:root:Null make listings: 175
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 536
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 191
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-08-31 17:00:01.501390
+INFO:root:Started processing listings.2018-09-01 05:00:00.918096
+INFO:root:Null make listings: 171
+INFO:root:Null make listings filled in: 2
+INFO:root:Null model listings: 533
+INFO:root:Null model listings filled in: 2
+INFO:root:Null year listings: 188
+INFO:root:Null model listings filled in: 2
+INFO:root:Finished processing listings.2018-09-01 05:00:01.116107
+INFO:root:Started processing listings.2018-09-01 17:00:00.264593
+INFO:root:Null make listings: 179
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 541
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 196
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-01 17:00:00.560558
+INFO:root:Started processing listings.2018-09-02 05:00:00.943584
+INFO:root:Null make listings: 181
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 543
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 198
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-09-02 05:00:01.214591
+INFO:root:Started processing listings.2018-09-02 17:00:00.294722
+INFO:root:Null make listings: 179
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 542
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 196
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-02 17:00:00.546734
+INFO:root:Started processing listings.2018-09-03 05:00:00.981959
+INFO:root:Null make listings: 180
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 544
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 197
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-03 05:00:01.238917
+INFO:root:Started processing listings.2018-09-03 17:00:00.327923
+INFO:root:Null make listings: 179
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 545
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 196
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-09-03 17:00:00.639829
+INFO:root:Started processing listings.2018-09-04 05:00:01.061960
+INFO:root:Null make listings: 184
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 549
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 201
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-09-04 05:00:01.352967
+INFO:root:Started processing listings.2018-09-04 17:00:00.390657
+INFO:root:Null make listings: 183
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 549
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 199
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-09-04 17:00:00.676639
+INFO:root:Started processing listings.2018-09-05 05:00:01.613338
+INFO:root:Null make listings: 181
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 547
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 197
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-05 05:00:01.937297
+INFO:root:Started processing listings.2018-09-05 17:00:00.469540
+INFO:root:Null make listings: 182
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 547
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 197
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-09-05 17:00:00.773562
+INFO:root:Started processing listings.2018-09-06 05:00:00.182363
+INFO:root:Null make listings: 189
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 555
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 204
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-09-06 05:00:00.515414
+INFO:root:Started processing listings.2018-09-06 17:00:00.538738
+INFO:root:Null make listings: 188
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 556
+INFO:root:Null model listings filled in: 13
+INFO:root:Null year listings: 205
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-09-06 17:00:00.880722
+INFO:root:Started processing listings.2018-09-07 05:00:00.228500
+INFO:root:Null make listings: 173
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 543
+INFO:root:Null model listings filled in: 0
+INFO:root:Null year listings: 191
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-09-07 05:00:00.304498
+INFO:root:Started processing listings.2018-09-07 17:00:00.555242
+INFO:root:Null make listings: 188
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 558
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 206
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-09-07 17:00:00.935278
+INFO:root:Started processing listings.2018-09-08 05:00:00.251707
+INFO:root:Null make listings: 173
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 544
+INFO:root:Null model listings filled in: 0
+INFO:root:Null year listings: 192
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-09-08 05:00:00.331709
+INFO:root:Started processing listings.2018-09-08 17:00:00.619017
+INFO:root:Null make listings: 195
+INFO:root:Null make listings filled in: 22
+INFO:root:Null model listings: 566
+INFO:root:Null model listings filled in: 21
+INFO:root:Null year listings: 214
+INFO:root:Null model listings filled in: 21
+INFO:root:Finished processing listings.2018-09-08 17:00:01.061983
+INFO:root:Started processing listings.2018-09-09 05:00:00.254643
+INFO:root:Null make listings: 186
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 558
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 206
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-09-09 05:00:00.587651
+INFO:root:Started processing listings.2018-09-09 17:00:00.691895
+INFO:root:Null make listings: 186
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 560
+INFO:root:Null model listings filled in: 13
+INFO:root:Null year listings: 206
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-09-09 17:00:01.009907
+INFO:root:Started processing listings.2018-09-10 05:00:00.349275
+INFO:root:Null make listings: 185
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 558
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 205
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-09-10 05:00:00.677265
+INFO:root:Started processing listings.2018-09-10 17:00:00.717549
+INFO:root:Null make listings: 189
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 561
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 208
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-09-10 17:00:01.135545
+INFO:root:Started processing listings.2018-09-11 05:00:00.429528
+INFO:root:Null make listings: 183
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 555
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 202
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-09-11 05:00:00.694539
+INFO:root:Started processing listings.2018-09-11 17:00:00.825511
+INFO:root:Null make listings: 183
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 557
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 202
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-09-11 17:00:01.068519
+INFO:root:Started processing listings.2018-09-12 05:00:00.444437
+INFO:root:Null make listings: 185
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 561
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 204
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-12 05:00:00.718395
+INFO:root:Started processing listings.2018-09-12 17:00:00.850208
+INFO:root:Null make listings: 191
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 568
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 210
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-09-12 17:00:01.263174
+INFO:root:Started processing listings.2018-09-13 05:00:00.490672
+INFO:root:Null make listings: 190
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 568
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 209
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-09-13 05:00:00.843703
+INFO:root:Started processing listings.2018-09-13 17:00:00.892666
+INFO:root:Null make listings: 195
+INFO:root:Null make listings filled in: 19
+INFO:root:Null model listings: 576
+INFO:root:Null model listings filled in: 16
+INFO:root:Null year listings: 213
+INFO:root:Null model listings filled in: 19
+INFO:root:Finished processing listings.2018-09-13 17:00:01.326676
+INFO:root:Started processing listings.2018-09-14 05:00:00.553978
+INFO:root:Null make listings: 188
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 570
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 206
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-09-14 05:00:00.837966
+INFO:root:Started processing listings.2018-09-14 17:00:00.968498
+INFO:root:Null make listings: 190
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 573
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 207
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-09-14 17:00:01.266508
+INFO:root:Started processing listings.2018-09-15 05:00:00.604600
+INFO:root:Null make listings: 191
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 575
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 209
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-09-15 05:00:00.924610
+INFO:root:Started processing listings.2018-09-15 17:00:00.995330
+INFO:root:Null make listings: 188
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 573
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 206
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-09-15 17:00:01.310326
+INFO:root:Started processing listings.2018-09-16 05:00:00.755316
+INFO:root:Null make listings: 191
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 576
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 210
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-09-16 05:00:01.054271
+INFO:root:Started processing listings.2018-09-16 17:00:01.049876
+INFO:root:Null make listings: 190
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 576
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 208
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-09-16 17:00:01.363852
+INFO:root:Started processing listings.2018-09-17 05:00:00.874093
+INFO:root:Null make listings: 187
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 574
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 206
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-09-17 05:00:01.117101
+INFO:root:Started processing listings.2018-09-17 17:00:01.112554
+INFO:root:Null make listings: 183
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 570
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 202
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-09-17 17:00:01.339507
+INFO:root:Started processing listings.2018-09-18 05:00:01.037469
+INFO:root:Null make listings: 185
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 572
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 204
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-09-18 05:00:01.259476
+INFO:root:Started processing listings.2018-09-18 17:00:01.182853
+INFO:root:Null make listings: 192
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 578
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 211
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-18 17:00:01.516829
+INFO:root:Started processing listings.2018-09-19 05:00:01.147341
+INFO:root:Null make listings: 190
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 579
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 210
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-09-19 05:00:01.403343
+INFO:root:Started processing listings.2018-09-19 17:00:00.214997
+INFO:root:Null make listings: 187
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 578
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 207
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-09-19 17:00:00.490010
+INFO:root:Started processing listings.2018-09-20 05:00:00.192395
+INFO:root:Null make listings: 194
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 585
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 213
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-09-20 05:00:00.509404
+INFO:root:Started processing listings.2018-09-20 17:00:00.276461
+INFO:root:Null make listings: 195
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 586
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 214
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-09-20 17:00:00.637479
+INFO:root:Started processing listings.2018-09-21 05:00:00.293000
+INFO:root:Null make listings: 186
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 578
+INFO:root:Null model listings filled in: 2
+INFO:root:Null year listings: 204
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-09-21 05:00:00.490931
+INFO:root:Started processing listings.2018-09-21 17:00:00.300493
+INFO:root:Null make listings: 197
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 590
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 215
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-09-21 17:00:00.705486
+INFO:root:Started processing listings.2018-09-22 05:00:00.438558
+INFO:root:Null make listings: 192
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 587
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 211
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-09-22 05:00:00.730522
+INFO:root:Started processing listings.2018-09-22 17:00:00.371865
+INFO:root:Null make listings: 188
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 584
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 207
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-09-22 17:00:00.641875
+INFO:root:Started processing listings.2018-09-23 05:00:00.498522
+INFO:root:Null make listings: 197
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 594
+INFO:root:Null model listings filled in: 13
+INFO:root:Null year listings: 217
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-09-23 05:00:00.834532
+INFO:root:Started processing listings.2018-09-23 17:00:00.421101
+INFO:root:Null make listings: 207
+INFO:root:Null make listings filled in: 23
+INFO:root:Null model listings: 604
+INFO:root:Null model listings filled in: 20
+INFO:root:Null year listings: 227
+INFO:root:Null model listings filled in: 24
+INFO:root:Finished processing listings.2018-09-23 17:00:00.926085
+INFO:root:Started processing listings.2018-09-24 05:00:00.524864
+INFO:root:Null make listings: 193
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 593
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 212
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-09-24 05:00:00.793873
+INFO:root:Started processing listings.2018-09-24 17:00:00.477905
+INFO:root:Null make listings: 195
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 595
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 214
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-09-24 17:00:00.850890
+INFO:root:Started processing listings.2018-09-25 05:00:00.578378
+INFO:root:Null make listings: 190
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 590
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 210
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-09-25 05:00:00.882357
+INFO:root:Started processing listings.2018-09-25 17:00:00.576473
+INFO:root:Started processing listings.2018-09-26 05:00:00.597065
+INFO:root:Null make listings: 210
+INFO:root:Null make listings filled in: 25
+INFO:root:Null model listings: 610
+INFO:root:Null model listings filled in: 24
+INFO:root:Null year listings: 230
+INFO:root:Null model listings filled in: 25
+INFO:root:Finished processing listings.2018-09-26 05:00:01.097081
+INFO:root:Started processing listings.2018-09-26 17:00:00.604354
+INFO:root:Null make listings: 203
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 603
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 223
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-09-26 17:00:01.044309
+INFO:root:Started processing listings.2018-09-27 05:00:00.615803
+INFO:root:Null make listings: 193
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 595
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 212
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-09-27 05:00:00.856810
+INFO:root:Started processing listings.2018-09-27 17:00:00.669511
+INFO:root:Null make listings: 194
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 597
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 213
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-09-27 17:00:00.958489
+INFO:root:Started processing listings.2018-09-28 05:00:00.711147
+INFO:root:Null make listings: 197
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 600
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 216
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-09-28 05:00:00.993156
+INFO:root:Started processing listings.2018-09-28 17:00:00.728406
+INFO:root:Null make listings: 199
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 602
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 218
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-09-28 17:00:01.070416
+INFO:root:Started processing listings.2018-09-29 05:00:00.818221
+INFO:root:Null make listings: 194
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 598
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 212
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-09-29 05:00:01.074222
+INFO:root:Started processing listings.2018-09-29 17:00:00.787875
+INFO:root:Null make listings: 208
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 611
+INFO:root:Null model listings filled in: 19
+INFO:root:Null year listings: 227
+INFO:root:Null model listings filled in: 21
+INFO:root:Finished processing listings.2018-09-29 17:00:01.272897
+INFO:root:Started processing listings.2018-09-30 05:00:00.899681
+INFO:root:Null make listings: 196
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 600
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 214
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-09-30 05:00:01.174636
+INFO:root:Started processing listings.2018-09-30 17:00:00.859232
+INFO:root:Null make listings: 192
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 596
+INFO:root:Null model listings filled in: 2
+INFO:root:Null year listings: 210
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-09-30 17:00:01.117219
+INFO:root:Started processing listings.2018-10-01 05:00:01.028392
+INFO:root:Null make listings: 200
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 606
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 218
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-10-01 05:00:01.396406
+INFO:root:Started processing listings.2018-10-01 17:00:00.915978
+INFO:root:Null make listings: 203
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 609
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 221
+INFO:root:Null model listings filled in: 15
+INFO:root:Finished processing listings.2018-10-01 17:00:01.319953
+INFO:root:Started processing listings.2018-10-02 05:00:01.091187
+INFO:root:Null make listings: 195
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 604
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 212
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-02 05:00:01.333193
+INFO:root:Started processing listings.2018-10-02 17:00:00.979526
+INFO:root:Null make listings: 207
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 616
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 224
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-10-02 17:00:01.423509
+INFO:root:Started processing listings.2018-10-03 05:00:01.093989
+INFO:root:Null make listings: 198
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 608
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 215
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-10-03 05:00:01.352000
+INFO:root:Started processing listings.2018-10-03 17:00:01.002407
+INFO:root:Null make listings: 204
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 613
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 220
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-10-03 17:00:01.405373
+INFO:root:Started processing listings.2018-10-04 05:00:01.128758
+INFO:root:Null make listings: 194
+INFO:root:Null make listings filled in: 2
+INFO:root:Null model listings: 603
+INFO:root:Null model listings filled in: 2
+INFO:root:Null year listings: 210
+INFO:root:Null model listings filled in: 2
+INFO:root:Finished processing listings.2018-10-04 05:00:01.324765
+INFO:root:Started processing listings.2018-10-04 17:00:01.082534
+INFO:root:Null make listings: 209
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 618
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 225
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-10-04 17:00:02.531554
+INFO:root:Started processing listings.2018-10-05 05:00:01.165919
+INFO:root:Null make listings: 200
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 610
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 216
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-10-05 05:00:01.428893
+INFO:root:Started processing listings.2018-10-05 17:00:01.124491
+INFO:root:Null make listings: 200
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 611
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 215
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-05 17:00:01.470503
+INFO:root:Started processing listings.2018-10-06 05:00:00.293486
+INFO:root:Null make listings: 197
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 608
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 213
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-10-06 05:00:00.533460
+INFO:root:Started processing listings.2018-10-06 17:00:01.183813
+INFO:root:Null make listings: 201
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 611
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 217
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-10-06 17:00:02.837808
+INFO:root:Started processing listings.2018-10-07 05:00:00.373740
+INFO:root:Null make listings: 208
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 618
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 224
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-10-07 05:00:00.746753
+INFO:root:Started processing listings.2018-10-07 17:00:00.248239
+INFO:root:Null make listings: 208
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 617
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 224
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-10-07 17:00:01.619211
+INFO:root:Started processing listings.2018-10-08 05:00:00.504052
+INFO:root:Null make listings: 204
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 614
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 220
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-08 05:00:00.758061
+INFO:root:Started processing listings.2018-10-08 17:00:00.250345
+INFO:root:Null make listings: 210
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 619
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 223
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-10-08 17:00:01.650324
+INFO:root:Started processing listings.2018-10-09 05:00:00.516103
+INFO:root:Null make listings: 210
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 618
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 222
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-10-09 05:00:00.850113
+INFO:root:Started processing listings.2018-10-09 17:00:00.312397
+INFO:root:Null make listings: 204
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 613
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 215
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-10-09 17:00:01.567369
+INFO:root:Started processing listings.2018-10-10 05:00:00.556157
+INFO:root:Null make listings: 200
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 609
+INFO:root:Null model listings filled in: 0
+INFO:root:Null year listings: 211
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-10-10 05:00:00.658157
+INFO:root:Started processing listings.2018-10-10 17:00:00.371776
+INFO:root:Null make listings: 219
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 626
+INFO:root:Null model listings filled in: 17
+INFO:root:Null year listings: 230
+INFO:root:Null model listings filled in: 19
+INFO:root:Finished processing listings.2018-10-10 17:00:01.855802
+INFO:root:Started processing listings.2018-10-11 05:00:00.596544
+INFO:root:Null make listings: 212
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 619
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 221
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-11 05:00:00.885857
+INFO:root:Started processing listings.2018-10-11 17:00:00.465422
+INFO:root:Null make listings: 212
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 620
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 222
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-10-11 17:00:02.068449
+INFO:root:Started processing listings.2018-10-12 05:00:00.630859
+INFO:root:Null make listings: 207
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 616
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 217
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-10-12 05:00:00.890834
+INFO:root:Started processing listings.2018-10-12 17:00:00.501054
+INFO:root:Null make listings: 212
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 620
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 222
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-12 17:00:01.895023
+INFO:root:Started processing listings.2018-10-13 05:00:00.679143
+INFO:root:Null make listings: 212
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 622
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 222
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-10-13 05:00:00.965152
+INFO:root:Started processing listings.2018-10-13 17:00:00.560535
+INFO:root:Null make listings: 224
+INFO:root:Null make listings filled in: 21
+INFO:root:Null model listings: 635
+INFO:root:Null model listings filled in: 21
+INFO:root:Null year listings: 235
+INFO:root:Null model listings filled in: 20
+INFO:root:Finished processing listings.2018-10-13 17:00:02.480541
+INFO:root:Started processing listings.2018-10-14 05:00:00.800563
+INFO:root:Null make listings: 211
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 622
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 223
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-10-14 05:00:01.097571
+INFO:root:Started processing listings.2018-10-14 17:00:00.626838
+INFO:root:Null make listings: 215
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 626
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 228
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-10-14 17:00:02.089821
+INFO:root:Started processing listings.2018-10-15 05:00:00.831366
+INFO:root:Null make listings: 209
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 621
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 221
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-10-15 05:00:01.068373
+INFO:root:Started processing listings.2018-10-15 17:00:00.682893
+INFO:root:Null make listings: 216
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 628
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 228
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-10-15 17:00:02.147909
+INFO:root:Started processing listings.2018-10-16 05:00:00.836321
+INFO:root:Null make listings: 216
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 628
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 228
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-10-16 05:00:01.191301
+INFO:root:Started processing listings.2018-10-16 17:00:00.706073
+INFO:root:Null make listings: 218
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 629
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 231
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-10-16 17:00:02.018051
+INFO:root:Started processing listings.2018-10-17 05:00:00.867303
+INFO:root:Null make listings: 208
+INFO:root:Null make listings filled in: 2
+INFO:root:Null model listings: 621
+INFO:root:Null model listings filled in: 2
+INFO:root:Null year listings: 219
+INFO:root:Null model listings filled in: 1
+INFO:root:Finished processing listings.2018-10-17 05:00:01.097329
+INFO:root:Started processing listings.2018-10-17 17:00:00.759703
+INFO:root:Null make listings: 220
+INFO:root:Null make listings filled in: 14
+INFO:root:Null model listings: 633
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 232
+INFO:root:Null model listings filled in: 14
+INFO:root:Finished processing listings.2018-10-17 17:00:02.054711
+INFO:root:Started processing listings.2018-10-18 05:00:00.893849
+INFO:root:Null make listings: 209
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 622
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 221
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-10-18 05:00:01.114857
+INFO:root:Started processing listings.2018-10-18 17:00:00.818502
+INFO:root:Null make listings: 223
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 634
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 235
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-10-18 17:00:02.203480
+INFO:root:Started processing listings.2018-10-19 05:00:01.000359
+INFO:root:Null make listings: 217
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 629
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 227
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-19 05:00:01.268354
+INFO:root:Started processing listings.2018-10-19 17:00:00.875562
+INFO:root:Null make listings: 215
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 628
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 225
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-10-19 17:00:01.178538
+INFO:root:Started processing listings.2018-10-20 05:00:01.098827
+INFO:root:Null make listings: 218
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 631
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 227
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-20 05:00:01.419811
+INFO:root:Started processing listings.2018-10-20 17:00:00.935922
+INFO:root:Null make listings: 217
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 630
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 225
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-10-20 17:00:02.262935
+INFO:root:Started processing listings.2018-10-21 05:00:01.231082
+INFO:root:Null make listings: 219
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 634
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 227
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-21 05:00:01.532076
+INFO:root:Started processing listings.2018-10-21 17:00:01.004638
+INFO:root:Null make listings: 217
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 632
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 225
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-21 17:00:02.285652
+INFO:root:Started processing listings.2018-10-22 05:00:00.423342
+INFO:root:Null make listings: 216
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 631
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 225
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-22 05:00:00.654355
+INFO:root:Started processing listings.2018-10-22 17:00:01.035892
+INFO:root:Null make listings: 221
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 636
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 230
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-10-22 17:00:02.381874
+INFO:root:Started processing listings.2018-10-23 05:00:00.432483
+INFO:root:Null make listings: 216
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 631
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 226
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-23 05:00:00.671489
+INFO:root:Started processing listings.2018-10-23 17:00:01.064072
+INFO:root:Null make listings: 220
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 636
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 230
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-10-23 17:00:02.461040
+INFO:root:Started processing listings.2018-10-24 05:00:00.446831
+INFO:root:Null make listings: 218
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 634
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 227
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-24 05:00:00.701806
+INFO:root:Started processing listings.2018-10-24 17:00:01.125241
+INFO:root:Null make listings: 212
+INFO:root:Null make listings filled in: 1
+INFO:root:Null model listings: 631
+INFO:root:Null model listings filled in: 1
+INFO:root:Null year listings: 222
+INFO:root:Null model listings filled in: 1
+INFO:root:Finished processing listings.2018-10-24 17:00:01.349245
+INFO:root:Started processing listings.2018-10-25 05:00:00.498694
+INFO:root:Null make listings: 221
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 640
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 231
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-10-25 05:00:00.829724
+INFO:root:Started processing listings.2018-10-25 17:00:01.185464
+INFO:root:Null make listings: 237
+INFO:root:Null make listings filled in: 22
+INFO:root:Null model listings: 652
+INFO:root:Null model listings filled in: 21
+INFO:root:Null year listings: 247
+INFO:root:Null model listings filled in: 24
+INFO:root:Finished processing listings.2018-10-25 17:00:02.789449
+INFO:root:Started processing listings.2018-10-26 05:00:00.506928
+INFO:root:Null make listings: 223
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 639
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 231
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-10-26 05:00:00.788921
+INFO:root:Started processing listings.2018-10-26 17:00:00.306756
+INFO:root:Null make listings: 224
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 642
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 233
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-10-26 17:00:01.618754
+INFO:root:Started processing listings.2018-10-27 05:00:00.579343
+INFO:root:Null make listings: 224
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 645
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 233
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-10-27 05:00:00.879338
+INFO:root:Started processing listings.2018-10-27 17:00:00.259295
+INFO:root:Null make listings: 221
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 642
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 231
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-10-27 17:00:01.526305
+INFO:root:Started processing listings.2018-10-28 05:00:00.582492
+INFO:root:Null make listings: 220
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 641
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 230
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-10-28 05:00:00.826452
+INFO:root:Started processing listings.2018-10-28 17:00:00.319388
+INFO:root:Null make listings: 232
+INFO:root:Null make listings filled in: 16
+INFO:root:Null model listings: 653
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 242
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-10-28 17:00:01.710399
+INFO:root:Started processing listings.2018-10-29 05:00:00.608779
+INFO:root:Null make listings: 223
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 645
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 233
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-10-29 05:00:00.901784
+INFO:root:Started processing listings.2018-10-29 17:00:00.375376
+INFO:root:Null make listings: 228
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 649
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 238
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-10-29 17:00:01.609340
+INFO:root:Started processing listings.2018-10-30 05:00:00.669162
+INFO:root:Null make listings: 221
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 644
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 232
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-10-30 05:00:00.872168
+INFO:root:Started processing listings.2018-10-30 17:00:00.378359
+INFO:root:Started processing listings.2018-10-31 05:00:00.713420
+INFO:root:Null make listings: 235
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 658
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 246
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-10-31 05:00:01.133370
+INFO:root:Started processing listings.2018-10-31 17:00:00.439554
+INFO:root:Null make listings: 236
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 661
+INFO:root:Null model listings filled in: 17
+INFO:root:Null year listings: 247
+INFO:root:Null model listings filled in: 18
+INFO:root:Finished processing listings.2018-10-31 17:00:02.035574
+INFO:root:Started processing listings.2018-11-01 05:00:00.750751
+INFO:root:Null make listings: 229
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 654
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 239
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-01 05:00:01.067755
+INFO:root:Started processing listings.2018-11-01 17:00:00.523508
+INFO:root:Null make listings: 242
+INFO:root:Null make listings filled in: 23
+INFO:root:Null model listings: 668
+INFO:root:Null model listings filled in: 19
+INFO:root:Null year listings: 253
+INFO:root:Null model listings filled in: 22
+INFO:root:Finished processing listings.2018-11-01 17:00:02.125453
+INFO:root:Started processing listings.2018-11-02 05:00:00.749090
+INFO:root:Null make listings: 229
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 659
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 241
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-02 05:00:01.047079
+INFO:root:Started processing listings.2018-11-02 17:00:00.550637
+INFO:root:Null make listings: 229
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 661
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 242
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-02 17:00:01.811607
+INFO:root:Started processing listings.2018-11-03 05:00:00.750856
+INFO:root:Null make listings: 224
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 658
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 238
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-11-03 05:00:00.988865
+INFO:root:Started processing listings.2018-11-03 17:00:00.599138
+INFO:root:Null make listings: 226
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 660
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 240
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-11-03 17:00:01.846133
+INFO:root:Started processing listings.2018-11-04 05:00:00.870706
+INFO:root:Null make listings: 230
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 663
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-11-04 05:00:01.221697
+INFO:root:Started processing listings.2018-11-04 17:00:00.643317
+INFO:root:Null make listings: 231
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 664
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-11-04 17:00:01.967327
+INFO:root:Started processing listings.2018-11-05 05:00:00.909581
+INFO:root:Null make listings: 230
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 663
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 244
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-11-05 05:00:01.228584
+INFO:root:Started processing listings.2018-11-05 17:00:00.709228
+INFO:root:Null make listings: 234
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 664
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 247
+INFO:root:Null model listings filled in: 13
+INFO:root:Finished processing listings.2018-11-05 17:00:02.059206
+INFO:root:Started processing listings.2018-11-06 05:00:01.016699
+INFO:root:Null make listings: 227
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 657
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 237
+INFO:root:Null model listings filled in: 2
+INFO:root:Finished processing listings.2018-11-06 05:00:01.304672
+INFO:root:Started processing listings.2018-11-06 17:00:00.748988
+INFO:root:Null make listings: 246
+INFO:root:Null make listings filled in: 20
+INFO:root:Null model listings: 674
+INFO:root:Null model listings filled in: 20
+INFO:root:Null year listings: 257
+INFO:root:Null model listings filled in: 20
+INFO:root:Finished processing listings.2018-11-06 17:00:01.316012
+INFO:root:Started processing listings.2018-11-07 05:00:01.050601
+INFO:root:Null make listings: 234
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 662
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-11-07 05:00:01.328601
+INFO:root:Started processing listings.2018-11-07 17:00:00.750741
+INFO:root:Null make listings: 236
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 665
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 247
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-11-07 17:00:01.119732
+INFO:root:Started processing listings.2018-11-08 05:00:01.099824
+INFO:root:Null make listings: 234
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 664
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 247
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-11-08 05:00:01.390831
+INFO:root:Started processing listings.2018-11-08 17:00:00.811389
+INFO:root:Null make listings: 236
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 666
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 248
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-08 17:00:01.122367
+INFO:root:Started processing listings.2018-11-09 05:00:01.118137
+INFO:root:Null make listings: 233
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 667
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-11-09 05:00:01.376110
+INFO:root:Started processing listings.2018-11-09 17:00:00.868814
+INFO:root:Null make listings: 236
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 670
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 248
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-09 17:00:01.189807
+INFO:root:Started processing listings.2018-11-10 05:00:01.186920
+INFO:root:Null make listings: 228
+INFO:root:Null make listings filled in: 1
+INFO:root:Null model listings: 663
+INFO:root:Null model listings filled in: 0
+INFO:root:Null year listings: 240
+INFO:root:Null model listings filled in: 1
+INFO:root:Finished processing listings.2018-11-10 05:00:01.386925
+INFO:root:Started processing listings.2018-11-10 17:00:00.937112
+INFO:root:Null make listings: 239
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 673
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 251
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-11-10 17:00:01.303075
+INFO:root:Started processing listings.2018-11-11 05:00:00.193396
+INFO:root:Null make listings: 234
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 669
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 244
+INFO:root:Null model listings filled in: 4
+INFO:root:Finished processing listings.2018-11-11 05:00:00.457354
+INFO:root:Started processing listings.2018-11-11 17:00:00.991195
+INFO:root:Null make listings: 238
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 671
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 249
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-11 17:00:01.314170
+INFO:root:Started processing listings.2018-11-12 05:00:00.231309
+INFO:root:Null make listings: 247
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 679
+INFO:root:Null model listings filled in: 13
+INFO:root:Null year listings: 256
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-11-12 05:00:00.654325
+INFO:root:Started processing listings.2018-11-12 17:00:01.046285
+INFO:root:Null make listings: 238
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 672
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 246
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-11-12 17:00:01.310289
+INFO:root:Started processing listings.2018-11-13 05:00:00.241565
+INFO:root:Null make listings: 237
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 671
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-11-13 05:00:00.490572
+INFO:root:Started processing listings.2018-11-13 17:00:01.109455
+INFO:root:Null make listings: 241
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 677
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 249
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-13 17:00:01.428455
+INFO:root:Started processing listings.2018-11-14 05:00:00.299891
+INFO:root:Null make listings: 237
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 673
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-11-14 05:00:00.540843
+INFO:root:Started processing listings.2018-11-14 17:00:00.174135
+INFO:root:Null make listings: 235
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 671
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 243
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-11-14 17:00:00.386126
+INFO:root:Started processing listings.2018-11-15 05:00:00.307384
+INFO:root:Null make listings: 237
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 673
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-11-15 05:00:00.578371
+INFO:root:Started processing listings.2018-11-15 17:00:00.229603
+INFO:root:Null make listings: 241
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 677
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 249
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-15 17:00:00.546616
+INFO:root:Started processing listings.2018-11-16 05:00:00.370064
+INFO:root:Null make listings: 244
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 682
+INFO:root:Null model listings filled in: 9
+INFO:root:Null year listings: 252
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-11-16 05:00:00.730077
+INFO:root:Started processing listings.2018-11-16 17:00:00.275130
+INFO:root:Null make listings: 249
+INFO:root:Null make listings filled in: 17
+INFO:root:Null model listings: 690
+INFO:root:Null model listings filled in: 15
+INFO:root:Null year listings: 257
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-11-16 17:00:00.765114
+INFO:root:Started processing listings.2018-11-17 05:00:00.378352
+INFO:root:Null make listings: 240
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 683
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 249
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-11-17 05:00:00.675339
+INFO:root:Started processing listings.2018-11-17 17:00:00.335670
+INFO:root:Null make listings: 244
+INFO:root:Null make listings filled in: 11
+INFO:root:Null model listings: 689
+INFO:root:Null model listings filled in: 11
+INFO:root:Null year listings: 253
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-11-17 17:00:00.722685
+INFO:root:Started processing listings.2018-11-18 05:00:00.430389
+INFO:root:Null make listings: 237
+INFO:root:Null make listings filled in: 4
+INFO:root:Null model listings: 682
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-11-18 05:00:00.650365
+INFO:root:Started processing listings.2018-11-18 17:00:00.397210
+INFO:root:Null make listings: 241
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 686
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 250
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-11-18 17:00:00.748196
+INFO:root:Started processing listings.2018-11-19 05:00:00.473569
+INFO:root:Null make listings: 236
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 681
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 246
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-11-19 05:00:00.692579
+INFO:root:Started processing listings.2018-11-19 17:00:00.406990
+INFO:root:Null make listings: 238
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 683
+INFO:root:Null model listings filled in: 4
+INFO:root:Null year listings: 248
+INFO:root:Null model listings filled in: 5
+INFO:root:Finished processing listings.2018-11-19 17:00:00.713959
+INFO:root:Started processing listings.2018-11-20 05:00:00.488183
+INFO:root:Null make listings: 240
+INFO:root:Null make listings filled in: 7
+INFO:root:Null model listings: 686
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 250
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-11-20 05:00:00.777160
+INFO:root:Started processing listings.2018-11-20 17:00:00.469660
+INFO:root:Null make listings: 246
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 691
+INFO:root:Null model listings filled in: 12
+INFO:root:Null year listings: 256
+INFO:root:Null model listings filled in: 11
+INFO:root:Finished processing listings.2018-11-20 17:00:00.863693
+INFO:root:Started processing listings.2018-11-21 05:00:00.500749
+INFO:root:Null make listings: 242
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 687
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 253
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-11-21 05:00:00.827738
+INFO:root:Started processing listings.2018-11-21 17:00:00.484056
+INFO:root:Null make listings: 234
+INFO:root:Null make listings filled in: 0
+INFO:root:Null model listings: 679
+INFO:root:Null model listings filled in: 0
+INFO:root:Null year listings: 245
+INFO:root:Null model listings filled in: 0
+INFO:root:Finished processing listings.2018-11-21 17:00:00.622061
+INFO:root:Started processing listings.2018-11-22 05:00:00.521468
+INFO:root:Null make listings: 246
+INFO:root:Null make listings filled in: 12
+INFO:root:Null model listings: 691
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 257
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-11-22 05:00:00.910481
+INFO:root:Started processing listings.2018-11-22 17:00:00.540416
+INFO:root:Null make listings: 247
+INFO:root:Null make listings filled in: 13
+INFO:root:Null model listings: 694
+INFO:root:Null model listings filled in: 13
+INFO:root:Null year listings: 258
+INFO:root:Null model listings filled in: 12
+INFO:root:Finished processing listings.2018-11-22 17:00:00.999424
+INFO:root:Started processing listings.2018-11-23 05:00:00.606515
+INFO:root:Null make listings: 242
+INFO:root:Null make listings filled in: 8
+INFO:root:Null model listings: 689
+INFO:root:Null model listings filled in: 8
+INFO:root:Null year listings: 254
+INFO:root:Null model listings filled in: 8
+INFO:root:Finished processing listings.2018-11-23 05:00:00.902466
+INFO:root:Started processing listings.2018-11-23 17:00:00.605780
+INFO:root:Null make listings: 250
+INFO:root:Null make listings filled in: 15
+INFO:root:Null model listings: 696
+INFO:root:Null model listings filled in: 14
+INFO:root:Null year listings: 262
+INFO:root:Null model listings filled in: 16
+INFO:root:Finished processing listings.2018-11-23 17:00:01.097742
+INFO:root:Started processing listings.2018-11-24 05:00:00.612559
+INFO:root:Null make listings: 241
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 688
+INFO:root:Null model listings filled in: 6
+INFO:root:Null year listings: 252
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-11-24 05:00:00.895518
+INFO:root:Started processing listings.2018-11-24 17:00:00.664494
+INFO:root:Null make listings: 246
+INFO:root:Null make listings filled in: 10
+INFO:root:Null model listings: 692
+INFO:root:Null model listings filled in: 10
+INFO:root:Null year listings: 257
+INFO:root:Null model listings filled in: 10
+INFO:root:Finished processing listings.2018-11-24 17:00:01.066489
+INFO:root:Started processing listings.2018-11-25 05:00:00.644936
+INFO:root:Null make listings: 242
+INFO:root:Null make listings filled in: 6
+INFO:root:Null model listings: 688
+INFO:root:Null model listings filled in: 5
+INFO:root:Null year listings: 253
+INFO:root:Null model listings filled in: 6
+INFO:root:Finished processing listings.2018-11-25 05:00:00.935942
+INFO:root:Started processing listings.2018-11-25 17:00:00.725365
+INFO:root:Null make listings: 238
+INFO:root:Null make listings filled in: 2
+INFO:root:Null model listings: 685
+INFO:root:Null model listings filled in: 2
+INFO:root:Null year listings: 249
+INFO:root:Null model listings filled in: 2
+INFO:root:Finished processing listings.2018-11-25 17:00:00.967371
+INFO:root:Started processing listings.2018-11-26 05:00:00.716036
+INFO:root:Null make listings: 244
+INFO:root:Null make listings filled in: 5
+INFO:root:Null model listings: 688
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 255
+INFO:root:Null model listings filled in: 7
+INFO:root:Finished processing listings.2018-11-26 05:00:00.986044
+INFO:root:Started processing listings.2018-11-26 17:00:00.751097
+INFO:root:Null make listings: 248
+INFO:root:Null make listings filled in: 9
+INFO:root:Null model listings: 694
+INFO:root:Null model listings filled in: 7
+INFO:root:Null year listings: 257
+INFO:root:Null model listings filled in: 9
+INFO:root:Finished processing listings.2018-11-26 17:00:01.143059
+INFO:root:Started processing listings.2018-11-27 05:00:00.724031
+INFO:root:Null make listings: 242
+INFO:root:Null make listings filled in: 3
+INFO:root:Null model listings: 690
+INFO:root:Null model listings filled in: 3
+INFO:root:Null year listings: 251
+INFO:root:Null model listings filled in: 3
+INFO:root:Finished processing listings.2018-11-27 05:00:00.937059
+INFO:root:Started processing listings.2018-11-27 17:00:00.808530
+INFO:root:Null make listings: 257
+INFO:root:Null make listings filled in: 18
+INFO:root:Null model listings: 705
+INFO:root:Null model listings filled in: 17
+INFO:root:Null year listings: 266
+INFO:root:Null model listings filled in: 17
+INFO:root:Finished processing listings.2018-11-27 17:00:01.341582
