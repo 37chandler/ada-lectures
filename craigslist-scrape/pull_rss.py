@@ -28,7 +28,8 @@ params = {'format':'rss',
           's':1}
 max_pulls = 30 # max per city
 
-logging.basicConfig(filename="".join([working_dir,"logs\\","rss_pulls.log"]), level=logging.INFO)
+logging.basicConfig(filename="".join([working_dir,"logs\\","rss_pulls.log"]), 
+                    level=logging.INFO)
 
 logging.info("Starting the RSS pull script: " + str(datetime.datetime.now()))
 
@@ -54,7 +55,8 @@ with sqlite3.connect(working_dir + db_name) as con :
         # Wait between 1 and 5 minutes to add some randomness.
         time.sleep(random.uniform(1*60,5*60))
 
-      logging.info("Done waiting. Starting " + city + ": " + str(datetime.datetime.now()))
+      logging.info("Done waiting. Starting " + city + ": " + 
+                   str(datetime.datetime.now()))
 
       city_entries = 0 # items for the city
       city_pulls = 0
